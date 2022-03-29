@@ -1,0 +1,102 @@
+1 [CMR:349] Command Beacon
+1 [4ED:363] Strip Mine
+1 [USG:322] Phyrexian Tower
+1 [ZEN:229] Verdant Catacombs
+1 [FUT:169] Dakmor Salvage
+1 [ZEN:220] Misty Rainforest
+1 [ICE:353] Glacial Chasm
+1 [M21:246] Fabled Passage
+1 [M20:249] Lotus Field
+1 [ISD:240] Ghost Quarter
+1 [MMQ:320] High Market
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [AFR:256] Evolving Wilds
+1 [KTK:239] Polluted Delta
+1 [GRN:253] Overgrown Tomb
+1 [TOR:139] Cabal Coffers
+1 [ONS:312] Barren Moor
+1 [TMP:330] Wasteland
+1 [ONS:320] Lonely Sandbar
+1 [M20:247] Field of the Dead
+1 [ONS:326] Tranquil Thicket
+1 [MH2:259] Urza's Saga
+1 [GRN:259] Watery Grave
+1 [M11:229] Terramorphic Expanse
+1 [IKO:259] Zagoth Triome
+1 [ELD:331] Arcane Signet
+1 [NPH:103] Beast Within
+1 [M12:190] Rampant Growth
+1 [RAV:260] Dimir Signet
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [GRN:152] Assassin's Trophy
+1 [CHK:239] Sakura-Tribe Elder
+1 [M19:314] Llanowar Elves
+1 [M12:165] Birds of Paradise
+1 [MRD:253] Talisman of Dominance
+1 [RNA:178] Growth Spiral
+1 [DIS:166] Simic Signet
+1 [M15:173] Elvish Mystic
+1 [DGM:93] Putrefy
+1 [M19:196] Reclamation Sage
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [5ED:329] Sylvan Library
+1 [M21:239] Solemn Simulacrum
+1 [AFC:203] Commander's Sphere
+1 [WWK:108] Nature's Claim
+1 [2XM:110] Toxic Deluge
+1 [M11:70] Preordain
+1 [TSP:202] Krosan Grip
+1 [RTR:141] Abrupt Decay
+1 [PCY:126] Spore Frog
+1 [PLC:153] Seal of Primordium
+1 [THB:314] Gravebreaker Lamia
+1 [WAR:94] Kaya's Ghostform
+1 [APC:114] Pernicious Deed
+1 [GRN:82] Plaguecrafter
+1 [DKA:48] Secrets of the Dead
+1 [5ED:140] Animate Dead
+1 [ORI:170] Caustic Caterpillar
+1 [RIX:151] World Shaper
+1 [WAR:228*] Ashiok, Dream Render
+1 [SOI:245] The Gitrog Monster
+1 [EVE:22] Glen Elendra Archmage
+1 [LRW:76] Mulldrifter
+1 [XLN:79] Siren Stormtamer
+1 [GRN:211] Underrealm Lich
+1 [TMP:276] Altar of Dementia
+1 [SHM:49] River Kelpie
+1 [M15:198] Satyr Wayfinder
+1 [KLD:227] Perpetual Timepiece
+1 [KTK:199] Sidisi, Brood Tyrant
+1 [LRW:139] Shriekmaw
+1 [ORI:98] Fleshbag Marauder
+1 [5ED:391] Nevinyrral's Disk
+1 [5DN:86] Eternal Witness
+1 [NEM:42] Seal of Removal
+1 [WAR:220*] Tamiyo, Collector of Tales
+1 [DOM:90] The Eldest Reborn
+1 [DTK:120] Sidisi, Undead Vizier
+1 [DIS:53] Seal of Doom
+1 [RIX:82] Ravenous Chupacabra
+1 [M19:121] Stitcher's Supplier
+1 [6ED:274] Ashnod's Altar
+1 [5DN:165] Wayfarer's Bauble
+1 [RAV:172] Life from the Loam
+1 [TMP:294] Lotus Petal
+1 [JMP:75] Forest
+1 [DDS:64] Forest
+1 [MMQ:349] Forest
+1 [BBD:251] Island
+1 [PF20:3] Island
+1 [XLN:265] Island
+1 [MMQ:340] Swamp
+1 [CMD:308] Swamp
+1 [KHM:396] Swamp
+1 [KHM:280] Snow-Covered Swamp
+1 [GN2:63] Forest
+SB: 1 [CMR:528] Muldrotha, the Gravetide
+LAYOUT MAIN:(1,6)(CMC,false,0)|([CMR:349],[4ED:363],[USG:322],[ZEN:229],[FUT:169],[ZEN:220],[ICE:353],[M21:246],[M20:249],[ISD:240],[MMQ:320],[M15:248],[AFR:256],[KTK:239],[GRN:253],[TOR:139],[ONS:312],[TMP:330],[ONS:320],[M20:247],[ONS:326],[MH2:259],[GRN:259],[M11:229],[IKO:259],[TMP:294],[JMP:75],[DDS:64],[MMQ:349],[BBD:251],[PF20:3],[XLN:265],[MMQ:340],[CMD:308],[KHM:396],[KHM:280],[GN2:63])([MMQ:61],[M19:314],[M12:165],[M15:173],[ICE:87],[WWK:108],[M11:70],[PCY:126],[WAR:94],[ORI:170],[XLN:79],[NEM:42],[M19:121],[5DN:165])([ELD:331],[M12:190],[RAV:260],[GRN:152],[CHK:239],[MRD:253],[RNA:178],[DIS:166],[ALL:22a],[10E:335],[5ED:329],[RTR:141],[PLC:153],[5ED:140],[TMP:276],[M15:198],[KLD:227],[RAV:172])([NPH:103],[PCY:45],[DGM:93],[M19:196],[AFC:203],[2XM:110],[TSP:202],[APC:114],[GRN:82],[DKA:48],[WAR:228*],[ORI:98],[5DN:86],[DIS:53],[6ED:274])([M21:239],[RIX:151],[EVE:22],[KTK:199],[5ED:391],[WAR:220*],[RIX:82])([THB:314],[SOI:245],[LRW:76],[GRN:211],[SHM:49],[LRW:139],[DOM:90],[DTK:120])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:528])

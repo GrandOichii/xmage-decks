@@ -1,0 +1,102 @@
+1 [ONS:322] Riptide Laboratory
+1 [M19:254] Reliquary Tower
+1 [WAR:248] Karn's Bastion
+1 [ELD:247] Mystic Sanctuary
+1 [CMR:349] Command Beacon
+1 [CHK:273] Boseiju, Who Shelters All
+1 [LRW:274] Spinerock Knoll
+1 [GRN:257] Steam Vents
+1 [EVE:175] Cascade Bluffs
+1 [ELD:333] Command Tower
+1 [DOM:247] Sulfur Falls
+1 [ZEN:223] Scalding Tarn
+1 [CM2:233] Arcane Lighthouse
+1 [GPT:159] Izzet Boilerworks
+1 [LRW:275] Vivid Crag
+1 [LRW:276] Vivid Creek
+1 [WWK:137] Halimar Depths
+1 [KLD:249] Spirebluff Canal
+1 [AFR:256] Evolving Wilds
+1 [SHM:278*] Reflecting Pool
+1 [ORI:251] Shivan Reef
+1 [SCG:143] Temple of the False God
+1 [M11:229] Terramorphic Expanse
+1 [ZEN:211] Arid Mesa
+1 [M21:252] Temple of Epiphany
+1 [SUM:291] Volcanic Island
+1 [ELD:331] Arcane Signet
+1 [GPT:152] Izzet Signet
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [H1R:34] Talisman of Creativity
+1 [ISD:130] Blasphemous Act
+1 [C19:24] Dockside Extortionist
+1 [DKA:87] Faithless Looting
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [AFR:164] Unexpected Windfall
+1 [M21:239] Solemn Simulacrum
+1 [RTR:111] Vandalblast
+1 [AFC:203] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [M11:70] Preordain
+1 [NPH:47] Tezzeret's Gambit
+1 [TSP:175] Reiterate
+1 [DKA:42] Mystic Retrieval
+1 [RTR:162] Firemind's Foresight
+1 [WWK:76] Comet Storm
+1 [STA:106] Mizzix's Mastery
+1 [ISD:155] Past in Flames
+1 [USG:100] Stroke of Genius
+1 [WAR:52] Flux Channeler
+1 [TMP:55] Capsize
+1 [9ED:216] Seething Song
+1 [MBS:20] Blue Sun's Zenith
+1 [TSR:312] Mystic Confluence
+1 [BFZ:13] Scour from Existence
+1 [WAR:51] Finale of Revelation
+1 [USG:105] Turnabout
+1 [RNA:99] Electrodominance
+1 [STX:54] Solve the Equation
+1 [KTK:36] Dig Through Time
+1 [INV:57] Fact or Fiction
+1 [M21:63] Rewind
+1 [GRN:207] Thousand-Year Storm
+1 [RTR:159] Epic Experiment
+1 [ULG:32] Frantic Search
+1 [TSP:79] Spell Burst
+1 [8ED:91] Merchant Scroll
+1 [AKH:65] Pull from Tomorrow
+1 [5DN:75] Mana Geyser
+1 [GRN:174] Goblin Electromancer
+1 [M19:145] Guttersnipe
+1 [WAR:46] Contentious Plan
+1 [MBS:25] Fuel for the Cause
+1 [6ED:83] Mystical Tutor
+1 [KTK:59] Treasure Cruise
+1 [ROE:81] Reality Spasm
+1 [DGM:84] Melek, Izzet Paragon
+1 [DKA:95] Increasing Vengeance
+1 [KTK:189] Mindswipe
+1 [SOM:45] Steady Progress
+1 [GTC:29] Aetherize
+1 [DOM:133] Jaya's Immolating Inferno
+1 [CMR:346] Thought Vessel
+1 [RTR:35] Cyclonic Rift
+1 [SWS:256d] Island
+1 [ONS:338] Island
+1 [PAL04:2] Island
+1 [AKR:311] Island
+1 [BFZ:256a] Island
+1 [DPA:98] Island
+1 [S99:160] Island
+1 [PRM:40100] Island
+1 [KTK:265] Mountain
+1 [M14:244] Mountain
+1 [ROE:242] Mountain
+1 [WC97:pm443] Mountain
+1 [PRW2:B07] Mountain
+SB: 1 [PZ1:116] Mizzix of the Izmagnus
+LAYOUT MAIN:(1,10)(CMC,false,0)|([ONS:322],[M19:254],[WAR:248],[ELD:247],[CMR:349],[CHK:273],[LRW:274],[GRN:257],[EVE:175],[ELD:333],[DOM:247],[ZEN:223],[CM2:233],[GPT:159],[LRW:275],[LRW:276],[WWK:137],[KLD:249],[AFR:256],[SHM:278*],[ORI:251],[SCG:143],[M11:229],[ZEN:211],[M21:252],[SUM:291],[SWS:256d],[ONS:338],[PAL04:2],[AKR:311],[BFZ:256a],[DPA:98],[S99:160],[PRM:40100],[KTK:265],[M14:244],[ROE:242],[WC97:pm443],[PRW2:B07])([MMQ:61],[DKA:87],[ICE:87],[RTR:111],[M11:70],[TSP:79],[6ED:83])([ELD:331],[GPT:152],[H1R:34],[C19:24],[ALL:22a],[10E:335],[9ED:297],[WWK:76],[WAR:51],[RNA:99],[RTR:159],[8ED:91],[AKH:65],[GRN:174],[WAR:46],[ROE:81],[DKA:95],[KTK:189],[DOM:133],[CMR:346],[RTR:35])([PCY:45],[AFC:203],[TSP:175],[USG:100],[WAR:52],[TMP:55],[9ED:216],[MBS:20],[STX:54],[ULG:32],[M19:145],[SOM:45])([AFR:164],[M21:239],[NPH:47],[DKA:42],[STA:106],[ISD:155],[USG:105],[INV:57],[M21:63],[MBS:25],[GTC:29])([TSR:312],[5DN:75])([GRN:207],[DGM:84])([RTR:162],[BFZ:13])([KTK:36],[KTK:59])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([PZ1:116])

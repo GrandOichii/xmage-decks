@@ -1,0 +1,101 @@
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ELD:242] Castle Vantress
+1 [M19:254] Reliquary Tower
+1 [C21:304] Myriad Landscape
+1 [CM2:233] Arcane Lighthouse
+1 [ONS:322] Riptide Laboratory
+1 [HOU:182] Scavenger Grounds
+1 [ELD:247] Mystic Sanctuary
+1 [M19:249] Detection Tower
+1 [ONS:320] Lonely Sandbar
+1 [HOU:173] Desert of the Mindful
+1 [CMR:361] War Room
+1 [USG:324] Remote Isle
+1 [RIX:185] Arch of Orazca
+1 [THB:242] Field of Ruin
+1 [WWK:137] Halimar Depths
+1 [ISD:240] Ghost Quarter
+1 [VIS:160] Coral Atoll
+1 [AFR:257] Hall of Storm Giants
+1 [DOM:243] Memorial to Genius
+1 [NEM:143] Terrain Generator
+1 [SCG:143] Temple of the False God
+1 [WAR:245] Emergence Zone
+1 [ZEN:223] Scalding Tarn
+1 [4ED:363] Strip Mine
+1 [KTK:239] Polluted Delta
+1 [CHK:279] Minamo, School at Water's Edge
+1 [ELD:331] Arcane Signet
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [M21:239] Solemn Simulacrum
+1 [AFC:203] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [M11:70] Preordain
+1 [KLD:226] Panharmonicon
+1 [M20:43] Agent of Treachery
+1 [MH1:76] Watcher for Tomorrow
+1 [LRW:76] Mulldrifter
+1 [M14:43] Archaeomancer
+1 [USG:88] Peregrine Drake
+1 [AVR:57] Ghostly Flicker
+1 [AVR:214] Conjurer's Closet
+1 [ROE:85] Sea Gate Oracle
+1 [WAR:50] Fblthp, the Lost
+1 [M20:54] Cloudkin Seer
+1 [JOU:51] Scourge of Fleets
+1 [LRW:88] Sower of Temptation
+1 [EMN:55] Displace
+1 [M21:348] Barrin, Tolarian Archmage
+1 [THS:53] Master of Waves
+1 [FUT:46] Venser, Shaper Savant
+1 [M20:232] Meteor Golem
+1 [AVR:47] Deadeye Navigator
+1 [DOM:58] Naban, Dean of Iteration
+1 [GTC:33] Diluvian Primordial
+1 [M14:224] Strionic Resonator
+1 [THB:308] Thassa's Oracle
+1 [M19:55] Exclusion Mage
+1 [MRD:165] Duplicant
+1 [M20:52] Cavalier of Gales
+1 [M21:71] Shipwreck Dowser
+1 [AER:36] Illusionist's Stratagem
+1 [VIS:37] Man-o'-War
+1 [M19:70] Salvager of Secrets
+1 [M12:41] Aether Adept
+1 [THB:235] Nyx Lotus
+1 [ORI:84] Willbreaker
+1 [WAR:68] Spark Double
+1 [CMR:55] Amphin Mutineer
+1 [THS:55] Mnemonic Wall
+1 [MH2:392] Step Through
+1 [EVE:22] Glen Elendra Archmage
+1 [KTK:34] Clever Impersonator
+1 [LRW:64] Familiar's Ruse
+1 [ELD:60] Overwhelmed Apprentice
+1 [RIX:48] Riverwise Augur
+1 [M10:75] Time Warp
+1 [8ED:90] Merchant of Secrets
+1 [ELD:68] Tome Raider
+1 [AFR:308] Mind Flayer
+1 [ODY:76] Chamber of Manipulation
+1 [USG:99] Stern Proctor
+1 [SOI:61] Essence Flux
+1 [MB1:457] Pondering Mage
+1 [THB:231] Altar of the Pantheon
+1 [PRM:283] Island
+1 [BFZ:258a] Island
+1 [ISD:255] Island
+1 [GN2:58] Island
+1 [8ED:338] Island
+2 [C13:343] Island
+1 [WC02:shh335] Island
+1 [10E:368] Island
+1 [BFZ:257a] Island
+1 [BRB:111] Island
+SB: 1 [THB:261] Thassa, Deep-Dwelling
+LAYOUT MAIN:(1,8)(CMC,false,0)|([THS:223],[ELD:242],[M19:254],[C21:304],[CM2:233],[ONS:322],[HOU:182],[ELD:247],[M19:249],[ONS:320],[HOU:173],[CMR:361],[USG:324],[RIX:185],[THB:242],[WWK:137],[ISD:240],[VIS:160],[AFR:257],[DOM:243],[NEM:143],[SCG:143],[WAR:245],[ZEN:223],[4ED:363],[KTK:239],[CHK:279],[PRM:283],[BFZ:258a],[ISD:255],[GN2:58],[8ED:338],[C13:343],[10E:368],[WC02:shh335],[C13:343],[BFZ:257a],[BRB:111])([MMQ:61],[ICE:87],[M11:70],[ELD:60],[SOI:61])([ELD:331],[ALL:22a],[10E:335],[9ED:297],[MH1:76],[WAR:50],[DOM:58],[M14:224],[THB:308],[LRW:64],[USG:99])([PCY:45],[AFC:203],[AVR:57],[ROE:85],[M20:54],[EMN:55],[M21:348],[M19:55],[VIS:37],[M12:41],[8ED:90],[ELD:68],[THB:231])([M21:239],[KLD:226],[M14:43],[LRW:88],[THS:53],[FUT:46],[AER:36],[THB:235],[WAR:68],[CMR:55],[EVE:22],[KTK:34],[RIX:48],[ODY:76])([LRW:76],[USG:88],[AVR:214],[M20:52],[M21:71],[M19:70],[ORI:84],[THS:55],[MH2:392],[M10:75],[AFR:308],[MB1:457])([AVR:47],[MRD:165])([M20:43],[JOU:51],[M20:232],[GTC:33])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([THB:261])

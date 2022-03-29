@@ -1,0 +1,102 @@
+1 [M15:242] Darksteel Citadel
+1 [MRD:278] Ancient Den
+1 [MRD:282] Great Furnace
+1 [NPH:165] Phyrexia's Core
+1 [CON:142] Exotic Orchard
+1 [MH2:253] Rustvale Bridge
+1 [AVR:229] Slayers' Stronghold
+1 [ORI:244] Battlefield Forge
+1 [KLD:247] Inventors' Fair
+1 [ORI:250] Rogue's Passage
+1 [RAV:282] Sunhome, Fortress of the Legion
+1 [AFR:261] Treasure Vault
+1 [C21:304] Myriad Landscape
+1 [M12:224] Buried Ruin
+1 [ELD:333] Command Tower
+1 [ONS:324] Secluded Steppe
+1 [ONS:317] Forgotten Cave
+1 [SCG:143] Temple of the False God
+1 [AER:184] Spire of Industry
+1 [MH2:259] Urza's Saga
+1 [M21:256] Temple of Triumph
+1 [STX:268] Lorehold Campus
+1 [C21:80] Study Hall
+1 [MH2:251] Power Depot
+1 [9ED:329] Urza's Tower
+1 [9ED:327] Urza's Mine
+1 [9ED:328] Urza's Power Plant
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [RAV:275] Boros Garrison
+1 [EMN:203] Geier Reach Sanitarium
+1 [M15:33] Solemn Offering
+1 [ELD:331] Arcane Signet
+1 [RAV:255] Boros Signet
+1 [RNA:22] Smothering Tithe
+1 [ISD:130] Blasphemous Act
+1 [H1R:33] Talisman of Conviction
+1 [H1R:2] Generous Gift
+1 [C19:24] Dockside Extortionist
+1 [DKA:87] Faithless Looting
+1 [10E:335] Mind Stone
+1 [AFR:164] Unexpected Windfall
+1 [M21:239] Solemn Simulacrum
+1 [RTR:111] Vandalblast
+1 [AFC:203] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [MBS:110] Ichor Wellspring
+1 [LRW:263] Thousand-Year Elixir
+1 [C21:164] Daretti, Scrap Savant
+1 [10E:342] Sculpting Steel
+1 [SOM:180] Myr Battlesphere
+1 [KLD:112] Combustible Gearhulk
+1 [AER:175] Scrap Trawler
+1 [GTC:94] Hellkite Tyrant
+1 [H1R:16] Goblin Engineer
+1 [NPH:7] Dispatch
+1 [C21:375] Battlemage's Bracers
+1 [SOM:205] Steel Hellkite
+1 [C21:13] Bronze Guardian
+1 [MRD:165] Duplicant
+1 [ULG:80] Goblin Welder
+1 [C21:406] Triplicate Titan
+1 [C21:377] Cursed Mirror
+1 [NPH:145] Mycosynth Wellspring
+1 [KLD:215] Foundry Inspector
+1 [LRW:259] Rings of Brighthearth
+1 [KLD:125] Quicksmith Genius
+1 [AFR:28] Oswald Fiddlebender
+1 [C21:169] Feldon of the Third Path
+1 [C21:11] Angel of the Ruins
+1 [M20:232] Meteor Golem
+1 [CSP:138] Mishra's Bauble
+1 [C21:374] Audacious Reshapers
+1 [WAR:1*] Karn, the Great Creator
+1 [BFZ:223] Hedron Archive
+1 [SOM:223] Wurmcoil Engine
+1 [C21:402] Wake the Past
+1 [SOM:169] Kuldotha Forgemaster
+1 [MRD:215] Myr Retriever
+1 [C21:12] Archaeomancer's Map
+1 [AKH:2] Anointed Procession
+1 [TSP:35] Pull from Eternity
+1 [M20:233] Mystic Forge
+1 [C21:18] Losheel, Clockwork Scholar
+1 [THS:213] Burnished Hart
+1 [C21:15] Digsite Engineer
+1 [C21:334] Alibou, Ancient Witness
+1 [SUM:235] Basalt Monolith
+1 [INV:34] Rout
+1 [M20:239] Steel Overseer
+1 [C21:384] Ruin Grinder
+1 [C21:240] Coveted Jewel
+1 [KTK:227] Ugin's Nexus
+1 [M19:9] Cleansing Nova
+1 [C21:87] Darksteel Mutation
+1 [M19:276] Mountain
+1 [PANA:219] Mountain
+1 [C18:303] Mountain
+1 [PRM:58253] Plains
+1 [AKR:325] Plains
+SB: 1 [C21:335] Osgir, the Reconstructor
+LAYOUT MAIN:(1,9)(CMC,false,0)|([M15:242],[MRD:278],[MRD:282],[NPH:165],[CON:142],[MH2:253],[AVR:229],[ORI:244],[KLD:247],[ORI:250],[RAV:282],[AFR:261],[C21:304],[M12:224],[ELD:333],[ONS:324],[ONS:317],[SCG:143],[AER:184],[MH2:259],[M21:256],[STX:268],[C21:80],[MH2:251],[9ED:329],[9ED:327],[9ED:328],[BFZ:245],[RAV:275],[EMN:203],[CSP:138],[M19:276],[PANA:219],[C18:303],[PRM:58253],[AKR:325])([DKA:87],[RTR:111],[NPH:7],[ULG:80],[TSP:35])([ELD:331],[RAV:255],[H1R:33],[C19:24],[10E:335],[9ED:297],[MBS:110],[H1R:16],[NPH:145],[AFR:28],[MRD:215],[M20:239],[C21:87])([M15:33],[H1R:2],[AFC:203],[LRW:263],[10E:342],[AER:175],[C21:375],[C21:377],[KLD:215],[LRW:259],[KLD:125],[C21:169],[C21:374],[C21:12],[C21:18],[THS:213],[C21:15],[SUM:235])([RNA:22],[AFR:164],[M21:239],[C21:164],[WAR:1*],[BFZ:223],[AKH:2],[M20:233])([C21:13],[SOM:169],[C21:334],[INV:34],[KTK:227],[M19:9])([KLD:112],[GTC:94],[SOM:205],[MRD:165],[SOM:223],[C21:384],[C21:240])([SOM:180],[C21:11],[M20:232],[C21:402])([ISD:130],[C21:406])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C21:335])

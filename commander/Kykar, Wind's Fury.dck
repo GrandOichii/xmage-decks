@@ -1,0 +1,102 @@
+1 [ELD:247] Mystic Sanctuary
+1 [ZEN:211] Arid Mesa
+1 [ZEN:223] Scalding Tarn
+1 [DOM:247] Sulfur Falls
+1 [ORI:244] Battlefield Forge
+1 [RNA:251] Hallowed Fountain
+1 [XLN:255] Glacial Fortress
+1 [GRN:257] Steam Vents
+1 [GRN:254] Sacred Foundry
+1 [CMR:356] Spectator Seating
+1 [M21:246] Fabled Passage
+1 [ZNE:16] Sea of Clouds
+1 [DOM:239] Clifftop Retreat
+1 [EVE:175] Cascade Bluffs
+1 [ELD:239] Castle Embereth
+1 [CMR:358] Training Center
+1 [M21:252] Temple of Epiphany
+1 [ORI:251] Shivan Reef
+1 [KTK:233] Flooded Strand
+1 [ELD:333] Command Tower
+1 [ELD:242] Castle Vantress
+1 [M15:33] Solemn Offering
+1 [ELD:331] Arcane Signet
+1 [GPT:152] Izzet Signet
+1 [RAV:255] Boros Signet
+1 [DIS:159] Azorius Signet
+1 [RNA:22] Smothering Tithe
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [H1R:34] Talisman of Creativity
+1 [ISD:130] Blasphemous Act
+1 [H1R:33] Talisman of Conviction
+1 [H1R:2] Generous Gift
+1 [C19:24] Dockside Extortionist
+1 [DKA:87] Faithless Looting
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [AFR:164] Unexpected Windfall
+1 [M21:239] Solemn Simulacrum
+1 [RTR:111] Vandalblast
+1 [AFC:203] Commander's Sphere
+1 [RTR:201] Supreme Verdict
+1 [M11:70] Preordain
+1 [DST:140] Skullclamp
+1 [IKO:215] Whirlwind of Thought
+1 [DTK:140] Impact Tremors
+1 [WAR:234*] Saheeli, Sublime Artificer
+1 [KTK:180] Jeskai Ascendancy
+1 [MH2:132] Harmonic Prodigy
+1 [M21:59] Opt
+1 [AKH:2] Anointed Procession
+1 [M12:73] Ponder
+1 [THS:135] Purphoros, God of the Forge
+1 [AFR:233] Sorcerer Class
+1 [NPH:35] Gitaxian Probe
+1 [C16:17] Divergent Transformations
+1 [C19:40] Elsha of the Infinite
+1 [AVR:128] Battle Hymn
+1 [STX:115] Storm-Kiln Artist
+1 [WAR:193] Dovin's Veto
+1 [M14:163] Young Pyromancer
+1 [STX:295] Archmage Emeritus
+1 [CON:15] Path to Exile
+1 [ICE:54] Swords to Plowshares
+1 [ULG:32] Frantic Search
+1 [M21:167] Transmogrify
+1 [ANA:9] Island
+1 [KHM:278] Snow-Covered Island
+1 [ITP:56] Island
+1 [4ED:369] Island
+1 [GS1:21] Island
+1 [WC02:rl332] Island
+1 [BRB:111] Island
+1 [ALA:237] Island
+1 [THS:236] Island
+1 [6ED:336] Island
+1 [TPR:257] Island
+1 [MIR:338] Island
+1 [LRW:294] Mountain
+1 [ARC:147] Mountain
+1 [E01:100] Mountain
+1 [JMP:67] Mountain
+1 [CMA:308] Mountain
+1 [AKR:314] Mountain
+1 [POR:210] Mountain
+1 [RTR:266] Mountain
+1 [TPR:264] Mountain
+1 [3ED:301] Mountain
+1 [ELD:264] Mountain
+1 [MRD:300] Mountain
+1 [5ED:433] Plains
+1 [M12:231] Plains
+1 [BFZ:250] Plains
+1 [DOM:252] Plains
+1 [WC03:dz332] Plains
+1 [THS:233] Plains
+1 [3ED:294] Plains
+1 [PTC:bl365] Plains
+SB: 1 [M20:212] Kykar, Wind's Fury
+LAYOUT MAIN:(1,8)(CMC,false,0)|([ELD:247],[ZEN:211],[ZEN:223],[DOM:247],[ORI:244],[RNA:251],[XLN:255],[GRN:257],[GRN:254],[CMR:356],[M21:246],[ZNE:16],[DOM:239],[EVE:175],[ELD:239],[CMR:358],[M21:252],[ORI:251],[KTK:233],[ELD:333],[ELD:242],[ANA:9],[KHM:278],[ITP:56],[4ED:369],[GS1:21],[WC02:rl332],[BRB:111],[ALA:237],[THS:236],[6ED:336],[TPR:257],[MIR:338],[LRW:294],[ARC:147],[E01:100],[JMP:67],[CMA:308],[AKR:314],[POR:210],[RTR:266],[TPR:264],[3ED:301],[ELD:264],[MRD:300],[5ED:433],[M12:231],[BFZ:250],[DOM:252],[WC03:dz332],[THS:233],[3ED:294],[PTC:bl365])([MMQ:61],[DKA:87],[ICE:87],[RTR:111],[M11:70],[DST:140],[M21:59],[M12:73],[NPH:35],[CON:15],[ICE:54])([ELD:331],[GPT:152],[RAV:255],[DIS:159],[H1R:34],[H1R:33],[C19:24],[ALL:22a],[10E:335],[DTK:140],[MH2:132],[AFR:233],[AVR:128],[WAR:193],[M14:163])([M15:33],[PCY:45],[H1R:2],[AFC:203],[WAR:234*],[KTK:180],[ULG:32])([RNA:22],[AFR:164],[M21:239],[RTR:201],[IKO:215],[AKH:2],[THS:135],[STX:115],[STX:295],[M21:167])([C19:40])([C16:17])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([M20:212])

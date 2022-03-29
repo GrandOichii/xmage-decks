@@ -1,0 +1,102 @@
+1 [SCG:143] Temple of the False God
+1 [AVR:225] Alchemist's Refuge
+1 [ROE:227] Eldrazi Temple
+1 [BFZ:242] Sanctum of Ugin
+1 [WWK:136] Eye of Ugin
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [9ED:327] Urza's Mine
+1 [9ED:329] Urza's Tower
+1 [9ED:328] Urza's Power Plant
+1 [M21:254] Temple of Mystery
+1 [AKH:240] Cascading Cataracts
+1 [OGW:174] Mirrorpool
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [DOM:240] Hinterland Harbor
+1 [EVE:177] Flooded Grove
+1 [ORI:250] Rogue's Passage
+1 [WAR:245] Emergence Zone
+1 [AFR:259] Lair of the Hydra
+1 [SOK:162] Mikokoro, Center of the Sea
+1 [TMP:315] Ancient Tomb
+1 [GTC:248] Thespian's Stage
+1 [M19:254] Reliquary Tower
+1 [ELD:240] Castle Garenbrig
+1 [RNA:246] Breeding Pool
+1 [MH2:259] Urza's Saga
+1 [ELD:242] Castle Vantress
+1 [DIS:180] Simic Growth Chamber
+1 [IKO:245] Bonders' Enclave
+1 [WWK:137] Halimar Depths
+1 [ELD:331] Arcane Signet
+1 [NPH:103] Beast Within
+1 [M12:190] Rampant Growth
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [CHK:239] Sakura-Tribe Elder
+1 [M19:314] Llanowar Elves
+1 [M12:165] Birds of Paradise
+1 [RNA:178] Growth Spiral
+1 [DIS:166] Simic Signet
+1 [M15:173] Elvish Mystic
+1 [M19:196] Reclamation Sage
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [5ED:329] Sylvan Library
+1 [ICE:244] Fyndhorn Elves
+1 [M21:239] Solemn Simulacrum
+1 [AFC:203] Commander's Sphere
+1 [WWK:108] Nature's Claim
+1 [M11:70] Preordain
+1 [TSP:202] Krosan Grip
+1 [RNA:149] Wilderness Reclamation
+1 [MBS:20] Blue Sun's Zenith
+1 [10E:296] Seedborn Muse
+1 [10E:321] Doubling Cube
+1 [WAR:51] Finale of Revelation
+1 [AKH:65] Pull from Tomorrow
+1 [THB:190] Nyxbloom Ancient
+1 [USG:100] Stroke of Genius
+1 [OGW:147] Zendikar Resurgent
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [OGW:4] Kozilek, the Great Distortion
+1 [M20:64] Leyline of Anticipation
+1 [ROE:2] Artisan of Kozilek
+1 [M21:63] Rewind
+1 [M21:228] Chromatic Orrery
+1 [DGM:91] Plasm Capture
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [M10:64] Mind Spring
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [THS:46] Curse of the Swine
+1 [C21:274] Victory Chimes
+1 [MBS:126] Psychosis Crawler
+1 [RNA:183] Hydroid Krasis
+1 [RNA:42] Mass Manipulation
+1 [UDS:139] Thran Dynamo
+1 [CMR:524] Kydele, Chosen of Kruphix
+1 [FRF:131] Frontier Siege
+1 [BFZ:17] Void Winnower
+1 [BFZ:4] Conduit of Ruin
+1 [JOU:37] Dictate of Kruphix
+1 [EMN:6] Emrakul, the Promised End
+1 [SHM:122] Mana Reflection
+1 [OGW:3] Endbringer
+1 [M21:177] Cultivate
+1 [JOU:128] Hydra Broodmaster
+1 [NPH:37] Jin-Gitaxias, Core Augur
+1 [EVE:68] Helix Pinnacle
+1 [MBS:21] Consecrated Sphinx
+1 [ROE:7] It That Betrays
+1 [ISD:61] Laboratory Maniac
+1 [AFC:15] Diviner's Portent
+1 [BFZ:270a] Forest
+1 [H09:41] Forest
+1 [WC98:bs349] Forest
+1 [M12:235] Island
+1 [WC02:rl332] Island
+1 [SLD:255] Island
+1 [CMD:306] Island
+SB: 1 [JOU:152] Kruphix, God of Horizons
+LAYOUT MAIN:(1,13)(CMC,false,0)|([SCG:143],[AVR:225],[ROE:227],[BFZ:242],[WWK:136],[BFZ:245],[9ED:327],[9ED:329],[9ED:328],[M21:254],[AKH:240],[OGW:174],[THS:223],[DOM:240],[EVE:177],[ORI:250],[WAR:245],[AFR:259],[SOK:162],[TMP:315],[GTC:248],[M19:254],[ELD:240],[RNA:246],[MH2:259],[ELD:242],[DIS:180],[IKO:245],[WWK:137],[BFZ:270a],[H09:41],[WC98:bs349],[M12:235],[WC02:rl332],[SLD:255],[CMD:306])([MMQ:61],[M19:314],[M12:165],[M15:173],[ICE:87],[ICE:244],[WWK:108],[M11:70],[EVE:68])([ELD:331],[M12:190],[CHK:239],[RNA:178],[DIS:166],[ALL:22a],[10E:335],[5ED:329],[10E:321],[WAR:51],[AKH:65],[M10:64],[THS:46],[RNA:183])([NPH:103],[PCY:45],[M19:196],[AFC:203],[TSP:202],[MBS:20],[USG:100],[C21:274],[JOU:37],[M21:177],[ISD:61],[AFC:15])([M21:239],[RNA:149],[M20:64],[M21:63],[DGM:91],[RNA:42],[UDS:139],[CMR:524],[FRF:131])([10E:296],[MBS:126])([BFZ:4],[SHM:122],[OGW:3],[JOU:128],[MBS:21])([THB:190],[OGW:147],[M21:228])([ROE:2],[BFZ:17])([BFZ:15],[OGW:4],[ROE:6],[NPH:37])([ROE:12])([ROE:7])([EMN:6])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([JOU:152])
