@@ -1,0 +1,102 @@
+1 [CON:142] Exotic Orchard
+1 [ORI:251] Shivan Reef
+1 [HOU:182] Scavenger Grounds
+1 [C21:304] Myriad Landscape
+1 [M19:254] Reliquary Tower
+1 [ELD:247] Mystic Sanctuary
+1 [M21:252] Temple of Epiphany
+1 [ELD:333] Command Tower
+1 [STX:265] Frostboil Snarl
+1 [ONS:317] Forgotten Cave
+1 [ONS:320] Lonely Sandbar
+1 [ONS:322] Riptide Laboratory
+1 [ORI:249] Mage-Ring Network
+1 [STX:270] Prismari Campus
+1 [GPT:159] Izzet Boilerworks
+1 [ZEN:223] Scalding Tarn
+1 [C21:80] Study Hall
+1 [DOM:243] Memorial to Genius
+1 [CMR:358] Training Center
+1 [HOU:173] Desert of the Mindful
+1 [HOU:170] Desert of the Fervent
+1 [DOM:247] Sulfur Falls
+1 [BFZ:229] Blighted Cataract
+1 [SCG:143] Temple of the False God
+1 [ORI:250] Rogue's Passage
+1 [M21:246] Fabled Passage
+1 [ELD:331] Arcane Signet
+1 [GPT:152] Izzet Signet
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [H1R:34] Talisman of Creativity
+1 [ISD:130] Blasphemous Act
+1 [C19:24] Dockside Extortionist
+1 [DKA:87] Faithless Looting
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [AFR:164] Unexpected Windfall
+1 [M21:239] Solemn Simulacrum
+1 [RTR:111] Vandalblast
+1 [AFC:203] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [M11:70] Preordain
+1 [M19:145] Guttersnipe
+1 [M14:163] Young Pyromancer
+1 [STA:106] Mizzix's Mastery
+1 [5DN:36] Serum Visions
+1 [M13:72] Talrand, Sky Summoner
+1 [GRN:97] Electrostatic Field
+1 [CMR:189] Krark, the Thumbless
+1 [5DN:75] Mana Geyser
+1 [MH2:132] Harmonic Prodigy
+1 [OGW:108] Expedite
+1 [9ED:216] Seething Song
+1 [STX:115] Storm-Kiln Artist
+1 [STX:295] Archmage Emeritus
+1 [WAR:211*] Ral, Storm Conduit
+1 [M21:59] Opt
+1 [M12:73] Ponder
+1 [KLD:56] Metallurgic Summonings
+1 [M21:140] Crash Through
+1 [TSP:160] Grapeshot
+1 [GRN:207] Thousand-Year Storm
+1 [OGW:155] Jori En, Ruin Diver
+1 [ISD:155] Past in Flames
+1 [STX:186] Expressive Iteration
+1 [ORI:236] Pyromancer's Goggles
+1 [HOU:92] Firebrand Archer
+1 [HOU:50] Swarm Intelligence
+1 [MH1:118] Aria of Flame
+1 [ULG:32] Frantic Search
+1 [OGW:47] Slip Through Space
+1 [NPH:35] Gitaxian Probe
+1 [GRN:192] Niv-Mizzet, Parun
+1 [TMP:86] Shadow Rift
+1 [GRN:115] Runaway Steam-Kin
+1 [SCG:41] Mind's Desire
+1 [PLC:44] Pongify
+1 [SHM:88] Crimson Wisps
+1 [EMN:147] Thermo-Alchemist
+1 [KTK:36] Dig Through Time
+1 [GRN:224] Expansion // Explosion
+1 [M21:142] Double Vision
+1 [CMR:414] Fists of Flame
+1 [CMR:187] Jeska's Will
+1 [PXTC:243] Primal Amulet
+1 [CMD:303] Island
+1 [TMP:338] Island
+1 [ODY:336] Island
+1 [PRM:73634] Island
+1 [HOU:193] Island
+1 [ANA:4a] Island
+1 [MH1:253] Snow-Covered Mountain
+1 [PSS3:4] Mountain
+1 [KHM:282] Snow-Covered Mountain
+1 [BFZ:269a] Mountain
+1 [WC97:pm443] Mountain
+1 [DDL:36] Mountain
+1 [AKR:312] Mountain
+SB: 1 [C21:3] Veyran, Voice of Duality
+LAYOUT MAIN:(1,10)(CMC,false,0)|([CON:142],[ORI:251],[HOU:182],[C21:304],[M19:254],[ELD:247],[M21:252],[ELD:333],[STX:265],[ONS:317],[ONS:320],[ONS:322],[ORI:249],[STX:270],[GPT:159],[ZEN:223],[C21:80],[DOM:243],[CMR:358],[HOU:173],[HOU:170],[DOM:247],[BFZ:229],[SCG:143],[ORI:250],[M21:246],[CMD:303],[TMP:338],[ODY:336],[PRM:73634],[HOU:193],[ANA:4a],[MH1:253],[PSS3:4],[KHM:282],[BFZ:269a],[WC97:pm443],[DDL:36],[AKR:312])([MMQ:61],[DKA:87],[ICE:87],[RTR:111],[M11:70],[5DN:36],[OGW:108],[M21:59],[M12:73],[M21:140],[OGW:47],[NPH:35],[TMP:86],[PLC:44],[SHM:88])([ELD:331],[GPT:152],[H1R:34],[C19:24],[ALL:22a],[10E:335],[9ED:297],[M14:163],[GRN:97],[CMR:189],[MH2:132],[TSP:160],[STX:186],[HOU:92],[GRN:115],[EMN:147],[CMR:414])([PCY:45],[AFC:203],[M19:145],[9ED:216],[OGW:155],[MH1:118],[ULG:32],[CMR:187])([AFR:164],[M21:239],[STA:106],[M13:72],[STX:115],[STX:295],[WAR:211*],[ISD:155],[PXTC:243])([5DN:75],[KLD:56],[ORI:236],[M21:142])([GRN:207],[GRN:192],[SCG:41],[GRN:224])([HOU:50])([KTK:36])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C21:3])

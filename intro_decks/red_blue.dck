@@ -1,0 +1,30 @@
+1 [KTK:118] Monastery Swiftspear
+2 [M21:53] Jeskai Elder
+2 [FRF:38] Jeskai Sage
+1 [M15:84] Welkin Tern
+2 [KTK:44] Jeskai Windscout
+1 [KTK:101] Bloodfire Expert
+2 [FRF:39] Lotus Path Djinn
+2 [FRF:42] Mistfire Adept
+2 [FRF:31] Aven Surveyor
+1 [KTK:108] Dragon-Style Twins
+1 [KTK:51] Riverwheel Aerialists
+1 [FRF:50] Sage-Eye Avengers
+1 [M15:82] Void Snare
+1 [KTK:97] Arc Lightning
+1 [FRF:92] Bathe in Dragonfire
+1 [KTK:111] Hordeling Outburst
+1 [FRF:47] Refocus
+3 [M19:152] Lightning Strike
+2 [KTK:35] Crippling Chill
+1 [FRF:57] Whisk Away
+2 [KTK:213] Winterflame
+1 [ORI:279] Weave Fate
+1 [FRF:150] Cunning Strike
+1 [KTK:50] Quiet Contemplation
+1 [KTK:109] Goblinslide
+3 [M21:251] Swiftwater Cliffs
+12 [AFR:266] Island
+10 [AFR:274] Mountain
+LAYOUT MAIN:(1,7)(CMC,false,0)|([M21:251],[M21:251],[M21:251],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:266],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274],[AFR:274])([KTK:118],[M15:82])([M21:53],[M21:53],[FRF:38],[FRF:38],[M15:84],[FRF:47],[M19:152],[M19:152],[M19:152])([KTK:44],[KTK:44],[KTK:101],[KTK:97],[FRF:92],[KTK:111],[KTK:35],[KTK:35],[FRF:57],[KTK:213],[KTK:213],[KTK:50],[KTK:109])([FRF:39],[FRF:39],[FRF:42],[FRF:42],[ORI:279])([FRF:31],[FRF:31],[KTK:108],[FRF:150])([KTK:51],[FRF:50])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

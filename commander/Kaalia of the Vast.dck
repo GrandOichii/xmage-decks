@@ -1,0 +1,102 @@
+1 [CHK:277] Hall of the Bandit Lord
+1 [ZEN:211] Arid Mesa
+1 [ZEN:219] Marsh Flats
+1 [SHM:272] Graven Cairns
+1 [CMR:349] Command Beacon
+1 [AVR:228] Seraph Sanctuary
+1 [EVE:178] Rugged Prairie
+1 [KTK:230] Bloodstained Mire
+1 [JOU:163] Mana Confluence
+1 [GRN:254] Sacred Foundry
+1 [RNA:245] Blood Crypt
+1 [TMP:315] Ancient Tomb
+1 [ORI:250] Rogue's Passage
+1 [EVE:176] Fetid Heath
+1 [AVR:229] Slayers' Stronghold
+1 [8ED:322] City of Brass
+1 [AVR:226] Cavern of Souls
+1 [DOM:239] Clifftop Retreat
+1 [SHM:278*] Reflecting Pool
+1 [ELD:333] Command Tower
+1 [XLN:252] Dragonskull Summit
+1 [SUM:284] Plateau
+1 [CHK:283] Shizo, Death's Storehouse
+1 [SUM:286] Scrubland
+1 [SUM:282] Badlands
+1 [STH:143] Volrath's Stronghold
+1 [RNA:248] Godless Shrine
+1 [M15:33] Solemn Offering
+1 [ELD:331] Arcane Signet
+1 [DIS:165] Rakdos Signet
+1 [GPT:155] Orzhov Signet
+1 [RAV:255] Boros Signet
+1 [RNA:22] Smothering Tithe
+1 [ISD:130] Blasphemous Act
+1 [H1R:36] Talisman of Hierarchy
+1 [H1R:33] Talisman of Conviction
+1 [H1R:2] Generous Gift
+1 [MRD:255] Talisman of Indulgence
+1 [ARB:46] Terminate
+1 [IKO:204] Ruinous Ultimatum
+1 [C19:24] Dockside Extortionist
+1 [DKA:87] Faithless Looting
+1 [10E:335] Mind Stone
+1 [AFR:164] Unexpected Windfall
+1 [RNA:192] Mortify
+1 [M21:239] Solemn Simulacrum
+1 [RTR:111] Vandalblast
+1 [AFC:203] Commander's Sphere
+1 [2XM:110] Toxic Deluge
+1 [RTR:184] Rakdos Charm
+1 [M12:106] Rune-Scarred Demon
+1 [AVR:6] Avacyn, Angel of Hope
+1 [GTC:143] Aurelia, the Warleader
+1 [AVR:209] Gisela, Blade of Goldnight
+1 [M20:36] Sephara, Sky's Blade
+1 [M20:210] Kaalia, Zenith Seeker
+1 [M20:122] Vilis, Broker of Blood
+1 [MRD:199] Lightning Greaves
+1 [GPT:101] Angel of Despair
+1 [DGM:82] Master of Cruelties
+1 [GTC:71] Lord of the Void
+1 [10E:35*] Reya Dawnbringer
+1 [ISD:129] Balefire Dragon
+1 [RTR:1] Angel of Serenity
+1 [MH2:30] Serra's Emissary
+1 [M12:219] Swiftfoot Boots
+1 [M21:164] Terror of the Peaks
+1 [M11:4] Angelic Arbiter
+1 [GTC:94] Hellkite Tyrant
+1 [KHM:349] Burning-Rune Demon
+1 [TSB:1] Akroma, Angel of Wrath
+1 [ISD:89] Bloodgift Demon
+1 [HOU:73] Razaketh, the Foulblooded
+1 [DTK:136] Dragon Tempest
+1 [FRF:62] Archfiend of Depravity
+1 [ULG:14] Mother of Runes
+1 [SOM:205] Steel Hellkite
+1 [EMN:15a] Bruna, the Fading Light
+1 [ROE:33] Linvala, Keeper of Silence
+1 [M15:110] Ob Nixilis, Unshackled
+1 [BBD:44] Archfiend of Despair
+1 [EMN:28] Gisela, the Broken Blade
+1 [RTR:110] Utvara Hellkite
+1 [DOM:26] Lyra Dawnbringer
+1 [M20:136] Drakuseth, Maw of Flames
+1 [DOM:86] Demonlord Belzenlok
+1 [M11:212] Platinum Angel
+1 [CMA:194] Tariel, Reckoner of Souls
+1 [PZ2:70659] Sower of Discord
+1 [M15:264] Mountain
+1 [7ED:338] Mountain
+1 [DDN:37] Mountain
+1 [ISD:252] Plains
+1 [KHM:276] Snow-Covered Plains
+1 [PALP:14] Plains
+1 [4ED:365] Plains
+1 [DDN:39] Swamp
+1 [PHUK:20] Swamp
+1 [M14:238] Swamp
+SB: 1 [2XM:204] Kaalia of the Vast
+LAYOUT MAIN:(1,10)(CMC,false,0)|([CHK:277],[ZEN:211],[ZEN:219],[SHM:272],[CMR:349],[AVR:228],[EVE:178],[KTK:230],[JOU:163],[GRN:254],[RNA:245],[TMP:315],[ORI:250],[EVE:176],[AVR:229],[8ED:322],[AVR:226],[DOM:239],[SHM:278*],[ELD:333],[XLN:252],[SUM:284],[CHK:283],[SUM:286],[SUM:282],[STH:143],[RNA:248],[M15:264],[7ED:338],[DDN:37],[ISD:252],[KHM:276],[PALP:14],[4ED:365],[DDN:39],[PHUK:20],[M14:238])([DKA:87],[RTR:111],[ULG:14])([ELD:331],[DIS:165],[GPT:155],[RAV:255],[H1R:36],[H1R:33],[MRD:255],[ARB:46],[C19:24],[10E:335],[RTR:184],[MRD:199],[M12:219],[DTK:136])([M15:33],[H1R:2],[RNA:192],[AFC:203],[2XM:110],[M20:210])([RNA:22],[AFR:164],[M21:239],[ROE:33],[EMN:28])([DGM:82],[M21:164],[ISD:89],[FRF:62],[DOM:26])([GTC:143],[GTC:94],[KHM:349],[SOM:205],[M15:110],[DOM:86],[PZ2:70659])([IKO:204],[M12:106],[AVR:209],[M20:36],[GPT:101],[GTC:71],[ISD:129],[RTR:1],[MH2:30],[M11:4],[EMN:15a],[M20:136],[M11:212],[CMA:194])([AVR:6],[M20:122],[TSB:1],[HOU:73],[BBD:44],[RTR:110])([ISD:130],[10E:35*])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([2XM:204])

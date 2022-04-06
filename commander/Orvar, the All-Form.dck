@@ -1,0 +1,99 @@
+1 [MRD:280] Cloudpost
+1 [TSP:278] Swarmyard
+1 [ELD:247] Mystic Sanctuary
+1 [SOM:227] Glimmerpost
+1 [ONS:322] Riptide Laboratory
+1 [AFC:254] Path of Ancestry
+1 [CMR:349] Command Beacon
+1 [KHM:272] Tyrite Sanctum
+1 [AKH:249] Sunscorched Desert
+1 [KHM:278] Snow-Covered Island
+1 [THS:223] Nykthos, Shrine to Nyx
+1 [ODY:317] Cephalid Coliseum
+1 [GTC:248] Thespian's Stage
+1 [TSP:274] Gemstone Caverns
+1 [AVR:226] Cavern of Souls
+1 [HOU:180] Ipnu Rivulet
+1 [M19:254] Reliquary Tower
+1 [ZEN:220] Misty Rainforest
+1 [HOU:182] Scavenger Grounds
+1 [ZEN:223] Scalding Tarn
+1 [SCG:143] Temple of the False God
+1 [KTK:233] Flooded Strand
+1 [KTK:239] Polluted Delta
+1 [CMR:361] War Room
+1 [C21:304] Myriad Landscape
+1 [4ED:363] Strip Mine
+1 [ISD:240] Ghost Quarter
+1 [H1R:40] Prismatic Vista
+1 [TMP:315] Ancient Tomb
+1 [ELD:331] Arcane Signet
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [M21:239] Solemn Simulacrum
+1 [AFC:203] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [M11:70] Preordain
+1 [STH:38] Mind Games
+1 [CSP:49] Thermal Flux
+1 [MRD:34] Dream's Grip
+1 [DGM:12] Hidden Strings
+1 [AVR:57] Ghostly Flicker
+1 [LRW:52] Aquitect's Will
+1 [8ED:111] Twiddle
+1 [TSP:53] Clockspinning
+1 [M14:43] Archaeomancer
+1 [USG:88] Peregrine Drake
+1 [SHM:31] Cerulean Wisps
+1 [LRW:76] Mulldrifter
+1 [TMP:86] Shadow Rift
+1 [STH:35] Leap
+1 [APC:30] Shimmering Mirage
+1 [GPT:26] Gigadrowse
+1 [SOI:61] Essence Flux
+1 [STX:295] Archmage Emeritus
+1 [SOM:50] Twisted Image
+1 [4ED:69] Energy Tap
+1 [M21:71] Shipwreck Dowser
+1 [XLN:53] Dive Down
+1 [AVR:53] Fleeting Distraction
+1 [C21:240] Coveted Jewel
+1 [5ED:84] Enervate
+1 [WAR:68] Spark Double
+1 [WAR:72] Teferi's Time Twist
+1 [ULG:43] Snap
+1 [THS:53] Master of Waves
+1 [OGW:47] Slip Through Space
+1 [CMR:561] Sakashima of a Thousand Faces
+1 [FUT:46] Venser, Shaper Savant
+1 [M20:43] Agent of Treachery
+1 [FEM:18a] High Tide
+1 [RTR:45] Mizzium Skin
+1 [THB:310] Wavebreak Hippocamp
+1 [CMR:55] Amphin Mutineer
+1 [TSP:68] Moonlace
+1 [MH2:392] Step Through
+1 [AFR:308] Mind Flayer
+1 [WWK:43] Twitch
+1 [J20:3] Spellseeker
+1 [HML:29] Jinx
+1 [JOU:51] Scourge of Fleets
+1 [DOM:215] Gilded Lotus
+1 [M20:74] Scholar of the Ages
+1 [RAV:43] Dizzy Spell
+1 [THB:251] Island
+2 [ZNR:270] Island
+1 [ZEN:234] Island
+1 [BFZ:259] Island
+2 [SWS:520a] Island
+1 [SLD:64] Island
+2 [SWS:256d] Island
+1 [ZEN:235] Island
+1 [ZEN:236] Island
+1 [BFZ:257] Island
+SB: 1 [KHM:305] Orvar, the All-Form
+LAYOUT MAIN:(1,8)(CMC,false,0)|([MRD:280],[TSP:278],[ELD:247],[SOM:227],[ONS:322],[AFC:254],[CMR:349],[KHM:272],[AKH:249],[KHM:278],[THS:223],[ODY:317],[GTC:248],[TSP:274],[AVR:226],[HOU:180],[M19:254],[ZEN:220],[HOU:182],[ZEN:223],[SCG:143],[KTK:233],[KTK:239],[CMR:361],[C21:304],[4ED:363],[ISD:240],[H1R:40],[TMP:315],[THB:251],[ZNR:270],[ZEN:234],[ZNR:270],[BFZ:259],[SWS:520a],[SLD:64],[SWS:256d],[SWS:256d],[SWS:520a],[ZEN:235],[ZEN:236],[BFZ:257])([MMQ:61],[ICE:87],[M11:70],[STH:38],[CSP:49],[MRD:34],[LRW:52],[8ED:111],[TSP:53],[SHM:31],[TMP:86],[STH:35],[GPT:26],[SOI:61],[SOM:50],[4ED:69],[XLN:53],[AVR:53],[OGW:47],[FEM:18a],[RTR:45],[TSP:68],[RAV:43])([ELD:331],[ALL:22a],[10E:335],[9ED:297],[DGM:12],[APC:30],[5ED:84],[WAR:72],[ULG:43],[HML:29])([PCY:45],[AFC:203],[AVR:57],[THB:310],[WWK:43],[J20:3])([M21:239],[M14:43],[STX:295],[WAR:68],[THS:53],[CMR:561],[FUT:46],[CMR:55])([USG:88],[LRW:76],[M21:71],[MH2:392],[AFR:308],[DOM:215])([C21:240])([M20:43],[JOU:51],[M20:74])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([KHM:305])

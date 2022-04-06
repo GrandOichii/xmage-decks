@@ -1,0 +1,30 @@
+2 [FRF:6] Aven Skirmisher
+2 [KTK:16] Mardu Hateblade
+1 [M15:93] Cruel Sadist
+3 [M19:31] Oreskos Swiftclaw
+1 [KTK:169] Chief of the Edge
+1 [KTK:170] Chief of the Scale
+2 [FRF:4] Abzan Skycaptain
+1 [FRF:11] Dragonscale General
+1 [M15:27] Razorfoot Griffin
+1 [M20:103] Gravedigger
+1 [KTK:94] Unyielding Krumar
+1 [FRF:63] Battle Brawler
+2 [FRF:25] Sandsteppe Outcast
+1 [FRF:73] Hooded Assassin
+1 [FRF:76] Merciless Executioner
+1 [FRF:12] Elite Scaleguard
+1 [FRF:67] Diplomacy of the Wastes
+1 [KTK:19] Rush of Battle
+1 [HOU:20] Sandblast
+1 [KTK:26] Take Up Arms
+1 [SOI:138] Throttle
+2 [FRF:14] Honor's Reward
+2 [FRF:154] Harsh Sustenance
+2 [KTK:68] Debilitating Injury
+2 [KTK:83] Raiders' Spoils
+3 [M21:250] Scoured Barrens
+13 [AFR:262] Plains
+9 [AFR:270] Swamp
+LAYOUT MAIN:(1,6)(CMC,false,0)|([M21:250],[M21:250],[M21:250],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:262],[AFR:270],[AFR:270],[AFR:270],[AFR:270],[AFR:270],[AFR:270],[AFR:270],[AFR:270],[AFR:270])([FRF:6],[FRF:6],[KTK:16],[KTK:16],[M15:93])([M19:31],[M19:31],[M19:31],[KTK:169],[KTK:170],[FRF:63],[KTK:68],[KTK:68])([FRF:25],[FRF:25],[FRF:73],[FRF:76],[FRF:67],[HOU:20],[FRF:14],[FRF:14],[FRF:154],[FRF:154])([FRF:4],[FRF:4],[FRF:11],[M15:27],[M20:103],[KTK:94],[KTK:19],[KTK:83],[KTK:83])([FRF:12],[KTK:26],[SOI:138])
+LAYOUT SIDEBOARD:(0,0)(NONE,false,50)|

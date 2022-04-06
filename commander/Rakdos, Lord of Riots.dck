@@ -1,0 +1,102 @@
+1 [SHM:273] Leechridden Swamp
+1 [ZEN:222] Piranha Marsh
+1 [BFZ:242] Sanctum of Ugin
+1 [SOI:272] Foreboding Ruins
+1 [TOR:142] Tainted Peak
+1 [BFZ:247] Smoldering Marsh
+1 [LRW:274] Spinerock Knoll
+1 [ODY:326] Shadowblood Ridge
+1 [THB:247] Temple of Malice
+1 [WWK:136] Eye of Ugin
+1 [AKH:249] Sunscorched Desert
+1 [ORI:250] Rogue's Passage
+1 [RNA:255] Rakdos Guildgate
+1 [DIS:178] Rakdos Carnarium
+1 [XLN:252] Dragonskull Summit
+1 [ROE:227] Eldrazi Temple
+1 [SHM:272] Graven Cairns
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [USG:326] Shivan Gorge
+1 [CM2:251] Flamekin Village
+1 [AFC:254] Path of Ancestry
+1 [IKO:245] Bonders' Enclave
+1 [M21:243] Bloodfell Caves
+1 [ELD:333] Command Tower
+1 [SHM:278*] Reflecting Pool
+1 [AVR:226] Cavern of Souls
+1 [AFR:256] Evolving Wilds
+1 [CHK:283] Shizo, Death's Storehouse
+1 [WWK:132] Bojuka Bog
+1 [ELD:331] Arcane Signet
+1 [DIS:165] Rakdos Signet
+1 [ISD:130] Blasphemous Act
+1 [MRD:255] Talisman of Indulgence
+1 [ARB:46] Terminate
+1 [C19:24] Dockside Extortionist
+1 [DKA:87] Faithless Looting
+1 [10E:335] Mind Stone
+1 [AFR:164] Unexpected Windfall
+1 [M21:239] Solemn Simulacrum
+1 [RTR:111] Vandalblast
+1 [AFC:203] Commander's Sphere
+1 [MMQ:129] Dark Ritual
+1 [9ED:297] Fellwar Stone
+1 [2XM:110] Toxic Deluge
+1 [RTR:184] Rakdos Charm
+1 [RNA:117] Spear Spewer
+1 [EMN:147] Thermo-Alchemist
+1 [BFZ:131] Nettle Drone
+1 [ROE:2] Artisan of Kozilek
+1 [ELD:203] Stormfist Crusader
+1 [AFR:229] Orcus, Prince of Undeath
+1 [RTR:99] Lobber Crew
+1 [M21:120] Sanctum of Stone Fangs
+1 [BFZ:4] Conduit of Ruin
+1 [RNA:85] Spawn of Mayhem
+1 [M12:106] Rune-Scarred Demon
+1 [ISD:89] Bloodgift Demon
+1 [M19:155] Sarkhan's Unsealing
+1 [C21:369] Keen Duelist
+1 [M15:101] Indulgent Tormentor
+1 [BFZ:17] Void Winnower
+1 [M20:122] Vilis, Broker of Blood
+1 [BFZ:6] Desolation Twin
+1 [MRD:199] Lightning Greaves
+1 [SOI:181] Sin Prodder
+1 [THB:158] Tectonic Giant
+1 [M12:219] Swiftfoot Boots
+1 [BFZ:15] Ulamog, the Ceaseless Hunger
+1 [FRF:79] Palace Siege
+1 [ROE:7] It That Betrays
+1 [CMR:336] Sandstone Oracle
+1 [ROE:6] Kozilek, Butcher of Truth
+1 [RNA:213] Theater of Horrors
+1 [ROE:9] Pathrazer of Ulamog
+1 [KLD:112] Combustible Gearhulk
+1 [INV:119] Plague Spitter
+1 [AVR:107] Harvester of Souls
+1 [CMR:114] Court of Ambition
+1 [M21:164] Terror of the Peaks
+1 [BBD:44] Archfiend of Despair
+1 [SOM:205] Steel Hellkite
+1 [KHM:349] Burning-Rune Demon
+1 [ROE:12] Ulamog, the Infinite Gyre
+1 [RNA:199] Rakdos, the Showstopper
+1 [M20:232] Meteor Golem
+1 [BFZ:1] Bane of Bala Ged
+1 [BOK:107] Heartless Hidetsugu
+1 [ROE:13] Ulamog's Crusher
+1 [PZ2:70659] Sower of Discord
+1 [CMA:55] Dread Cacodemon
+1 [HOU:104] Neheb, the Eternal
+1 [WC97:pm444] Mountain
+1 [PANA:239] Mountain
+1 [DDI:77] Mountain
+1 [DDR:67] Swamp
+1 [DDM:80] Swamp
+1 [SOI:289] Swamp
+1 [GNT:64] Swamp
+1 [WAR:257] Swamp
+SB: 1 [RTR:187] Rakdos, Lord of Riots
+LAYOUT MAIN:(1,13)(CMC,false,0)|([SHM:273],[ZEN:222],[BFZ:242],[SOI:272],[TOR:142],[BFZ:247],[LRW:274],[ODY:326],[THB:247],[WWK:136],[AKH:249],[ORI:250],[RNA:255],[DIS:178],[XLN:252],[ROE:227],[SHM:272],[BFZ:245],[USG:326],[CM2:251],[AFC:254],[IKO:245],[M21:243],[ELD:333],[SHM:278*],[AVR:226],[AFR:256],[CHK:283],[WWK:132],[WC97:pm444],[PANA:239],[DDI:77],[DDR:67],[DDM:80],[SOI:289],[GNT:64],[WAR:257])([DKA:87],[RTR:111],[MMQ:129],[RNA:117])([ELD:331],[DIS:165],[MRD:255],[ARB:46],[C19:24],[10E:335],[9ED:297],[RTR:184],[EMN:147],[ELD:203],[M21:120],[C21:369],[MRD:199],[M12:219])([AFC:203],[2XM:110],[BFZ:131],[RTR:99],[SOI:181],[RNA:213],[INV:119])([AFR:164],[M21:239],[AFR:229],[RNA:85],[M19:155],[THB:158],[CMR:114])([ISD:89],[M15:101],[FRF:79],[M21:164],[BOK:107],[HOU:104])([BFZ:4],[KLD:112],[AVR:107],[SOM:205],[KHM:349],[RNA:199],[PZ2:70659])([M12:106],[CMR:336],[M20:232],[BFZ:1])([M20:122],[BBD:44],[ROE:13])([ISD:130],[ROE:2],[BFZ:17])([BFZ:6],[BFZ:15],[ROE:6],[CMA:55])([ROE:9],[ROE:12])([ROE:7])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:187])
