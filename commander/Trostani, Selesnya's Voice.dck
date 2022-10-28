@@ -1,0 +1,94 @@
+1 [RTR:240] Grove of the Guardian
+1 [RAV:281] Selesnya Sanctuary
+1 [M21:244] Blossoming Sands
+1 [RAV:285] Vitu-Ghazi, the City-Tree
+1 [OGW:174] Mirrorpool
+1 [ZEN:214] Graypelt Refuge
+1 [ODY:328] Sungrass Prairie
+1 [SOI:274] Fortified Village
+1 [THB:248] Temple of Plenty
+1 [LRW:270] Mosswort Bridge
+1 [BFZ:234] Canopy Vista
+1 [JUD:141] Krosan Verge
+1 [GRN:255] Selesnya Guildgate
+1 [AFR:256] Evolving Wilds
+1 [ELD:333] Command Tower
+1 [ELD:238] Castle Ardenvale
+1 [LRW:281] Windbrisk Heights
+1 [XLN:257] Sunpetal Grove
+1 [M10:225] Gargoyle Castle
+1 [WWK:138] Khalni Garden
+1 [HOU:182] Scavenger Grounds
+1 [CON:142] Exotic Orchard
+1 [M11:229] Terramorphic Expanse
+1 [C21:304] Myriad Landscape
+1 [ISD:239] Gavony Township
+1 [SCG:143] Temple of the False God
+1 [M15:33] Solemn Offering
+1 [ELD:331] Arcane Signet
+1 [NPH:103] Beast Within
+1 [M12:190] Rampant Growth
+1 [RNA:22] Smothering Tithe
+1 [CHK:239] Sakura-Tribe Elder
+1 [M19:314] Llanowar Elves
+1 [M12:165] Birds of Paradise
+1 [H1R:2] Generous Gift
+1 [M15:173] Elvish Mystic
+1 [M19:196] Reclamation Sage
+1 [10E:335] Mind Stone
+1 [ISD:170] Avacyn's Pilgrim
+1 [5ED:329] Sylvan Library
+1 [ICE:244] Fyndhorn Elves
+1 [M21:239] Solemn Simulacrum
+1 [AFC:203] Commander's Sphere
+1 [WWK:108] Nature's Claim
+1 [TSP:202] Krosan Grip
+1 [ELD:172] Return of the Wildspeaker
+1 [GRN:123] Beast Whisperer
+1 [RTR:223] Sundering Growth
+1 [RTR:217] Growing Ranks
+1 [RTR:143] Armada Wurm
+1 [RTR:19] Rootborn Defenses
+1 [HOU:6] Crested Sunmare
+1 [SOM:175] Mimic Vat
+1 [KLD:192] Aetherflux Reservoir
+1 [C21:396] Trudge Garden
+1 [RAV:21] Hour of Reckoning
+1 [USG:306] Phyrexian Processor
+1 [DGM:51] Advent of the Wurm
+1 [SHM:237] Rhys the Redeemed
+1 [GTC:121] Giant Adephage
+1 [C21:386] Blossoming Bogbeast
+1 [STX:119] Accomplished Alchemist
+1 [C19:35] Selesnya Eulogist
+1 [SOI:227] Second Harvest
+1 [ZEN:178] Rampaging Baloths
+1 [RTR:123] Druid's Deliverance
+1 [M21:347] Speaker of the Heavens
+1 [MBS:15] Phyrexian Rebirth
+1 [RTR:207] Vitu-Ghazi Guildmage
+1 [AKH:2] Anointed Procession
+1 [ISD:19] Intangible Virtue
+1 [CMR:50] Soul of Eternity
+1 [C19:6] Song of the Worldsoul
+1 [BFZ:26] Felidar Sovereign
+1 [AKH:183] Sandwurm Convergence
+1 [RTR:209] Wayfaring Temple
+1 [DST:159] Well of Lost Dreams
+1 [CMR:285] Lathiel, the Bounteous Dawn
+1 [MH2:22] Nykthos Paragon
+1 [ISD:199] Parallel Lives
+1 [KHM:374] Valkyrie Harbinger
+1 [ORI:174] Elemental Bond
+1 [M13:174] Garruk, Primal Hunter
+1 [M10:34] Soul Warden
+1 [M14:3] Angelic Accord
+1 [C21:246] Idol of Oblivion
+1 [M21:177] Cultivate
+1 [GRN:8] Dawn of Hope
+1 [MH2:179] Timeless Witness
+6 [UST:216] Forest
+4 [UST:212] Plains
+SB: 1 [RTR:206] Trostani, Selesnya's Voice
+LAYOUT MAIN:(1,9)(CMC,false,0)|([RTR:240],[RAV:281],[M21:244],[RAV:285],[OGW:174],[ZEN:214],[ODY:328],[SOI:274],[THB:248],[LRW:270],[BFZ:234],[JUD:141],[GRN:255],[AFR:256],[ELD:333],[ELD:238],[LRW:281],[XLN:257],[M10:225],[WWK:138],[HOU:182],[CON:142],[M11:229],[C21:304],[ISD:239],[SCG:143],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:212],[UST:212],[UST:212],[UST:212])([M19:314],[M12:165],[M15:173],[ISD:170],[ICE:244],[WWK:108],[SHM:237],[M21:347],[M10:34])([ELD:331],[M12:190],[CHK:239],[10E:335],[5ED:329],[RTR:223],[RTR:123],[RTR:207],[ISD:19],[C21:246],[GRN:8])([M15:33],[NPH:103],[H1R:2],[M19:196],[AFC:203],[TSP:202],[RTR:19],[SOM:175],[C21:396],[C19:35],[RTR:209],[ORI:174],[M21:177])([RNA:22],[M21:239],[GRN:123],[RTR:217],[KLD:192],[USG:306],[DGM:51],[STX:119],[SOI:227],[AKH:2],[DST:159],[CMR:285],[ISD:199],[M14:3],[MH2:179])([ELD:172],[HOU:6],[C21:386],[M13:174])([RTR:143],[ZEN:178],[MBS:15],[C19:6],[BFZ:26],[MH2:22],[KHM:374])([RAV:21],[GTC:121],[CMR:50])([AKH:183])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([RTR:206])

@@ -1,0 +1,93 @@
+1 [KTK:233] Flooded Strand
+1 [RNA:251] Hallowed Fountain
+1 [ZNE:16] Sea of Clouds
+1 [TMP:315] Ancient Tomb
+1 [ZEN:220] Misty Rainforest
+1 [ZEN:223] Scalding Tarn
+1 [SUM:289] Tundra
+1 [DRK:117] Maze of Ith
+1 [M15:33] Solemn Offering
+1 [ELD:331] Arcane Signet
+1 [DIS:159] Azorius Signet
+1 [RNA:22] Smothering Tithe
+1 [PCY:45] Rhystic Study
+1 [MMQ:61] Brainstorm
+1 [H1R:2] Generous Gift
+1 [ALL:22a] Arcane Denial
+1 [10E:335] Mind Stone
+1 [ICE:87] Mystic Remora
+1 [M21:239] Solemn Simulacrum
+1 [AFC:203] Commander's Sphere
+1 [9ED:297] Fellwar Stone
+1 [RTR:201] Supreme Verdict
+1 [M11:70] Preordain
+1 [10E:6] Aura of Silence
+1 [TMP:80] Propaganda
+1 [IKO:11] Drannith Magistrate
+1 [WAR:229*] Dovin, Hand of Control
+1 [RNA:189] Lavinia, Azorius Renegade
+1 [GPT:18] Spelltithe Enforcer
+1 [CHK:10] Ghostly Prison
+1 [WAR:238] God-Pharaoh's Statue
+1 [AKH:4] Approach of the Second Sun
+1 [AKH:5] Aven Mindcensor
+1 [WAR:61*] Narset, Parter of Veils
+1 [RTR:18] Rest in Peace
+1 [M12:19] Grand Abolisher
+1 [ELD:18] Hushbringer
+1 [MRD:36] Fatespinner
+1 [10E:60*] Windborn Muse
+1 [MH2:12] Esper Sentinel
+1 [CMR:319] Jeweled Lotus
+1 [DKA:24] Thalia, Guardian of Thraben
+1 [6ED:83] Mystical Tutor
+1 [RTR:35] Cyclonic Rift
+1 [EMN:46] Thalia, Heretic Cathar
+1 [ZNR:315] Archon of Emeria
+1 [GTC:6] Blind Obedience
+1 [LEG:65] Mana Drain
+1 [MBS:21] Consecrated Sphinx
+1 [C20:35] Fierce Guardianship
+1 [6ED:19] Enlightened Tutor
+1 [RTR:210] Azor's Elocutors
+1 [DOM:207] Teferi, Hero of Dominaria
+1 [ROE:33] Linvala, Keeper of Silence
+1 [WAR:221*] Teferi, Time Raveler
+1 [ALL:28] Force of Will
+1 [RTR:200] Sphinx's Revelation
+1 [RTR:24] Sphere of Safety
+1 [6ED:278] Cursed Totem
+1 [5ED:408] Winter Orb
+1 [STX:294] Strict Proctor
+1 [M12:63] Mana Leak
+1 [M21:43] Vryn Wingmare
+1 [DGM:96] Render Silent
+1 [2XM:270] Mana Crypt
+1 [M14:35] Silence
+1 [10E:61] Wrath of God
+1 [M12:73] Ponder
+1 [4ED:34] Land Tax
+1 [KLD:5] Authority of the Consuls
+1 [NPH:17] Norn's Annex
+1 [MH1:216] Unsettled Mariner
+1 [EXO:139] Sphere of Resistance
+1 [WAR:193] Dovin's Veto
+1 [PLC:54] Frozen Aether
+1 [7ED:67] Counterspell
+1 [H1R:9] Force of Negation
+1 [NPH:162] Torpor Orb
+1 [RAV:31] Suppression Field
+1 [THB:24] Idyllic Tutor
+1 [M21:27] Mangara, the Diplomat
+1 [AER:31] Disallow
+1 [CHK:268] Sensei's Divining Top
+1 [THS:65] Swan Song
+1 [DOM:4] Baird, Steward of Argive
+1 [DOM:213] Damping Sphere
+1 [STX:54] Solve the Equation
+1 [MRD:188] Isochron Scepter
+5 [UST:213] Island
+6 [UST:212] Plains
+SB: 1 [DIS:112] Grand Arbiter Augustin IV
+LAYOUT MAIN:(1,8)(CMC,false,0)|([KTK:233],[RNA:251],[ZNE:16],[TMP:315],[ZEN:220],[ZEN:223],[SUM:289],[DRK:117],[CMR:319],[2XM:270],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212],[UST:212])([MMQ:61],[ICE:87],[M11:70],[MH2:12],[6ED:83],[6ED:19],[M14:35],[M12:73],[4ED:34],[KLD:5],[CHK:268],[THS:65])([ELD:331],[DIS:159],[ALL:22a],[10E:335],[9ED:297],[IKO:11],[RNA:189],[RTR:18],[M12:19],[ELD:18],[DKA:24],[RTR:35],[GTC:6],[LEG:65],[6ED:278],[5ED:408],[STX:294],[M12:63],[MH1:216],[EXO:139],[WAR:193],[7ED:67],[NPH:162],[RAV:31],[DOM:213],[MRD:188])([M15:33],[PCY:45],[H1R:2],[AFC:203],[10E:6],[TMP:80],[WAR:229*],[CHK:10],[AKH:5],[WAR:61*],[MRD:36],[EMN:46],[ZNR:315],[C20:35],[WAR:221*],[RTR:200],[M21:43],[DGM:96],[H1R:9],[THB:24],[AER:31],[STX:54])([RNA:22],[M21:239],[RTR:201],[10E:60*],[ROE:33],[10E:61],[PLC:54],[M21:27],[DOM:4])([GPT:18],[RTR:210],[DOM:207],[ALL:28],[RTR:24],[NPH:17])([WAR:238],[MBS:21])([AKH:4])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DIS:112])

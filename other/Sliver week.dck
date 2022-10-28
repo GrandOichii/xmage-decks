@@ -1,0 +1,96 @@
+1 [STH:126] Acidic Sliver
+1 [GTC:29] Aetherize
+1 [ALA:220] Arcane Sanctum
+1 [TMP:4] Armor Sliver
+1 [TSP:96] Basal Sliver
+1 [LGN:88] Blade Sliver
+1 [RNA:245] Blood Crypt
+1 [TSP:149] Bonesplitter Sliver
+1 [RNA:246] Breeding Pool
+1 [LGN:120] Brood Sliver
+1 [GRN:233] Chromatic Lantern
+1 [TMP:112] Clot Sliver
+1 [FUT:161] Coalition Relic
+1 [ELD:333] Command Tower
+1 [ISD:174] Creeping Renaissance
+1 [ALA:222] Crumbling Necropolis
+1 [LGN:63] Crypt Sliver
+1 [STH:127] Crystalline Sliver
+1 [M21:177] Cultivate
+1 [THS:46] Curse of the Swine
+1 [TSB:8] Essence Sliver
+1 [TSP:238] Firewake Sliver
+3 [AFR:278] Forest
+1 [TSP:195] Fungus Sliver
+1 [TSP:196] Gemhide Sliver
+1 [SOM:122] Genesis Wave
+1 [RNA:248] Godless Shrine
+1 [TSP:240] Harmonic Sliver
+1 [TMP:182] Heart Sliver
+1 [STH:128] Hibernation Sliver
+1 [FUT:118] Homing Sliver
+1 [M15:100] In Garruk's Wake
+2 [AFR:266] Island
+1 [ALA:226] Jungle Shrine
+1 [CHK:225] Kodama's Reach
+1 [FUT:26] Lymph Sliver
+1 [LGN:107] Magma Sliver
+1 [FUT:53] Mesmeric Sliver
+1 [TSP:205] Might Sliver
+1 [SOM:175] Mimic Vat
+1 [JUD:139] Mirari's Wake
+1 [TMP:77] Mnemonic Sliver
+2 [AFR:274] Mountain
+1 [TMP:238] Muscle Sliver
+1 [PLC:159] Necrotic Sliver
+1 [GRN:253] Overgrown Tomb
+1 [ONS:101] Peer Pressure
+1 [10E:169] Plague Wind
+2 [AFR:262] Plains
+1 [SUM:284] Plateau
+1 [SHM:126] Prismatic Omen
+1 [TSP:72] Psionic Sliver
+1 [TSP:36] Pulmonic Sliver
+1 [LGN:136] Quick Sliver
+1 [TSP:37] Quilled Sliver
+1 [SHM:278*] Reflecting Pool
+1 [PLC:138] Reflex Sliver
+1 [ONS:309] Riptide Replicator
+1 [ZEN:61] Rite of Replication
+1 [LGN:137] Root Sliver
+1 [M19:255] Rupture Spire
+1 [GRN:254] Sacred Foundry
+1 [ALA:228] Savage Lands
+1 [SUM:286] Scrubland
+1 [ALA:229] Seaside Citadel
+1 [LGN:52] Shifting Sliver
+1 [TSP:41] Sidewinder Sliver
+1 [PLC:30] Sinew Sliver
+1 [M19:74] Sleep
+1 [M15:247] Sliver Hive
+1 [SCG:139] Sliver Overlord
+1 [STH:129] Sliver Queen
+1 [LGN:83] Spectral Sliver
+1 [TSP:219] Spinneret Sliver
+1 [PLC:80] Spitting Sliver
+1 [GRN:257] Steam Vents
+1 [RNA:259] Stomping Ground
+2 [AFR:270] Swamp
+1 [LGN:53] Synapse Sliver
+1 [TMP:50] Talon Sliver
+1 [TSP:84] Telekinetic Sliver
+1 [RTR:202] Teleportal
+1 [GRN:258] Temple Garden
+1 [ROE:91] Training Grounds
+1 [SUM:289] Tundra
+1 [TSP:183] Two-Headed Sliver
+1 [LRW:275] Vivid Crag
+1 [LRW:276] Vivid Creek
+1 [LRW:277] Vivid Grove
+1 [LRW:279] Vivid Meadow
+1 [LGN:25] Ward Sliver
+1 [GRN:259] Watery Grave
+1 [TMP:106] Winged Sliver
+SB: 1 [FUT:158] Sliver Legion
+LAYOUT MAIN:(1,7)(CMC,false,0)|([ALA:220],[RNA:245],[RNA:246],[ELD:333],[ALA:222],[AFR:278],[AFR:278],[AFR:278],[RNA:248],[AFR:266],[AFR:266],[ALA:226],[AFR:274],[AFR:274],[GRN:253],[AFR:262],[AFR:262],[SUM:284],[SHM:278*],[M19:255],[GRN:254],[ALA:228],[SUM:286],[ALA:229],[M15:247],[GRN:257],[RNA:259],[AFR:270],[AFR:270],[GRN:258],[SUM:289],[LRW:275],[LRW:276],[LRW:277],[LRW:279],[GRN:259])([TSP:41],[ROE:91])([STH:126],[TMP:112],[LGN:63],[STH:127],[THS:46],[TSP:196],[TMP:182],[STH:128],[TMP:238],[SHM:126],[LGN:136],[TSP:37],[PLC:30],[TSP:219],[TMP:50],[RTR:202],[TSP:183],[TMP:106])([TMP:4],[TSP:96],[LGN:88],[GRN:233],[FUT:161],[M21:177],[TSP:238],[SOM:122],[TSP:240],[FUT:118],[CHK:225],[SOM:175],[TMP:77],[PLC:159],[LGN:83])([GTC:29],[TSP:149],[TSB:8],[TSP:195],[LGN:107],[FUT:53],[ONS:101],[PLC:138],[ONS:309],[ZEN:61],[LGN:137],[LGN:52],[M19:74],[TSP:84])([LGN:120],[ISD:174],[FUT:26],[TSP:205],[JUD:139],[TSP:72],[TSP:36],[SCG:139],[STH:129],[PLC:80],[LGN:53],[LGN:25])([M15:100],[10E:169])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([FUT:158])
