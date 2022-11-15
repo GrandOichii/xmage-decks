@@ -1,0 +1,85 @@
+1 [ALA:220] Arcane Sanctum
+1 [WWK:96] Avenger of Zendikar
+1 [RAV:78] Brainspoil
+1 [ISD:46] Cackling Counterpart
+1 [MOR:116] Chameleon Colossus
+1 [LRW:160] Changeling Berserker
+1 [LRW:9] Changeling Hero
+1 [LRW:200] Changeling Titan
+1 [M14:47] Clone
+1 [BRC:135] Commander's Sphere
+1 [TSB:39] Conspiracy
+1 [LRW:11] Crib Swap
+1 [ALA:222] Crumbling Necropolis
+1 [M21:177] Cultivate
+1 [2X2:198] Dack's Duplicate
+1 [M14:207] Darksteel Ingot
+1 [AVR:47] Deadeye Navigator
+1 [KLD:75] Diabolic Tutor
+1 [GTC:33] Diluvian Primordial
+1 [M13:88] Disciple of Bolas
+1 [ISD:212] Evil Twin
+1 [BRO:261] Evolving Wilds
+1 [DTK:186] Explosive Vegetation
+1 [M13:14] Faith's Reward
+1 [SHM:113] Farhaven Elf
+1 [M13:170] Farseek
+1 [9ED:297] Fellwar Stone
+1 [ORI:147] Flameshadow Conjuring
+1 [ORI:98] Fleshbag Marauder
+1 [KTK:234] Frontier Bivouac
+1 [APC:105] Guided Passage
+1 [SHM:253] Heap Doll
+1 [ARB:81] Identity Crisis
+1 [ALA:226] Jungle Shrine
+1 [CHK:225] Kodama's Reach
+1 [DGM:81] Legion's Initiative
+1 [SOM:175] Mimic Vat
+1 [LRW:31] Mirror Entity
+1 [LRW:76] Mulldrifter
+1 [SOM:180] Myr Battlesphere
+1 [KTK:236] Mystic Monastery
+1 [ICE:87] Mystic Remora
+1 [WWK:108] Nature's Claim
+1 [SOM:188] Nim Deathmantle
+1 [KTK:237] Nomad Outpost
+1 [KTK:238] Opulent Palace
+1 [ULG:63] Phyrexian Reclamation
+1 [MBS:88] Praetor's Counsel
+1 [M12:190] Rampant Growth
+1 [M19:196] Reclamation Sage
+1 [ZEN:61] Rite of Replication
+1 [CHK:239] Sakura-Tribe Elder
+1 [KTK:241] Sandsteppe Citadel
+1 [ALA:228] Savage Lands
+1 [M20:238] Scuttlemutt
+1 [ALA:229] Seaside Citadel
+1 [GTC:75] Sepulchral Primordial
+1 [LRW:85] Shapesharer
+1 [CON:91] Shard Convergence
+1 [LRW:139] Shriekmaw
+1 [DTK:120] Sidisi, Undead Vizier
+1 [LRW:140] Skeletal Changeling
+1 [M13:69] Sphinx of Uthuun
+1 [EVE:162] Spitting Image
+1 [GTC:53] Stolen Identity
+1 [M12:219] Swiftfoot Boots
+1 [M11:198] Sylvan Ranger
+1 [KTK:211] Villainous Wealth
+1 [LRW:275] Vivid Crag
+1 [LRW:276] Vivid Creek
+1 [LRW:277] Vivid Grove
+1 [LRW:278] Vivid Marsh
+1 [LRW:279] Vivid Meadow
+1 [9ED:283] Wood Elves
+1 [NPH:51] Xenograft
+1 [UDS:124] Yavimaya Elder
+8 [UST:216] Forest
+5 [UST:213] Island
+3 [UST:215] Mountain
+3 [UST:212] Plains
+3 [UST:214] Swamp
+1 [CC1:4] Seedborn Muse
+SB: 1 [SHM:260] Reaper King
+LAYOUT MAIN:(1,9)(CMC,false,0)|([ALA:220],[ALA:222],[BRO:261],[KTK:234],[ALA:226],[KTK:236],[KTK:237],[KTK:238],[KTK:241],[ALA:228],[ALA:229],[LRW:275],[LRW:276],[LRW:277],[LRW:278],[LRW:279],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:216],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:215],[UST:215],[UST:215],[UST:212],[UST:212],[UST:212],[UST:214],[UST:214],[UST:214])([SHM:253],[ICE:87],[WWK:108],[ULG:63])([M13:170],[9ED:297],[DGM:81],[SOM:188],[M12:190],[CHK:239],[LRW:85],[LRW:140],[M12:219],[M11:198])([ISD:46],[BRC:135],[LRW:11],[M21:177],[M14:207],[SHM:113],[ORI:98],[APC:105],[CHK:225],[SOM:175],[LRW:31],[M19:196],[M20:238],[KTK:211],[9ED:283],[UDS:124])([MOR:116],[LRW:160],[M14:47],[2X2:198],[KLD:75],[M13:88],[ISD:212],[DTK:186],[M13:14],[ORI:147],[ZEN:61],[CON:91])([RAV:78],[LRW:9],[LRW:200],[TSB:39],[LRW:76],[LRW:139],[DTK:120],[NPH:51],[CC1:4])([AVR:47],[ARB:81],[EVE:162],[GTC:53])([WWK:96],[GTC:33],[SOM:180],[GTC:75],[M13:69])([MBS:88])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([SHM:260])
