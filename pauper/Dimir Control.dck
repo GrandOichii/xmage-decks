@@ -1,0 +1,29 @@
+NAME:Dimir Control
+2 [WAR:41] Augur of Bolas
+4 [MMQ:61] Brainstorm
+2 [TOR:57] Chainer's Edict
+4 [MID:388] Consider
+4 [DMU:245] Contaminated Aquifer
+4 [7ED:67] Counterspell
+3 [TOR:36] Deep Analysis
+4 [FRF:72] Gurmag Angler
+4 [KHM:262] Ice Tunnel
+4 [JUD:46] Mental Note
+4 [MMQ:162] Snuff Out
+2 [NEO:80] Spell Pierce
+1 [IKO:100] Suffocating Fumes
+4 [DKA:52] Thought Scour
+4 [DMU:72] Tolarian Terror
+1 [IKO:102] Unexpected Fangs
+9 [UST:213] Island
+SB: 1 [ALA:153] Agony Warp
+SB: 1 [TOR:57] Chainer's Edict
+SB: 1 [BFZ:76] Dispel
+SB: 4 [5ED:94] Hydroblast
+SB: 4 [SOM:187] Nihil Spellbomb
+SB: 1 [M14:116] Shrivel
+SB: 1 [NEO:80] Spell Pierce
+SB: 1 [IKO:100] Suffocating Fumes
+SB: 1 [IKO:102] Unexpected Fangs
+LAYOUT MAIN:(1,6)(CMC,false,0)|([DMU:245],[DMU:245],[DMU:245],[DMU:245],[KHM:262],[KHM:262],[KHM:262],[KHM:262],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213])([MMQ:61],[MMQ:61],[MMQ:61],[MMQ:61],[MID:388],[MID:388],[MID:388],[MID:388],[JUD:46],[JUD:46],[JUD:46],[JUD:46],[NEO:80],[NEO:80],[DKA:52],[DKA:52],[DKA:52],[DKA:52])([WAR:41],[WAR:41],[TOR:57],[TOR:57],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[IKO:102])([IKO:100])([TOR:36],[TOR:36],[TOR:36],[MMQ:162],[MMQ:162],[MMQ:162],[MMQ:162])([FRF:72],[FRF:72],[FRF:72],[FRF:72],[DMU:72],[DMU:72],[DMU:72],[DMU:72])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ALA:153],[TOR:57],[BFZ:76],[5ED:94],[5ED:94],[5ED:94],[5ED:94],[SOM:187],[SOM:187],[SOM:187],[SOM:187],[M14:116],[NEO:80],[IKO:100],[IKO:102])

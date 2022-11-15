@@ -1,0 +1,24 @@
+NAME:Pauper Burn
+4 [LEG:137] Chain Lightning
+4 [10E:314] Chromatic Star
+4 [NEO:138] Experimental Synthesizer
+2 [VIS:79] Fireblast
+4 [SOM:91] Galvanic Blast
+1 [ZEN:125] Goblin Bushwhacker
+4 [MRD:282] Great Furnace
+3 [VOW:164] Kessig Flamebreather
+4 [SOM:96] Kuldotha Rebirth
+1 [JUD:94] Lava Dart
+4 [M11:149] Lightning Bolt
+4 [KTK:118] Monastery Swiftspear
+4 [VOW:174] Reckless Impulse
+4 [VOW:182] Voldaren Epicure
+13 [UST:215] Mountain
+SB: 3 [VOW:155] End the Festivities
+SB: 2 [MRD:101] Molten Rain
+SB: 3 [5ED:262] Pyroblast
+SB: 3 [ALA:218] Relic of Progenitus
+SB: 2 [ORI:163] Smash to Smithereens
+SB: 2 [J21:529] Unholy Heat
+LAYOUT MAIN:(1,4)(CMC,false,0)|([MRD:282],[MRD:282],[MRD:282],[MRD:282],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215],[UST:215])([LEG:137],[LEG:137],[LEG:137],[LEG:137],[10E:314],[10E:314],[10E:314],[10E:314],[NEO:138],[NEO:138],[NEO:138],[NEO:138],[SOM:91],[SOM:91],[SOM:91],[SOM:91],[ZEN:125],[SOM:96],[SOM:96],[SOM:96],[SOM:96],[JUD:94],[M11:149],[M11:149],[M11:149],[M11:149],[KTK:118],[KTK:118],[KTK:118],[KTK:118],[VOW:182],[VOW:182],[VOW:182],[VOW:182])([VOW:164],[VOW:164],[VOW:164],[VOW:174],[VOW:174],[VOW:174],[VOW:174])([VIS:79],[VIS:79])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([VOW:155],[VOW:155],[VOW:155],[MRD:101],[MRD:101],[5ED:262],[5ED:262],[5ED:262],[ALA:218],[ALA:218],[ALA:218],[ORI:163],[ORI:163],[J21:529],[J21:529])

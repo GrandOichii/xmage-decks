@@ -1,0 +1,98 @@
+1 [UDS:1] Academy Rector
+1 [M14:2] Ajani's Chosen
+1 [THB:1] Alseid of Life's Bounty
+1 [TMP:315] Ancient Tomb
+1 [SOI:242] Anguished Unmaking
+1 [ELD:331] Arcane Signet
+1 [THB:298] Archon of Sun's Grace
+1 [ZEN:211] Arid Mesa
+1 [10E:6] Aura of Silence
+1 [KLD:5] Authority of the Consuls
+1 [SUM:282] Badlands
+1 [C21:375] Battlemage's Bracers
+1 [SNC:102] Big Score
+1 [CLB:669] Black Market Connections
+1 [ISD:130] Blasphemous Act
+1 [RNA:245] Blood Crypt
+1 [KTK:230] Bloodstained Mire
+1 [WWK:132] Bojuka Bog
+1 [RAV:255] Boros Signet
+1 [TOR:139] Cabal Coffers
+1 [RNA:160] Captive Audience
+1 [SNC:418] Cemetery Tampering
+1 [DOM:239] Clifftop Retreat
+1 [ELD:333] Command Tower
+1 [CMR:114] Court of Ambition
+1 [AKH:84] Cruel Reality
+1 [VOW:152] Curse of Hospitality
+1 [MB1:896] Curse of Opulence
+1 [MH2:396] Damn
+1 [C21:87] Darksteel Mutation
+1 [CMR:118] Demonic Lore
+1 [C19:24] Dockside Extortionist
+1 [XLN:252] Dragonskull Summit
+1 [MH2:12] Esper Sentinel
+1 [BNG:68] Fate Unraveler
+1 [AKH:13] Forsake the Worldly
+1 [H1R:2] Generous Gift
+1 [CHK:10] Ghostly Prison
+1 [RNA:248] Godless Shrine
+1 [RTR:67] Grave Betrayal
+1 [SHM:7] Greater Auramancy
+1 [JOU:73] Grim Guardian
+1 [H1R:39] Hall of Heliod's Generosity
+1 [MID:263] Haunted Ridge
+1 [DOM:241] Isolated Chapel
+1 [WAR:94] Kaya's Ghostform
+1 [M19:107] Liliana's Contract
+1 [ZNE:18] Luxury Suite
+1 [PZ2:20] Marchesa's Decree
+1 [ZEN:219] Marsh Flats
+1 [M12:25] Mesa Enchantress
+1 [5ED:182] Necropotence
+1 [JOU:18] Nyx-Fleece Ram
+1 [GPT:155] Orzhov Signet
+1 [ARN:31+] Oubliette
+1 [40K:46] Out of the Tombs
+1 [SOM:73] Painful Quandary
+1 [BFZ:120] Painful Truths
+1 [CON:15] Path to Exile
+1 [KLD:227] Perpetual Timepiece
+1 [SUM:284] Plateau
+1 [DIS:165] Rakdos Signet
+1 [M19:254] Reliquary Tower
+1 [UDS:15] Replenish
+1 [GRN:254] Sacred Foundry
+1 [IKO:253] Savai Triome
+1 [SUM:286] Scrubland
+1 [USG:325] Serra's Sanctum
+1 [C19:5] Sevinne's Reclamation
+1 [VOW:264] Shattered Sanctum
+1 [ORI:31] Sigil of the Empty Throne
+1 [RNA:22] Smothering Tithe
+2 [KHM:282] Snow-Covered Mountain
+3 [KHM:276] Snow-Covered Plains
+2 [KHM:280] Snow-Covered Swamp
+1 [SUM:274] Sol Ring
+1 [CMR:356] Spectator Seating
+1 [RTR:24] Sphere of Safety
+1 [NEO:38] Spirited Companion
+1 [M20:39] Starfield Mystic
+1 [ORI:33] Starfield of Nyx
+1 [XLN:165] Sunbird's Invocation
+1 [VOW:266] Sundown Pass
+1 [ICE:54] Swords to Plowshares
+1 [H1R:33] Talisman of Conviction
+1 [H1R:36] Talisman of Hierarchy
+1 [MRD:255] Talisman of Indulgence
+1 [THB:117] Treacherous Blessing
+1 [AKH:112] Trespasser's Curse
+1 [JOU:157] Underworld Coinsmith
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [MID:333] Vanquish the Horde
+1 [CMR:360] Vault of Champions
+1 [DIS:77] War's Toll
+1 [C13:133] Witch Hunt
+SB: 1 [CMR:275] Ghen, Arcanum Weaver
+LAYOUT MAIN:(1,10)(CMC,false,0)|([TMP:315],[ZEN:211],[SUM:282],[RNA:245],[KTK:230],[WWK:132],[TOR:139],[DOM:239],[ELD:333],[XLN:252],[RNA:248],[H1R:39],[MID:263],[DOM:241],[ZNE:18],[ZEN:219],[SUM:284],[M19:254],[GRN:254],[IKO:253],[SUM:286],[USG:325],[VOW:264],[KHM:282],[KHM:282],[KHM:276],[KHM:276],[KHM:276],[KHM:280],[KHM:280],[CMR:356],[VOW:266],[M15:248],[CMR:360])([THB:1],[KLD:5],[MB1:896],[MH2:12],[WAR:94],[CON:15],[SUM:274],[ICE:54])([ELD:331],[RAV:255],[MH2:396],[C21:87],[C19:24],[SHM:7],[JOU:18],[GPT:155],[KLD:227],[DIS:165],[NEO:38],[M20:39],[H1R:33],[H1R:36],[MRD:255],[AKH:112],[JOU:157])([SOI:242],[10E:6],[C21:375],[CLB:669],[SNC:418],[VOW:152],[CMR:118],[AKH:13],[H1R:2],[CHK:10],[JOU:73],[M12:25],[5ED:182],[ARN:31+],[40K:46],[BFZ:120],[C19:5],[THB:117])([UDS:1],[M14:2],[THB:298],[SNC:102],[CMR:114],[BNG:68],[PZ2:20],[UDS:15],[RNA:22],[DIS:77])([M19:107],[SOM:73],[ORI:31],[RTR:24],[ORI:33],[C13:133])([XLN:165])([RNA:160],[AKH:84],[RTR:67])([MID:333])([ISD:130])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([CMR:275])

@@ -1,0 +1,54 @@
+NAME:AFR
+1 [AFR:138] Delina, Wild Mage
+1 [AFR:106] Grim Bounty
+1 [AFR:119] Shambling Ghast
+1 [AFR:120] Skullport Merchant
+1 [AFR:115] Precipitous Drop
+1 [AFR:101] Eyes of the Beholder
+1 [AFR:105] Gelatinous Cube
+1 [AFR:104] Forsworn Paladin
+1 [AFR:110] Hoard Robber
+1 [AFR:164] Unexpected Windfall
+1 [AFR:294] Red Dragon
+1 [AFR:167] Xorn
+1 [AFR:94] Deadly Dispute
+1 [AFR:225] Kalain, Reclusive Painter
+1 [AFR:98] Drider
+1 [AFR:129] Zombie Ogre
+1 [AFR:123] Vampire Spawn
+1 [AFR:128] Yuan-Ti Fang-Blade
+1 [AFR:95] Death-Priest of Myrkul
+1 [AFR:125] Warlock Class
+1 [AFR:146] Hoarding Ogre
+1 [AFR:122] Thieves' Tools
+1 [AFR:102] Fates' Reversal
+1 [AFR:274] Mountain
+3 [AFR:277] Mountain
+3 [AFR:271] Swamp
+2 [AFR:272] Swamp
+2 [AFR:270] Swamp
+6 [AFR:273] Swamp
+SB: 1 [AFR:201] Purple Worm
+SB: 1 [AFR:234] Targ Nar, Demon-Fang Gnoll
+SB: 1 [AFR:168] You Come to the Gnoll Camp
+SB: 1 [AFR:89] Baleful Beholder
+SB: 1 [AFR:178] Compelled Duel
+SB: 1 [AFR:102] Fates' Reversal
+SB: 1 [AFR:43] You're Ambushed on the Road
+SB: 1 [AFR:75] Soulknife Spy
+SB: 1 [AFR:51] Clever Conjurer
+SB: 1 [AFR:118] Sepulcher Ghoul
+SB: 1 [AFR:109] Hired Hexblade
+SB: 1 [AFR:314] Manticore
+SB: 1 [AFR:265] Plains
+SB: 1 [AFR:97] Devour Intellect
+SB: 1 [AFR:34] Potion of Healing
+SB: 1 [AFR:83] You Come to a River
+SB: 1 [AFR:93] Clattering Skeletons
+SB: 1 [AFR:103] Feign Death
+SB: 1 [AFR:232] Skeletal Swarming
+SB: 1 [AFR:47] Bar the Gate
+SB: 1 [AFR:46] Arcane Investigator
+SB: 1 [AFR:84] You Find the Villains' Lair
+LAYOUT MAIN:(1,7)(CMC,false,0)|([AFR:274],[AFR:277],[AFR:277],[AFR:277],[AFR:271],[AFR:272],[AFR:271],[AFR:270],[AFR:273],[AFR:273],[AFR:273],[AFR:271],[AFR:270],[AFR:273],[AFR:272],[AFR:273],[AFR:273])([AFR:104],[AFR:119],[AFR:125])([AFR:94],[AFR:110],[AFR:225],[AFR:122],[AFR:102])([AFR:115],[AFR:120],[AFR:167],[AFR:123],[AFR:128])([AFR:138],[AFR:105],[AFR:106],[AFR:164],[AFR:95],[AFR:146])([AFR:98],[AFR:129])([AFR:101],[AFR:294])
+LAYOUT SIDEBOARD:(1,4)(NONE,false,50)|([AFR:168],[AFR:89],[AFR:102],[AFR:118],[AFR:109])([AFR:314],[AFR:97])([AFR:93],[AFR:103])([AFR:201],[AFR:234],[AFR:178],[AFR:43],[AFR:75],[AFR:51],[AFR:265],[AFR:34],[AFR:83],[AFR:46],[AFR:84],[AFR:47],[AFR:232])

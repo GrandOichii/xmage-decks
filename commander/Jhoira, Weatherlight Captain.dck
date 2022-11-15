@@ -1,0 +1,101 @@
+1 [TSP:269] Academy Ruins
+1 [KLD:192] Aetherflux Reservoir
+1 [ELD:331] Arcane Signet
+1 [USG:63] Barrin, Master Wizard
+1 [SUM:235] Basalt Monolith
+1 [KHM:123] Birgi, God of Storytelling
+1 [SCG:29] Brain Freeze
+1 [EVE:175] Cascade Bluffs
+1 [AVR:226] Cavern of Souls
+1 [M15:47] Chief Engineer
+1 [8ED:322] City of Brass
+1 [RAV:257] Cloudstone Curio
+1 [ELD:333] Command Tower
+1 [7ED:67] Counterspell
+1 [RTR:35] Cyclonic Rift
+1 [M15:242] Darksteel Citadel
+1 [ORI:55] Displacement Wave
+1 [CLB:63] Displacer Kitten
+1 [C19:24] Dockside Extortionist
+1 [KLD:44] Dramatic Reversal
+1 [ELD:342] Emry, Lurker of the Loch
+1 [NEO:218] Enthusiastic Mechanaut
+1 [ALA:42] Etherium Sculptor
+1 [WWK:123] Everflowing Chalice
+1 [MH1:238] Fiery Islet
+1 [MH1:255] Flusterstorm
+1 [ALL:28] Force of Will
+1 [STX:265] Frostboil Snarl
+1 [USG:188] Gamble
+1 [H1R:16] Goblin Engineer
+1 [ULG:80] Goblin Welder
+1 [TSP:160] Grapeshot
+1 [MRD:282] Great Furnace
+1 [ULG:126] Grim Monolith
+1 [VIS:145] Helm of Awakening
+1 [10E:88] Hurkyl's Recall
+1 [TSP:164] Ignite Memories
+1 [KLD:247] Inventors' Fair
+2 [AFR:266] Island
+1 [MRD:188] Isochron Scepter
+1 [WAR:54*] Jace, Wielder of Mysteries
+1 [CMR:319] Jeweled Lotus
+1 [ISD:61] Laboratory Maniac
+1 [TMP:294] Lotus Petal
+1 [JOU:163] Mana Confluence
+1 [2XM:270] Mana Crypt
+1 [LEG:65] Mana Drain
+1 [5ED:388] Mana Vault
+1 [SOM:174] Memnite
+1 [UDS:135] Metalworker
+1 [SCG:41] Mind's Desire
+1 [MH1:57] Mirrodin Besieged
+1 [CSP:138] Mishra's Bauble
+1 [AFR:274] Mountain
+1 [DOM:224] Mox Amber
+1 [SOM:179] Mox Opal
+1 [M20:233] Mystic Forge
+1 [WAR:61*] Narset, Parter of Veils
+1 [AER:167] Ornithopter
+1 [NEO:271] Otawara, Soaring City
+1 [FUT:42] Pact of Negation
+1 [KLD:60] Paradoxical Outcome
+1 [NPH:42] Phyrexian Metamorph
+1 [H1R:40] Prismatic Vista
+1 [ULG:40] Rebuild
+1 [KLD:126] Reckless Fireweaver
+1 [DST:32] Retract
+1 [PCY:45] Rhystic Study
+1 [ZNR:264] Riverglide Pathway
+1 [M19:69] Sai, Master Thopterist
+1 [ZEN:223] Scalding Tarn
+1 [TMP:308] Scroll Rack
+1 [MRD:283] Seat of the Synod
+1 [SOM:201] Semblance Anvil
+1 [CHK:268] Sensei's Divining Top
+1 [ALL:129] Shield Sphere
+1 [ORI:251] Shivan Reef
+1 [DST:140] Skullclamp
+1 [SUM:274] Sol Ring
+1 [AER:184] Spire of Industry
+1 [KLD:249] Spirebluff Canal
+1 [GRN:257] Steam Vents
+1 [RIX:173] Storm the Vault
+1 [VOW:265] Stormcarved Coast
+1 [DOM:247] Sulfur Falls
+1 [M21:294] Teferi's Ageless Insight
+1 [SCG:53] Temporal Fissure
+1 [THB:308] Thassa's Oracle
+1 [M21:241] Tormod's Crypt
+1 [CMR:358] Training Center
+1 [AFR:261] Treasure Vault
+1 [SOM:48] Trinket Mage
+1 [5ED:406] Urza's Bauble
+1 [MH2:259] Urza's Saga
+1 [H1R:11] Urza, Lord High Artificer
+1 [MRD:55] Vedalken Archmage
+1 [SUM:185] Wheel of Fortune
+1 [ONS:122] Words of Wind
+SB: 1 [DOM:197] Jhoira, Weatherlight Captain
+LAYOUT MAIN:(1,7)(CMC,false,0)|([TSP:269],[EVE:175],[AVR:226],[8ED:322],[ELD:333],[M15:242],[WWK:123],[MH1:238],[STX:265],[MRD:282],[KLD:247],[AFR:266],[AFR:266],[CMR:319],[TMP:294],[JOU:163],[2XM:270],[SOM:174],[CSP:138],[AFR:274],[DOM:224],[SOM:179],[AER:167],[NEO:271],[FUT:42],[H1R:40],[ZNR:264],[ZEN:223],[MRD:283],[ALL:129],[ORI:251],[AER:184],[KLD:249],[GRN:257],[VOW:265],[DOM:247],[M21:241],[CMR:358],[AFR:261],[5ED:406],[MH2:259])([MH1:255],[USG:188],[ULG:80],[5ED:388],[DST:32],[CHK:268],[DST:140],[SUM:274])([ELD:331],[SCG:29],[M15:47],[7ED:67],[RTR:35],[ORI:55],[C19:24],[KLD:44],[NEO:218],[ALA:42],[H1R:16],[TSP:160],[ULG:126],[VIS:145],[10E:88],[MRD:188],[LEG:65],[KLD:126],[TMP:308],[THB:308])([USG:63],[SUM:235],[KHM:123],[RAV:257],[ELD:342],[ISD:61],[UDS:135],[MH1:57],[WAR:61*],[ULG:40],[PCY:45],[M19:69],[SOM:201],[SOM:48],[SUM:185],[ONS:122])([KLD:192],[CLB:63],[WAR:54*],[M20:233],[KLD:60],[NPH:42],[RIX:173],[M21:294],[H1R:11],[MRD:55])([ALL:28],[TSP:164],[SCG:53])([SCG:41])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([DOM:197])

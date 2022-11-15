@@ -1,0 +1,96 @@
+1 [EMN:116] Alchemist's Greeting
+1 [5ED:140] Animate Dead
+1 [ELD:331] Arcane Signet
+1 [AKH:78] Archfiend of Ifnir
+1 [C19:14] Archfiend of Spite
+1 [ZEN:211] Arid Mesa
+1 [SOI:99] Asylum Visitor
+1 [SOI:145] Avacyn's Judgment
+1 [MB1:1394] Azra Oddsmaker
+1 [PLC:63] Big Game Hunter
+1 [MH2:115] Blazing Rootwalla
+1 [KHM:252] Blightstep Pathway
+1 [RNA:245] Blood Crypt
+1 [7ED:121] Blood Pet
+1 [EMN:181] Bloodhall Priest
+1 [SOI:146] Bloodmad Vampire
+1 [C19:15] Bone Miser
+1 [ODY:118] Buried Alive
+1 [TSP:97] Call to the Netherworld
+1 [VOW:150] Change of Fortune
+1 [AFC:117] Chaos Warp
+1 [MRD:152] Chrome Mox
+1 [ELD:333] Command Tower
+1 [C19:16] Curse of Fool's Wisdom
+1 [ICE:118] Dance of the Dead
+1 [MMQ:129] Dark Ritual
+1 [TSP:101] Dark Withering
+1 [MH2:397] Dauthi Voidwalker
+1 [XLN:252] Dragonskull Summit
+1 [CON:142] Exotic Orchard
+1 [M21:246] Fabled Passage
+1 [DKA:87] Faithless Looting
+1 [ZNR:102] Feed the Swarm
+1 [SOI:156] Fiery Temper
+1 [DOM:93] Final Parting
+1 [SOI:272] Foreboding Ruins
+1 [SOI:111] From Under the Floorboards
+1 [TSP:111] Gorgon Recluse
+1 [FUT:86] Grave Scrabbler
+1 [MH2:88] Hell Mongrel
+1 [FUT:68] Ichor Slick
+1 [ROE:115] Inquisition of Kozilek
+1 [CMR:187] Jeska's Will
+1 [C19:18] K'rrik, Son of Yawgmoth
+1 [MH2:343] Kitchen Imp
+1 [TMP:142] Living Death
+1 [SOI:173] Malevolent Whispers
+1 [JOU:163] Mana Confluence
+1 [ZEN:219] Marsh Flats
+1 [ELD:131] Merchant of the Vale
+1 [PLC:76] Muck Drubb
+1 [SOI:126] Murderous Compulsion
+1 [MH2:398] Necrogoyf
+1 [VIS:64] Necromancy
+1 [TSP:121] Nightshade Assassin
+1 [CMR:141] Opposition Agent
+1 [C19:125] Overseer of the Damned
+1 [THB:147] Ox of Agonas
+1 [MH2:345] Persist
+1 [KTK:239] Polluted Delta
+1 [5ED:262] Pyroblast
+1 [RTR:184] Rakdos Charm
+1 [TMP:151] Reanimate
+1 [PLC:120] Reckless Wurm
+1 [M19:254] Reliquary Tower
+1 [MH2:139] Revolutionist
+1 [ZEN:223] Scalding Tarn
+1 [CHK:268] Sensei's Divining Top
+1 [VOC:22] Shadowgrange Archfiend
+1 [H1R:18] Shenanigans
+1 [PLC:122] Simian Spirit Guide
+1 [BFZ:247] Smoldering Marsh
+4 [KHM:282] Snow-Covered Mountain
+4 [KHM:280] Snow-Covered Swamp
+1 [SUM:274] Sol Ring
+1 [10E:239] Squee, Goblin Nabob
+1 [FUT:90] Street Wraith
+1 [EMN:146] Stromkirk Occultist
+1 [10E:359] Sulfurous Springs
+1 [AFR:270] Swamp
+1 [TOR:142] Tainted Peak
+1 [NEO:278] Takenuma, Abandoned Mire
+1 [MRD:255] Talisman of Indulgence
+1 [MH2:215] Terminal Agony
+1 [M21:165] Thrill of Possibility
+1 [KHM:153] Tibalt's Trickery
+1 [ZEN:229] Verdant Catacombs
+1 [USG:166] Victimize
+1 [M20:122] Vilis, Broker of Blood
+1 [TOR:117] Violent Eruption
+1 [CMR:211] Wheel of Misfortune
+1 [ELD:110] Wishclaw Talisman
+1 [JUD:103] Worldgorger Dragon
+SB: 1 [C19:37] Anje Falkenrath
+LAYOUT MAIN:(1,9)(CMC,false,0)|([ZEN:211],[KHM:252],[RNA:245],[MRD:152],[ELD:333],[XLN:252],[CON:142],[M21:246],[SOI:272],[JOU:163],[ZEN:219],[KTK:239],[M19:254],[ZEN:223],[BFZ:247],[KHM:282],[KHM:282],[KHM:282],[KHM:282],[KHM:280],[KHM:280],[KHM:280],[KHM:280],[10E:359],[AFR:270],[TOR:142],[NEO:278],[ZEN:229])([MH2:115],[7ED:121],[TSP:97],[MMQ:129],[DKA:87],[ROE:115],[5ED:262],[TMP:151],[CHK:268],[SUM:274])([5ED:140],[ELD:331],[SOI:99],[SOI:145],[ICE:118],[MH2:397],[ZNR:102],[SOI:126],[MH2:345],[RTR:184],[H1R:18],[MRD:255],[M21:165],[KHM:153],[ELD:110])([MB1:1394],[PLC:63],[SOI:146],[ODY:118],[AFC:117],[SOI:156],[FUT:68],[CMR:187],[ELD:131],[VIS:64],[CMR:141],[PLC:122],[10E:239],[EMN:146],[USG:166],[CMR:211])([EMN:181],[VOW:150],[FUT:86],[MH2:88],[MH2:343],[SOI:173],[TSP:121],[MH2:215],[TOR:117])([EMN:116],[AKH:78],[C19:15],[DOM:93],[SOI:111],[TSP:111],[TMP:142],[PLC:76],[MH2:398],[THB:147],[PLC:120],[FUT:90])([C19:16],[TSP:101],[MH2:139],[JUD:103])([C19:14],[C19:18],[C19:125],[VOC:22])([M20:122])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([C19:37])

@@ -1,0 +1,72 @@
+1 [5ED:140] Animate Dead
+1 [TSB:37] Avatar of Woe
+1 [SOI:101] Behold the Beyond
+1 [WWK:132] Bojuka Bog
+1 [UDS:54] Bubbling Muck
+1 [ODY:118] Buried Alive
+1 [KHM:349] Burning-Rune Demon
+1 [TOR:139] Cabal Coffers
+1 [USG:123] Contamination
+1 [GTC:61] Crypt Ghast
+1 [DTK:93] Damnable Pact
+1 [PLC:85] Damnation
+1 [ORI:90] Dark Petition
+1 [MMQ:129] Dark Ritual
+1 [SCG:64] Decree of Pain
+1 [SUM:105] Demonic Tutor
+1 [M13:88] Disciple of Bolas
+1 [KHM:351] Draugr Necromancer
+1 [ODY:132] Entomb
+1 [THS:85] Erebos, God of the Dead
+1 [SOI:109] Ever After
+1 [ZEN:201] Expedition Map
+1 [SOM:61] Exsanguinate
+1 [WAR:91] Finale of Eternity
+1 [ORI:98] Fleshbag Marauder
+1 [ZEN:89] Gatekeeper of Malakir
+1 [M12:98] Grave Titan
+1 [THB:355] Gray Merchant of Asphodel
+1 [AVR:107] Harvester of Souls
+1 [ROE:7] It That Betrays
+1 [CHK:122] Kokusho, the Evening Star
+1 [ORI:105] Languish
+1 [MRD:199] Lightning Greaves
+1 [M15:103] Liliana Vess
+1 [M14:102] Liliana of the Dark Realms
+1 [2XM:270] Mana Crypt
+1 [DKA:70] Mikaeus, the Unhallowed
+1 [HOU:165] Mirage Mirror
+1 [5ED:182] Necropotence
+1 [5ED:391] Nevinyrral's Disk
+1 [KLD:96] Noxious Gearhulk
+1 [BFZ:119] Ob Nixilis Reignited
+1 [C13:84] Ophiomancer
+1 [9ED:152] Phyrexian Arena
+1 [NPH:68] Phyrexian Obliterator
+1 [NPH:71] Praetor's Grasp
+1 [TMP:151] Reanimate
+1 [M14:111] Rise of the Dark Realms
+1 [M12:106] Rune-Scarred Demon
+1 [CHK:268] Sensei's Divining Top
+1 [DTK:120] Sidisi, Undead Vizier
+1 [M15:114] Sign in Blood
+1 [SUM:274] Sol Ring
+1 [M21:239] Solemn Simulacrum
+1 [M12:109] Sorin Markov
+1 [MBS:138] Sword of Feast and Famine
+1 [KHM:112] Tergrid, God of Fright
+1 [UDS:139] Thran Dynamo
+1 [2XM:110] Toxic Deluge
+1 [M11:218] Triskelion
+1 [RTR:83] Underworld Connections
+1 [M15:248] Urborg, Tomb of Yawgmoth
+1 [6ED:161] Vampiric Tutor
+1 [USG:166] Victimize
+1 [BFZ:17] Void Winnower
+1 [SOM:223] Wurmcoil Engine
+1 [J12:1] Xiahou Dun, the One-Eyed
+1 [AER:75] Yahenni's Expertise
+31 [UST:214] Swamp
+SB: 1 [NPH:73] Sheoldred, Whispering One
+LAYOUT MAIN:(1,11)(CMC,false,0)|([WWK:132],[TOR:139],[2XM:270],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([UDS:54],[MMQ:129],[ODY:132],[ZEN:201],[TMP:151],[CHK:268],[SUM:274],[6ED:161])([5ED:140],[DTK:93],[SUM:105],[SOM:61],[WAR:91],[ZEN:89],[MRD:199],[M15:114])([ODY:118],[USG:123],[ORI:98],[HOU:165],[5ED:182],[C13:84],[9ED:152],[NPH:71],[MBS:138],[2XM:110],[RTR:83],[USG:166],[M15:248])([GTC:61],[PLC:85],[M13:88],[KHM:351],[THS:85],[ORI:105],[M14:102],[5ED:391],[NPH:68],[M21:239],[UDS:139],[J12:1],[AER:75])([ORI:90],[THB:355],[M15:103],[BFZ:119],[DTK:120],[KHM:112])([KHM:349],[SOI:109],[M12:98],[AVR:107],[CHK:122],[DKA:70],[KLD:96],[M12:109],[M11:218],[SOM:223])([SOI:101],[M12:106])([TSB:37],[SCG:64])([M14:111],[BFZ:17])([ROE:7])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([NPH:73])
