@@ -1,0 +1,32 @@
+3 [BRC:174] Ash Barrens
+2 [WAR:41] Augur of Bolas
+3 [MMQ:61] Brainstorm
+2 [DOM:81] Cast Down
+2 [TOR:57] Chainer's Edict
+4 [7ED:67] Counterspell
+1 [BFZ:76] Dispel
+1 [BRO:261] Evolving Wilds
+4 [J21:190] Faerie Seer
+2 [FRF:72] Gurmag Angler
+4 [KHM:262] Ice Tunnel
+3 [BOK:44] Ninja of the Deep Hours
+4 [M11:70] Preordain
+4 [MMQ:162] Snuff Out
+2 [NEO:80] Spell Pierce
+4 [LRW:89] Spellstutter Sprite
+1 [IKO:100] Suffocating Fumes
+2 [CMR:154] Thorn of the Black Rose
+2 [UST:214] Swamp
+10 [UST:213] Island
+SB: 1 [ALA:153] Agony Warp
+SB: 2 [CLB:113] Arms of Hadar
+SB: 1 [NEO:92] Debt to the Kami
+SB: 2 [TMP:128] Diabolic Edict
+SB: 1 [BFZ:76] Dispel
+SB: 1 [ZNR:102] Feed the Swarm
+SB: 3 [5ED:94] Hydroblast
+SB: 1 [SOM:187] Nihil Spellbomb
+SB: 1 [ALA:218] Relic of Progenitus
+SB: 2 [IKO:102] Unexpected Fangs
+LAYOUT MAIN:(1,6)(CMC,false,0)|([BRC:174],[BRC:174],[BRC:174],[BRO:261],[KHM:262],[KHM:262],[KHM:262],[KHM:262],[UST:214],[UST:214],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213],[UST:213])([MMQ:61],[MMQ:61],[MMQ:61],[BFZ:76],[J21:190],[J21:190],[J21:190],[J21:190],[M11:70],[M11:70],[M11:70],[M11:70],[NEO:80],[NEO:80])([WAR:41],[WAR:41],[DOM:81],[DOM:81],[TOR:57],[TOR:57],[7ED:67],[7ED:67],[7ED:67],[7ED:67],[LRW:89],[LRW:89],[LRW:89],[LRW:89])([IKO:100])([BOK:44],[BOK:44],[BOK:44],[MMQ:162],[MMQ:162],[MMQ:162],[MMQ:162],[CMR:154],[CMR:154])([FRF:72],[FRF:72])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([ALA:153],[CLB:113],[CLB:113],[NEO:92],[TMP:128],[TMP:128],[BFZ:76],[ZNR:102],[5ED:94],[5ED:94],[5ED:94],[SOM:187],[ALA:218],[IKO:102],[IKO:102])

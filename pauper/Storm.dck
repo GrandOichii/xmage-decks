@@ -1,0 +1,27 @@
+4 [TOR:51] Cabal Ritual
+4 [10E:314] Chromatic Star
+4 [MMQ:129] Dark Ritual
+4 [AFR:94] Deadly Dispute
+4 [NEO:138] Experimental Synthesizer
+4 [STX:102] First Day of Class
+2 [MRD:282] Great Furnace
+4 [FRF:72] Gurmag Angler
+2 [SOM:96] Kuldotha Rebirth
+4 [SHM:211] Manamorphose
+4 [5DN:55] Night's Whisper
+3 [MMQ:322] Peat Bog
+4 [CSP:96] Rite of Flame
+3 [MMQ:326] Sandstone Needle
+2 [KHM:282] Snow-Covered Mountain
+2 [KHM:280] Snow-Covered Swamp
+4 [DMU:72] Tolarian Terror
+2 [MRD:286] Vault of Whispers
+SB: 1 [JUD:89] Flaring Pain
+SB: 1 [STX:4] Introduction to Prophecy
+SB: 2 [STX:211] Pest Summoning
+SB: 4 [5ED:262] Pyroblast
+SB: 2 [M14:116] Shrivel
+SB: 1 [7ED:276] Tranquility
+SB: 4 [IKO:102] Unexpected Fangs
+LAYOUT MAIN:(1,4)(CMC,false,0)|([MRD:282],[MRD:282],[MMQ:322],[MMQ:322],[MMQ:322],[MMQ:326],[MMQ:326],[MMQ:326],[KHM:282],[KHM:282],[KHM:280],[KHM:280],[MRD:286],[MRD:286])([10E:314],[10E:314],[10E:314],[10E:314],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[NEO:138],[NEO:138],[NEO:138],[NEO:138],[SOM:96],[SOM:96],[CSP:96],[CSP:96],[CSP:96],[CSP:96])([TOR:51],[TOR:51],[TOR:51],[TOR:51],[AFR:94],[AFR:94],[AFR:94],[AFR:94],[STX:102],[STX:102],[STX:102],[STX:102],[SHM:211],[SHM:211],[SHM:211],[SHM:211],[5DN:55],[5DN:55],[5DN:55],[5DN:55])([FRF:72],[FRF:72],[FRF:72],[FRF:72],[DMU:72],[DMU:72],[DMU:72],[DMU:72])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([JUD:89],[STX:4],[STX:211],[STX:211],[5ED:262],[5ED:262],[5ED:262],[5ED:262],[M14:116],[M14:116],[7ED:276],[IKO:102],[IKO:102],[IKO:102],[IKO:102])

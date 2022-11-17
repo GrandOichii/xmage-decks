@@ -1,0 +1,29 @@
+3 [ARB:17] Architects of Will
+4 [BRC:174] Ash Barrens
+4 [ONS:312] Barren Moor
+1 [LGN:61] Blood Celebrant
+4 [TOR:51] Cabal Ritual
+4 [MMQ:129] Dark Ritual
+2 [MH2:193] Dihada's Ploy
+4 [IKO:10] Drannith Healer
+4 [IKO:113] Drannith Stinger
+4 [AKH:95] Horror of the Broken Lands
+4 [IKO:17] Imposing Vantasaur
+1 [BRO:270] Island
+4 [TMP:294] Lotus Petal
+1 [TSP:69] Mystical Teachings
+4 [SCG:72] Reaping the Graves
+1 [VOW:73] Repository Skaab
+4 [ICE:160] Songs of the Damned
+4 [FUT:90] Street Wraith
+3 [UST:214] Swamp
+SB: 3 [TSB:40] Darkness
+SB: 2 [MID:98] Duress
+SB: 1 [BRO:276] Forest
+SB: 2 [ISD:183] Gnaw to the Bone
+SB: 2 [5ED:94] Hydroblast
+SB: 1 [BRO:274] Mountain
+SB: 3 [5ED:262] Pyroblast
+SB: 1 [MMQ:162] Snuff Out
+LAYOUT MAIN:(1,7)(CMC,false,0)|([BRC:174],[BRC:174],[BRC:174],[BRC:174],[ONS:312],[ONS:312],[ONS:312],[ONS:312],[BRO:270],[TMP:294],[TMP:294],[TMP:294],[TMP:294],[UST:214],[UST:214],[UST:214])([LGN:61],[MMQ:129],[MMQ:129],[MMQ:129],[MMQ:129],[ICE:160],[ICE:160],[ICE:160],[ICE:160])([TOR:51],[TOR:51],[TOR:51],[TOR:51],[IKO:10],[IKO:10],[IKO:10],[IKO:10],[IKO:113],[IKO:113],[IKO:113],[IKO:113])([MH2:193],[MH2:193],[SCG:72],[SCG:72],[SCG:72],[SCG:72])([ARB:17],[ARB:17],[ARB:17],[TSP:69],[VOW:73])([AKH:95],[AKH:95],[AKH:95],[AKH:95],[FUT:90],[FUT:90],[FUT:90],[FUT:90])([IKO:17],[IKO:17],[IKO:17],[IKO:17])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([TSB:40],[TSB:40],[TSB:40],[MID:98],[MID:98],[BRO:276],[ISD:183],[ISD:183],[5ED:94],[5ED:94],[BRO:274],[5ED:262],[5ED:262],[5ED:262],[MMQ:162])

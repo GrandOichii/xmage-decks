@@ -1,0 +1,26 @@
+NAME:Bogles
+4 [AVR:167] Abundant Growth
+4 [MMQ:229] Ancestral Mask
+4 [INV:229] Armadillo Cloak
+2 [BRC:174] Ash Barrens
+3 [AKH:7] Cartouche of Solidarity
+3 [NEO:180] Commune with Spirits
+4 [RTR:9] Ethereal Armor
+13 [BRO:276] Forest
+4 [M14:176] Gladecover Scout
+1 [M12:24] Lifelink
+2 [BRO:268] Plains
+4 [M13:185] Rancor
+4 [GPT:94] Silhana Ledgewalker
+4 [EVE:160] Slippery Bogle
+4 [DIS:99] Utopia Sprawl
+SB: 2 [JUD:89] Flaring Pain
+SB: 2 [M14:171] Fog
+SB: 2 [VIS:5] Freewind Falcon
+SB: 1 [M12:24] Lifelink
+SB: 2 [IKO:170] Ram Through
+SB: 2 [CON:90] Scattershot Archer
+SB: 2 [APC:18] Standard Bearer
+SB: 2 [DKA:134] Young Wolf
+LAYOUT MAIN:(1,4)(CMC,false,0)|([BRC:174],[BRC:174],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:276],[BRO:268],[BRO:268])([AVR:167],[AVR:167],[AVR:167],[AVR:167],[AKH:7],[AKH:7],[AKH:7],[NEO:180],[NEO:180],[NEO:180],[RTR:9],[RTR:9],[RTR:9],[RTR:9],[M14:176],[M14:176],[M14:176],[M14:176],[M12:24],[M13:185],[M13:185],[M13:185],[M13:185],[EVE:160],[EVE:160],[EVE:160],[EVE:160],[DIS:99],[DIS:99],[DIS:99],[DIS:99])([GPT:94],[GPT:94],[GPT:94],[GPT:94])([MMQ:229],[MMQ:229],[MMQ:229],[MMQ:229],[INV:229],[INV:229],[INV:229],[INV:229])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([JUD:89],[JUD:89],[M14:171],[M14:171],[VIS:5],[VIS:5],[M12:24],[IKO:170],[IKO:170],[CON:90],[CON:90],[APC:18],[APC:18],[DKA:134],[DKA:134])
