@@ -1,0 +1,38 @@
+2 [LEB:70] Phantom Monster
+2 [LEB:60] Invisibility
+1 [LEB:47] Air Elemental
+3 [LEB:191] Craw Wurm
+3 [LEB:230] Wild Growth
+1 [LEB:77] Sea Serpent
+1 [LEB:214] Regeneration
+1 [LEB:215] Regrowth
+1 [LEB:74] Prodigal Sorcerer
+2 [LEB:59] Flight
+2 [LEB:198] Giant Growth
+1 [LEB:228] War Mammoth
+2 [LEB:87] Unsummon
+1 [LEB:211] Llanowar Elves
+1 [LEB:200] Grizzly Bears
+2 [LEB:302] Forest
+7 [LEB:301] Forest
+4 [LEB:292] Island
+2 [LEB:291] Island
+1 [LEB:293] Island
+SB: 1 [LEB:40] Serra Angel
+SB: 2 [LEB:12] Circle of Protection: Green
+SB: 2 [LEB:18] Death Ward
+SB: 1 [LEB:39] Savannah Lions
+SB: 3 [LEB:10] Circle of Protection: Black
+SB: 1 [LEB:38] Samite Healer
+SB: 1 [LEB:123] Raise Dead
+SB: 1 [LEB:23] Healing Salve
+SB: 1 [LEB:170] Red Elemental Blast
+SB: 2 [LEB:11] Circle of Protection: Blue
+SB: 1 [LEB:25] Holy Strength
+SB: 1 [LEB:73] Power Sink
+SB: 1 [LEB:217] Shanodin Dryads
+SB: 1 [LEB:80] Spell Blast
+SB: 1 [LEB:218] Stream of Life
+SB: 1 [LEB:67] Merfolk of the Pearl Trident
+LAYOUT MAIN:(1,7)(CMC,false,50)|([LEB:302],[LEB:301],[LEB:301],[LEB:301],[LEB:301],[LEB:301],[LEB:301],[LEB:302],[LEB:301],[LEB:292],[LEB:291],[LEB:292],[LEB:293],[LEB:291],[LEB:292],[LEB:292])([LEB:59],[LEB:59],[LEB:198],[LEB:198],[LEB:211],[LEB:87],[LEB:87],[LEB:230],[LEB:230],[LEB:230])([LEB:200],[LEB:60],[LEB:60],[LEB:214],[LEB:215])([LEB:74])([LEB:70],[LEB:70],[LEB:228])([LEB:47])([LEB:191],[LEB:191],[LEB:191],[LEB:77])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([LEB:123])([LEB:73],[LEB:80],[LEB:67])([LEB:217],[LEB:218])([LEB:170])([LEB:40],[LEB:12],[LEB:18],[LEB:39],[LEB:10],[LEB:38],[LEB:18],[LEB:10],[LEB:12],[LEB:23],[LEB:10],[LEB:11],[LEB:25],[LEB:11])
