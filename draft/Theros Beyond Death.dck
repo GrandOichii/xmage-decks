@@ -1,0 +1,44 @@
+1 [THB:202] Skola Grovedancer
+1 [THB:179] Moss Viper
+1 [THB:181] Nessian Boar
+1 [THB:196] Renata, Called to the Hunt
+1 [THB:201] Setessan Training
+1 [THB:204] Warbriar Blessing
+2 [THB:173] Hyrax Tower Scout
+2 [THB:177] Loathsome Chimera
+1 [THB:187] Nylea's Huntmaster
+1 [THB:193] Pheres-Band Brawler
+1 [THB:174] Ilysian Caryatid
+1 [THB:186] Nylea's Forerunner
+2 [THB:111] Pharika's Libation
+2 [THB:86] Blight-Breath Catoblepas
+1 [THB:114] Scavenging Harpy
+1 [THB:115] Soulreaper of Mogis
+1 [THB:112] Pharika's Spawn
+1 [THB:122] Venomous Hierophant
+1 [THB:103] Lampad of Death's Vigil
+4 [THB:287] Forest
+4 [THB:254] Forest
+2 [THB:286] Forest
+3 [THB:282] Swamp
+2 [THB:252] Swamp
+2 [THB:283] Swamp
+SB: 1 [THB:125] Anax, Hardened in the Forge
+SB: 1 [THB:134] Final Flare
+SB: 1 [THB:249] Unknown Shores
+SB: 2 [THB:250] Plains
+SB: 1 [THB:254] Forest
+SB: 1 [THB:252] Swamp
+SB: 1 [THB:139] Impending Doom
+SB: 1 [THB:206] Acolyte of Affliction
+SB: 1 [THB:251] Island
+SB: 2 [THB:253] Mountain
+SB: 1 [THB:58] Omen of the Sea
+SB: 1 [THB:191] Nyxborn Colossus
+SB: 2 [THB:175] Inspire Awe
+SB: 1 [THB:173] Hyrax Tower Scout
+SB: 2 [THB:184] Nexus Wardens
+SB: 2 [THB:195] Relentless Pursuit
+SB: 1 [THB:166] The Binding of the Titans
+LAYOUT MAIN:(1,7)(CMC,false,50)|([THB:287],[THB:287],[THB:254],[THB:254],[THB:286],[THB:286],[THB:287],[THB:254],[THB:254],[THB:287],[THB:282],[THB:252],[THB:283],[THB:283],[THB:252],[THB:282],[THB:282])([THB:179])([THB:174],[THB:103],[THB:201],[THB:202],[THB:204])([THB:173],[THB:173],[THB:177],[THB:177],[THB:111],[THB:111],[THB:114],[THB:115])([THB:187],[THB:112],[THB:196],[THB:122])([THB:181],[THB:186])([THB:86],[THB:86],[THB:193])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([THB:249],[THB:250],[THB:254],[THB:252],[THB:251],[THB:253],[THB:253],[THB:250])([THB:58])([THB:125],[THB:134],[THB:139],[THB:195],[THB:166])([THB:195])([THB:184],[THB:184],[THB:173],[THB:175],[THB:206])([THB:191])([THB:175])

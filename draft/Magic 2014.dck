@@ -1,0 +1,46 @@
+1 [M14:2] Ajani's Chosen
+1 [M14:155] Shock
+2 [M14:15] Dawnstrike Paladin
+1 [M14:153] Shiv's Embrace
+1 [M14:4] Angelic Wall
+1 [M14:19] Fortify
+1 [M14:30] Sentinel Sliver
+1 [M14:20] Griffin Sentinel
+1 [M14:142] Goblin Shortcutter
+1 [M14:131] Canyon Minotaur
+2 [M14:163] Young Pyromancer
+1 [M14:8] Blessing
+1 [M14:147] Molten Birth
+1 [M14:144] Lightning Talons
+1 [M14:28] Pillarfield Ox
+1 [M14:159] Thunder Strike
+1 [M14:33] Show of Valor
+1 [M14:6] Auramancer
+1 [M14:17] Divine Favor
+1 [M14:138] Dragon Hatchling
+1 [M14:21] Hive Stirrings
+1 [M14:34] Siege Mastodon
+1 [M14:209] Elixir of Immortality
+2 [M14:243] Mountain
+5 [M14:245] Mountain
+2 [M14:231] Plains
+2 [M14:233] Plains
+4 [M14:232] Plains
+SB: 2 [M14:245] Mountain
+SB: 1 [M14:213] Millstone
+SB: 1 [M14:82] Zephyr Charge
+SB: 1 [M14:236] Island
+SB: 1 [M14:249] Forest
+SB: 1 [M14:237] Island
+SB: 1 [M14:235] Island
+SB: 1 [M14:171] Fog
+SB: 1 [M14:204] Accorder's Shield
+SB: 1 [M14:242] Mountain
+SB: 3 [M14:248] Forest
+SB: 1 [M14:97] Duress
+SB: 2 [M14:157] Striking Sliver
+SB: 1 [M14:156] Smelt
+SB: 1 [M14:27] Pay No Heed
+SB: 1 [M14:21] Hive Stirrings
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M14:243],[M14:245],[M14:245],[M14:245],[M14:245],[M14:245],[M14:243],[M14:231],[M14:233],[M14:231],[M14:232],[M14:233],[M14:232],[M14:232],[M14:232])([M14:209],[M14:155])([M14:4],[M14:8],[M14:17],[M14:138],[M14:142],[M14:30],[M14:33],[M14:159],[M14:163],[M14:163])([M14:6],[M14:19],[M14:20],[M14:21],[M14:144],[M14:147])([M14:2],[M14:131],[M14:28],[M14:153])([M14:15],[M14:15],[M14:34])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M14:245],[M14:213],[M14:245],[M14:236],[M14:249],[M14:237],[M14:235],[M14:204],[M14:242],[M14:248],[M14:248],[M14:248])([M14:97])([M14:82],[M14:157],[M14:157])([M14:171],[M14:156],[M14:27])([M14:21])

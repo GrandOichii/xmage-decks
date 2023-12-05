@@ -1,0 +1,45 @@
+1 [M15:245] Radiant Fountain
+1 [M15:212] Avarice Amulet
+1 [M15:88] Carrion Crow
+1 [M15:92] Crippling Blight
+3 [M15:98] Flesh to Dust
+1 [M15:108] Necromancer's Stockpile
+1 [M15:121] Wall of Limbs
+1 [M15:124] Xathrid Slyblade
+1 [M15:125] Zof Shade
+3 [M15:49] Coral Barrier
+1 [M15:55] Frost Lynx
+1 [M15:60] Into the Void
+1 [M15:66] Kapsho Kitefins
+1 [M15:67] Master of Predicaments
+1 [M15:69] Military Intelligence
+1 [M15:82] Void Snare
+1 [M15:113] Shadowcloak Vampire
+1 [M15:95] Eternal Thirst
+1 [M15:114] Sign in Blood
+1 [M15:86] Black Cat
+3 [M15:257] Island
+1 [M15:256] Island
+2 [M15:255] Island
+1 [M15:254] Island
+2 [M15:260] Swamp
+3 [M15:261] Swamp
+1 [M15:258] Swamp
+3 [M15:259] Swamp
+SB: 1 [M15:223] Ornithopter
+SB: 2 [M15:265] Mountain
+SB: 1 [M15:253] Plains
+SB: 1 [M15:120] Unmake the Graves
+SB: 1 [M15:96] Feast on the Fallen
+SB: 1 [M15:105] Necrobite
+SB: 2 [M15:107] Necromancer's Assistant
+SB: 2 [M15:123] Witch's Familiar
+SB: 1 [M15:70] Mind Sculpt
+SB: 1 [M15:77] Research Assistant
+SB: 1 [M15:92] Crippling Blight
+SB: 2 [M15:82] Void Snare
+SB: 1 [M15:260] Swamp
+SB: 1 [M15:259] Swamp
+SB: 3 [M15:254] Island
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M15:245],[M15:257],[M15:256],[M15:255],[M15:257],[M15:254],[M15:257],[M15:255],[M15:260],[M15:261],[M15:258],[M15:259],[M15:261],[M15:260],[M15:259],[M15:259],[M15:261])([M15:92],[M15:82])([M15:69],[M15:108],[M15:95],[M15:114],[M15:86])([M15:88],[M15:49],[M15:49],[M15:55],[M15:121],[M15:124],[M15:49])([M15:212],[M15:60],[M15:125])([M15:98],[M15:98],[M15:67],[M15:113],[M15:98])([M15:66])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,50)|([M15:223],[M15:260],[M15:259])([M15:265],[M15:265],[M15:70],[M15:82],[M15:77],[M15:92],[M15:82],[M15:254],[M15:254],[M15:254])([M15:253])([M15:107],[M15:107],[M15:120],[M15:123],[M15:123])([M15:105])([M15:96])

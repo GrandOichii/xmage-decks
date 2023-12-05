@@ -1,0 +1,70 @@
+1 [MB1:841] Arc Trail
+1 [MB1:859] Bloodlust Inciter
+1 [MB1:301] Brainstorm
+1 [MB1:302] Brilliant Spectrum
+1 [MB1:881] Cartouche of Zeal
+1 [MB1:333] Coralhelm Guide
+1 [MB1:903] Desperate Ravings
+1 [MB1:939] Frontline Devastator
+1 [MB1:1010] Maximize Velocity
+1 [MB1:434] Mist Raven
+1 [MB1:454] Phantasmal Dragon
+1 [MB1:493] Skitter Eel
+1 [MB1:521] Thought Collapse
+1 [MB1:522] Thought Scour
+1 [MB1:528] Totally Lost
+1 [MB1:1099] Voldaren Duelist
+1 [MB1:549] Wind Drake
+1 [MB1:551] Windrider Eel
+1 [MB1:1105] Young Pyromancer
+1 [MB1:1106] Zada's Commando
+2 [MB1:297] Benthic Infiltrator
+1 [MB1:1511] Wee Dragonauts
+3 [NEO:295] Island
+3 [NEO:296] Island
+1 [NEO:285] Island
+4 [NEO:286] Island
+2 [NEO:289] Mountain
+2 [NEO:290] Mountain
+2 [NEO:300] Mountain
+SB: 1 [MB1:151] Kor Bladewhirl
+SB: 1 [MB1:270] Wall of Omens
+SB: 1 [MB1:169] Lunarch Mantle
+SB: 1 [MB1:560] Aid the Fallen
+SB: 1 [MB1:561] Alesha's Vanguard
+SB: 1 [MB1:564] Ambitious Aetherborn
+SB: 1 [MB1:571] Bartizan Bats
+SB: 1 [MB1:588] Cackling Imp
+SB: 1 [MB1:592] Carrion Feeder
+SB: 1 [MB1:606] Crow of Dark Tidings
+SB: 1 [MB1:617] Dead Reveler
+SB: 1 [MB1:649] Evincar's Justice
+SB: 1 [MB1:706] March of the Drowned
+SB: 1 [MB1:788] Tavern Swindler
+SB: 1 [MB1:789] Tendrils of Corruption
+SB: 1 [MB1:808] Urborg Uprising
+SB: 1 [MB1:827] Windgrace Acolyte
+SB: 1 [MB1:516] Temporal Fissure
+SB: 1 [MB1:295] Befuddle
+SB: 1 [MB1:989] Keldon Overseer
+SB: 1 [MB1:378] Flashfreeze
+SB: 1 [MB1:409] Jeering Homunculus
+SB: 1 [ZEN:234a] Island
+SB: 1 [WC00:jf335] Island
+SB: 1 [CMD:305] Island
+SB: 1 [PRWK:A03] Island
+SB: 1 [10E:368] Island
+SB: 1 [ITP:57] Island
+SB: 1 [E01:103] Island
+SB: 1 [PANA:212] Island
+SB: 1 [SLD:551] Island
+SB: 1 [3ED:297] Island
+SB: 1 [PTK:169] Island
+SB: 1 [ZEN:242] Mountain
+SB: 1 [DDP:74] Mountain
+SB: 1 [GK1:49] Mountain
+SB: 1 [ICE:377] Mountain
+SB: 1 [ME3:226] Mountain
+SB: 1 [PD2:31] Mountain
+LAYOUT MAIN:(1,6)(CMC,false,50)|([NEO:295],[NEO:295],[NEO:296],[NEO:296],[NEO:285],[NEO:286],[NEO:286],[NEO:286],[NEO:295],[NEO:296],[NEO:286],[NEO:289],[NEO:290],[NEO:290],[NEO:289],[NEO:300],[NEO:300])([MB1:859],[MB1:301],[MB1:881],[MB1:1010],[MB1:522])([MB1:841],[MB1:333],[MB1:903],[MB1:1105],[MB1:1106])([MB1:297],[MB1:297],[MB1:521],[MB1:1511],[MB1:549])([MB1:302],[MB1:939],[MB1:434],[MB1:454],[MB1:493],[MB1:1099],[MB1:551])([MB1:528])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([MB1:560],[MB1:561],[MB1:564],[MB1:571],[MB1:588],[MB1:592],[MB1:606],[MB1:617],[MB1:649],[MB1:706],[MB1:788],[MB1:789],[MB1:808],[MB1:827])([MB1:151],[MB1:169],[MB1:270])([MB1:516],[ZEN:234a],[WC00:jf335],[CMD:305],[PRWK:A03],[10E:368],[ITP:57],[E01:103],[PANA:212],[SLD:551],[3ED:297],[PTK:169],[ZEN:242],[DDP:74],[GK1:49],[ICE:377],[ME3:226],[PD2:31])([MB1:295])([MB1:989])([MB1:378])([MB1:409])

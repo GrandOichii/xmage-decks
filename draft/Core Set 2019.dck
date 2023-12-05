@@ -1,0 +1,51 @@
+1 [M19:160] Spit Flame
+1 [M19:23] Leonin Warleader
+1 [M19:12] Gallant Cavalry
+2 [M19:133] Crash Through
+1 [M19:164] Tormenting Voice
+1 [M19:135] Demanding Dragon
+1 [M19:157] Siegebreaker Giant
+1 [M19:165] Trumpet Blast
+1 [M19:150] Lava Axe
+1 [M19:153] Onakke Ogre
+1 [M19:35] Revitalize
+1 [M19:159] Sparktongue Dragon
+2 [M19:147] Hostile Minotaur
+1 [M19:19] Knight's Pledge
+1 [M19:11] Dwarven Priest
+1 [M19:1] Aegis of the Heavens
+1 [M19:132] Catalyst Elemental
+1 [M19:217] Heroic Reinforcements
+1 [M19:245] Skyscanner
+1 [M19:241] Meteor Golem
+1 [M19:15] Inspired Charge
+1 [M19:233] Explosive Apparatus
+3 [M19:273] Mountain
+2 [M19:274] Mountain
+3 [M19:275] Mountain
+1 [M19:276] Mountain
+2 [M19:261] Plains
+3 [M19:264] Plains
+1 [M19:263] Plains
+1 [M19:262] Plains
+SB: 1 [M19:119] Skymarch Bloodletter
+SB: 1 [M19:95] Epicure of Blood
+SB: 2 [M19:50] Disperse
+SB: 1 [M19:100] Hired Blade
+SB: 2 [M19:101] Infectious Horror
+SB: 1 [M19:254] Reliquary Tower
+SB: 1 [M19:274] Mountain
+SB: 1 [M19:276] Mountain
+SB: 1 [M19:125] Vampire Sovereign
+SB: 1 [M19:252] Highland Lake
+SB: 1 [M19:183] Giant Spider
+SB: 1 [M19:273] Mountain
+SB: 1 [M19:202] Talons of Wildwood
+SB: 1 [M19:124] Vampire Neonate
+SB: 1 [M19:181] Ghastbark Twins
+SB: 1 [M19:180] Elvish Rejuvenator
+SB: 1 [M19:179] Elvish Clancaller
+SB: 1 [M19:170] Bristling Boar
+SB: 1 [M19:41] Trusty Packbeast
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M19:273],[M19:274],[M19:275],[M19:275],[M19:273],[M19:275],[M19:273],[M19:276],[M19:274],[M19:261],[M19:264],[M19:261],[M19:264],[M19:263],[M19:264],[M19:262])([M19:133],[M19:133],[M19:233])([M19:1],[M19:19],[M19:35],[M19:164])([M19:132],[M19:153],[M19:245],[M19:160],[M19:165])([M19:11],[M19:12],[M19:217],[M19:147],[M19:147],[M19:23],[M19:15])([M19:135],[M19:150],[M19:157],[M19:159])([M19:241])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([M19:254],[M19:274],[M19:276],[M19:252],[M19:273])([M19:119],[M19:95],[M19:100],[M19:101],[M19:125],[M19:124],[M19:101])([M19:50],[M19:50])([M19:183],[M19:202],[M19:181],[M19:180],[M19:41],[M19:179],[M19:170])

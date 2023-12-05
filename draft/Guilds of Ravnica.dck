@@ -1,0 +1,41 @@
+1 [GRN:226] Flower // Flourish
+1 [GRN:197] Rosemane Centaur
+1 [GRN:30] Venerated Loxodon
+1 [GRN:11] Flight of Equenauts
+1 [GRN:17] Intrusive Packbeast
+2 [GRN:19] Light of the Legion
+1 [GRN:14] Healer's Hawk
+1 [GRN:6] Conclave Tribunal
+2 [GRN:27] Sworn Companions
+1 [GRN:144] Siege Wurm
+1 [GRN:150] Wild Ceratok
+1 [GRN:127] Devkarin Dissident
+2 [GRN:131] Grappling Sundew
+1 [GRN:136] Kraul Harpooner
+1 [GRN:145] Sprouting Renewal
+1 [GRN:133] Hitchclaw Recluse
+1 [GRN:142] Portcullis Vine
+2 [GRN:134] Ironshell Beetle
+1 [GRN:240] Selesnya Locket
+9 [GRN:264] Forest
+8 [GRN:260] Plains
+SB: 1 [GRN:255] Selesnya Guildgate
+SB: 1 [GRN:248] Golgari Guildgate
+SB: 1 [GRN:231] Boros Locket
+SB: 1 [GRN:110] Maniacal Rage
+SB: 1 [GRN:185] League Guildmage
+SB: 1 [GRN:104] Goblin Locksmith
+SB: 1 [GRN:111] Maximize Velocity
+SB: 1 [GRN:114] Rubblebelt Boar
+SB: 1 [GRN:237] Golgari Locket
+SB: 1 [GRN:201] Swarm Guildmage
+SB: 1 [GRN:146] Urban Utopia
+SB: 2 [GRN:139] Pack's Favor
+SB: 1 [GRN:3] Candlelight Vigil
+SB: 3 [GRN:135] Kraul Foragers
+SB: 2 [GRN:122] Arboretum Elemental
+SB: 1 [GRN:144] Siege Wurm
+SB: 1 [GRN:133] Hitchclaw Recluse
+SB: 1 [GRN:25] Skyline Scout
+LAYOUT MAIN:(1,9)(CMC,false,50)|([GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:264],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260],[GRN:260])([GRN:14],[GRN:142])([GRN:127],[GRN:131],[GRN:131],[GRN:134],[GRN:134],[GRN:136])([GRN:133],[GRN:145],[GRN:27],[GRN:27],[GRN:240])([GRN:6],[GRN:150])([GRN:17],[GRN:197],[GRN:30])([GRN:19],[GRN:19])([GRN:226],[GRN:144])([GRN:11])
+LAYOUT SIDEBOARD:(1,8)(COLOR,false,50)|([GRN:255],[GRN:248],[GRN:231],[GRN:237])([GRN:110],[GRN:104],[GRN:111],[GRN:114],[GRN:25])([GRN:185],[GRN:201],[GRN:139])([GRN:146],[GRN:133])([GRN:139],[GRN:135])([GRN:3],[GRN:135],[GRN:135])([GRN:122])([GRN:122],[GRN:144])

@@ -1,0 +1,41 @@
+1 [2XM:268] Lux Cannon
+2 [2XM:52] Frogify
+2 [2XM:50] Faerie Mechanist
+2 [2XM:257] Gleaming Barrier
+2 [2XM:261] Ichor Wellspring
+1 [2XM:298] Sword of Light and Shadow
+1 [2XM:49] Esperzoa
+1 [2XM:269] Magnifying Glass
+1 [2XM:40] Apprentice Wizard
+1 [2XM:60] Parasitic Strix
+1 [2XM:238] Chief of the Foundry
+1 [2XM:46] Corridor Monitor
+1 [2XM:232] Basalt Monolith
+1 [2XM:288] Skinwing
+1 [2XM:247] Darksteel Axe
+1 [2XM:74] Vedalken Infuser
+1 [2XM:237] Cathodion
+1 [2XM:63] Relic Runner
+1 [2XM:222] Thopter Foundry
+11 [2XM:375] Island
+3 [2XM:376] Island
+1 [2XM:377] Swamp
+2 [2XM:378] Swamp
+SB: 1 [2XM:220] Sphinx Summoner
+SB: 1 [2XM:37] Valor in Akros
+SB: 1 [2XM:168] Fierce Empath
+SB: 1 [2XM:154] Bloodbriar
+SB: 1 [2XM:187] Whisperer of the Wilds
+SB: 1 [2XM:172] Invigorate
+SB: 2 [2XM:255] Expedition Map
+SB: 1 [2XM:121] Cathartic Reunion
+SB: 1 [2XM:42] Argivian Restoration
+SB: 1 [2XM:73] Treasure Mage
+SB: 2 [2XM:54] Hinder
+SB: 2 [2XM:137] Orcish Vandal
+SB: 3 [2XM:141] Ravenous Intruder
+SB: 1 [2XM:135] Lightning Axe
+SB: 1 [2XM:283] Pyrite Spellbomb
+SB: 2 [2XM:44] Brainstorm
+LAYOUT MAIN:(1,5)(CMC,false,50)|([2XM:375],[2XM:375],[2XM:376],[2XM:375],[2XM:375],[2XM:375],[2XM:376],[2XM:376],[2XM:375],[2XM:375],[2XM:375],[2XM:375],[2XM:375],[2XM:375],[2XM:377],[2XM:378],[2XM:378])([2XM:247])([2XM:46],[2XM:52],[2XM:52],[2XM:257],[2XM:257],[2XM:261],[2XM:261],[2XM:63],[2XM:222])([2XM:40],[2XM:232],[2XM:237],[2XM:238],[2XM:49],[2XM:269],[2XM:60],[2XM:298])([2XM:50],[2XM:50],[2XM:268],[2XM:288],[2XM:74])
+LAYOUT SIDEBOARD:(1,9)(COLOR,false,50)|([2XM:168],[2XM:154],[2XM:187],[2XM:172])([2XM:37])([2XM:220],[2XM:44],[2XM:44])([2XM:255],[2XM:255])([2XM:121])([2XM:42],[2XM:54])([2XM:73],[2XM:54])([2XM:137],[2XM:137],[2XM:141],[2XM:141],[2XM:141])([2XM:135],[2XM:283])

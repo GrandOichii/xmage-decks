@@ -1,0 +1,45 @@
+1 [M12:6] Archon of Justice
+1 [M12:17] Gideon's Avenger
+1 [M12:15] Elite Vanguard
+2 [M12:31] Pride Guardian
+3 [M12:38] Stormfront Pegasus
+1 [M12:2] Alabaster Mage
+1 [M12:18] Gideon's Lawkeeper
+1 [M12:26] Mighty Leap
+1 [M12:169] Cudgel Troll
+1 [M12:165] Birds of Paradise
+2 [M12:181] Jade Mage
+1 [M12:177] Giant Spider
+2 [M12:184] Lurking Crocodile
+2 [M12:179] Greater Basilisk
+1 [M12:167] Brindle Boar
+1 [M12:182] Llanowar Elves
+1 [M12:163] Arachnus Web
+4 [M12:247] Forest
+2 [M12:248] Forest
+2 [M12:249] Forest
+1 [M12:246] Forest
+3 [M12:231] Plains
+4 [M12:233] Plains
+1 [M12:230] Plains
+SB: 1 [M12:91] Devouring Swarm
+SB: 2 [M12:84] Brink of Disaster
+SB: 1 [M12:94] Distress
+SB: 2 [M12:232] Plains
+SB: 1 [M12:92] Diabolic Tutor
+SB: 1 [M12:121] Act of Treason
+SB: 1 [M12:235] Island
+SB: 1 [M12:56] Harbor Serpent
+SB: 2 [M12:244] Mountain
+SB: 1 [M12:237] Island
+SB: 1 [M12:243] Mountain
+SB: 1 [M12:234] Island
+SB: 1 [M12:248] Forest
+SB: 1 [M12:231] Plains
+SB: 1 [M12:191] Reclaim
+SB: 1 [M12:24] Lifelink
+SB: 1 [M12:173] Fog
+SB: 1 [M12:166] Bountiful Harvest
+SB: 1 [M12:190] Rampant Growth
+LAYOUT MAIN:(1,6)(CMC,false,50)|([M12:247],[M12:248],[M12:249],[M12:249],[M12:247],[M12:246],[M12:247],[M12:248],[M12:247],[M12:231],[M12:233],[M12:230],[M12:231],[M12:233],[M12:231],[M12:233],[M12:233])([M12:165],[M12:15],[M12:18],[M12:182],[M12:31],[M12:31])([M12:2],[M12:181],[M12:181],[M12:26],[M12:38],[M12:38],[M12:38])([M12:163],[M12:167],[M12:17],[M12:184],[M12:184])([M12:169],[M12:177])([M12:6],[M12:179],[M12:179])
+LAYOUT SIDEBOARD:(1,9)(COLOR,false,50)|([M12:232],[M12:235],[M12:244],[M12:244],[M12:237],[M12:243],[M12:234],[M12:248],[M12:232],[M12:231])([M12:91],[M12:84],[M12:84],[M12:94],[M12:92])([M12:56])([M12:121])([M12:191])([M12:24])([M12:173])([M12:166])([M12:190])

@@ -1,0 +1,46 @@
+2 [MH2:194] Drey Keeper
+1 [MH2:211] Ravenous Squirrel
+1 [MH2:411] Chatterstorm
+1 [MH2:413] Glimmer Bairn
+1 [MH2:166] Ignoble Hierarch
+1 [MH2:167] Jade Avenger
+1 [MH2:178] Thrasta, Tempest's Roar
+1 [MH2:180] Tireless Provisioner
+1 [MH2:272] Bone Shredder
+2 [MH2:86] Gilt-Blade Prowler
+1 [MH2:88] Hell Mongrel
+1 [MH2:343] Kitchen Imp
+1 [MH2:89] Kitchen Imp
+2 [MH2:91] Loathsome Curator
+1 [MH2:93] Necrogoyf
+1 [MH2:399] Nested Shambler
+2 [MH2:104] Tragic Fall
+1 [MH2:107] Vermin Gorger
+1 [MH2:109] World-Weary
+4 [MH2:489] Forest
+2 [MH2:490] Forest
+5 [MH2:486] Swamp
+4 [MH2:485] Swamp
+2 [MH2:245] Darkmoss Bridge
+SB: 1 [MH2:185] Arcus Acolyte
+SB: 1 [MH2:31] Skyblade's Boon
+SB: 1 [MH2:193] Dihada's Ploy
+SB: 1 [MH2:62] Shattered Ego
+SB: 1 [MH2:200] Goblin Anarchomancer
+SB: 1 [MH2:249] Mistvault Bridge
+SB: 1 [MH2:257] Tanglepool Bridge
+SB: 1 [MH2:19] Late to Dinner
+SB: 1 [MH2:226] Fodder Tosser
+SB: 1 [MH2:57] Recalibrate
+SB: 1 [MH2:127] Galvanic Relay
+SB: 1 [MH2:161] Funnel-Web Recluse
+SB: 1 [MH2:103] Tourach's Canticle
+SB: 2 [MH2:82] Discerning Taste
+SB: 2 [MH2:86] Gilt-Blade Prowler
+SB: 1 [MH2:170] Rift Sower
+SB: 1 [MH2:164] Glinting Creeper
+SB: 1 [MH2:91] Loathsome Curator
+SB: 1 [MH2:485] Swamp
+SB: 1 [MH2:489] Forest
+LAYOUT MAIN:(1,7)(CMC,false,50)|([MH2:489],[MH2:489],[MH2:489],[MH2:490],[MH2:489],[MH2:490],[MH2:486],[MH2:486],[MH2:485],[MH2:485],[MH2:485],[MH2:486],[MH2:485],[MH2:486],[MH2:486],[MH2:245],[MH2:245])([MH2:413],[MH2:166],[MH2:399],[MH2:211])([MH2:411],[MH2:167],[MH2:104],[MH2:104],[MH2:107])([MH2:272],[MH2:86],[MH2:86],[MH2:180])([MH2:88],[MH2:343],[MH2:89])([MH2:194],[MH2:194],[MH2:91],[MH2:91],[MH2:93],[MH2:109])([MH2:178])
+LAYOUT SIDEBOARD:(1,8)(COLOR,false,50)|([MH2:226],[MH2:249],[MH2:257])([MH2:57],[MH2:62],[MH2:485],[MH2:489])([MH2:127],[MH2:170])([MH2:82],[MH2:82],[MH2:86],[MH2:86])([MH2:19],[MH2:31])([MH2:185],[MH2:193],[MH2:200],[MH2:103])([MH2:164],[MH2:91])([MH2:161])

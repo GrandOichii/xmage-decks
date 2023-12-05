@@ -1,0 +1,51 @@
+1 [TSR:285] Terramorphic Expanse
+1 [TSR:199] Citanul Woodreaders
+1 [TSR:200] Durkwood Baloth
+1 [TSR:202] Evolution Charm
+1 [TSR:363] Farseek
+1 [TSR:206] Giant Dustwasp
+1 [TSR:211] Imperiosaur
+1 [TSR:212] Kavu Primarch
+1 [TSR:213] Keen Sense
+1 [TSR:221] Nantuko Shaman
+1 [TSR:222] Pendelhaven Elder
+1 [TSR:365] Primeval Titan
+1 [TSR:231] Sporesower Thallid
+2 [TSR:232] Sporoloth Ancient
+1 [TSR:237] Thallid Shell-Dweller
+1 [TSR:243] Uktabi Drake
+1 [TSR:62] Draining Whelk
+1 [TSR:321] True-Name Nemesis
+1 [TSR:79] Pongify
+1 [TSR:70] Gossamer Phantasm
+1 [TSR:92] Think Twice
+1 [TSR:69] Foresee
+1 [TSR:68] Fathom Seer
+2 [M21:272] Forest
+5 [M21:273] Forest
+3 [M21:313] Forest
+2 [M21:310] Island
+2 [M21:265] Island
+1 [M21:264] Island
+1 [M21:263] Island
+SB: 1 [TSR:10] Bound in Silence
+SB: 2 [TSR:31] Pallid Mycoderm
+SB: 1 [TSR:67] Erratic Mutation
+SB: 1 [TSR:87] Snapback
+SB: 1 [TSR:21] Judge Unworthy
+SB: 1 [TSR:50] Whitemane Lion
+SB: 1 [TSR:7] Benalish Cavalry
+SB: 1 [TSR:20] Ivory Giant
+SB: 1 [TSR:107] Dark Withering
+SB: 1 [TSR:65] Drifter il-Dal
+SB: 1 [TSR:53] Bewilder
+SB: 1 [TSR:147] Trespasser il-Vec
+SB: 1 [TSR:6] Aven Riftwatcher
+SB: 1 [TSR:120] Kor Dirge
+SB: 1 [TSR:71] Infiltrator il-Kor
+SB: 1 [TSR:105] Cutthroat il-Dal
+SB: 1 [TSR:123] Mindstab
+SB: 2 [TSR:241] Thrill of the Hunt
+SB: 1 [TSR:207] Greenseeker
+LAYOUT MAIN:(1,7)(CMC,false,50)|([TSR:285],[M21:272],[M21:273],[M21:273],[M21:273],[M21:273],[M21:313],[M21:272],[M21:313],[M21:273],[M21:313],[M21:310],[M21:265],[M21:310],[M21:265],[M21:264],[M21:263])([TSR:213],[TSR:79],[TSR:243])([TSR:202],[TSR:363],[TSR:70],[TSR:222],[TSR:237],[TSR:92],[TSR:68])([TSR:199],[TSR:221],[TSR:321])([TSR:211],[TSR:212],[TSR:231],[TSR:69])([TSR:206],[TSR:232],[TSR:232])([TSR:62],[TSR:200],[TSR:365])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([TSR:105],[TSR:107],[TSR:120],[TSR:123],[TSR:147])([TSR:53],[TSR:65],[TSR:67],[TSR:71],[TSR:87])([TSR:6],[TSR:7],[TSR:10],[TSR:20],[TSR:21],[TSR:31],[TSR:31],[TSR:50])([TSR:241])([TSR:241])([TSR:207])

@@ -1,0 +1,49 @@
+1 [ELD:76] Bake into a Pie
+1 [ELD:103] Reave Soul
+1 [ELD:107] Syr Konrad, the Grim
+1 [ELD:108] Tempting Witch
+1 [ELD:288] Order of Midnight
+1 [ELD:99] Order of Midnight
+1 [ELD:95] Malevolent Noble
+1 [ELD:200] Savvy Hunter
+1 [ELD:208] Deathless Knight
+1 [ELD:170] Outmuscle
+2 [ELD:164] Kenrith's Transformation
+2 [ELD:180] Tuinvale Treefolk
+1 [ELD:167] Oakhame Adversary
+1 [ELD:163] Keeper of Fables
+1 [ELD:154] Fierce Witchstalker
+1 [ELD:150] Curious Pair
+1 [ELD:178] Tall as a Beanstalk
+1 [ELD:176] Sporecap Spider
+1 [ELD:161] The Great Henge
+1 [ELD:155] Flaxen Intruder
+1 [ELD:174] Rosethorn Acolyte
+1 [ELD:184] Wolf's Quarry
+1 [ELD:269] Forest
+3 [ELD:268] Forest
+3 [ELD:266] Forest
+2 [ELD:267] Forest
+2 [ELD:260] Swamp
+2 [ELD:261] Swamp
+3 [ELD:258] Swamp
+SB: 1 [ELD:205] Wintermoor Commander
+SB: 1 [ELD:30] Silverflame Ritual
+SB: 2 [ELD:263] Mountain
+SB: 1 [ELD:264] Mountain
+SB: 1 [ELD:73] Wishful Merfolk
+SB: 1 [ELD:265] Mountain
+SB: 1 [ELD:257] Island
+SB: 1 [ELD:266] Forest
+SB: 1 [ELD:153] Fell the Pheasant
+SB: 1 [ELD:162] Insatiable Appetite
+SB: 2 [ELD:166] Maraleaf Rider
+SB: 2 [ELD:105] Smitten Swordmaster
+SB: 1 [ELD:175] Rosethorn Halberd
+SB: 1 [ELD:86] Eye Collector
+SB: 1 [ELD:157] Garenbrig Paladin
+SB: 1 [ELD:183] Wildwood Tracker
+SB: 1 [ELD:176] Sporecap Spider
+SB: 1 [ELD:156] Garenbrig Carver
+LAYOUT MAIN:(1,8)(CMC,false,50)|([ELD:269],[ELD:268],[ELD:266],[ELD:268],[ELD:268],[ELD:266],[ELD:266],[ELD:267],[ELD:267],[ELD:260],[ELD:261],[ELD:258],[ELD:258],[ELD:260],[ELD:258],[ELD:261])([ELD:155])([ELD:150],[ELD:164],[ELD:164],[ELD:95],[ELD:288],[ELD:99],[ELD:103])([ELD:174],[ELD:200],[ELD:176],[ELD:108])([ELD:76],[ELD:208],[ELD:154],[ELD:167],[ELD:170],[ELD:178])([ELD:163],[ELD:107])([ELD:180],[ELD:180],[ELD:184])([ELD:161])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([ELD:263],[ELD:264],[ELD:265],[ELD:263],[ELD:257],[ELD:266])([ELD:73],[ELD:105],[ELD:105],[ELD:175],[ELD:86],[ELD:183])([ELD:30],[ELD:162],[ELD:153],[ELD:176],[ELD:166],[ELD:166])([ELD:205],[ELD:157])([ELD:156])

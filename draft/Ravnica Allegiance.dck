@@ -1,0 +1,43 @@
+NAME:Ravnica Allegiance
+1 [RNA:231] Azorius Locket
+1 [RNA:219] Senate Griffin
+1 [RNA:209] Sphinx's Insight
+1 [RNA:208] Sphinx of New Prahv
+1 [RNA:204] Senate Guildmage
+1 [RNA:155] Azorius Skyguard
+1 [RNA:182] High Alert
+1 [RNA:29] Unbreakable Formation
+1 [RNA:20] Sentinel's Mark
+1 [RNA:12] Impassioned Orator
+1 [RNA:30] Watchful Giant
+2 [RNA:24] Summary Judgment
+1 [RNA:7] Concordia Pegasus
+1 [RNA:26] Tenth District Veteran
+1 [RNA:19] Resolute Watchdog
+1 [RNA:50] Senate Courier
+1 [RNA:39] Faerie Duelist
+1 [RNA:56] Swirling Torrent
+2 [RNA:51] Shimmer of Possibility
+1 [RNA:42] Mass Manipulation
+1 [RNA:33] Chillbringer
+9 [RNA:261] Island
+8 [RNA:260] Plains
+SB: 2 [RNA:69] Consign to the Pit
+SB: 1 [RNA:64] Bladebrand
+SB: 1 [RNA:71] Dead Revels
+SB: 2 [RNA:3] Archway Angel
+SB: 1 [RNA:6] Civic Stalwart
+SB: 1 [RNA:25] Syndicate Messenger
+SB: 1 [RNA:36] Coral Commando
+SB: 3 [RNA:57] Thought Collapse
+SB: 2 [RNA:51] Shimmer of Possibility
+SB: 1 [RNA:49] Sage's Row Savant
+SB: 1 [RNA:48] Quench
+SB: 1 [RNA:7] Concordia Pegasus
+SB: 1 [RNA:153] Applied Biomancy
+SB: 1 [RNA:14] Knight of Sorrows
+SB: 1 [RNA:52] Skatewing Spy
+SB: 1 [RNA:53] Skitter Eel
+SB: 1 [RNA:35] Code of Constraint
+LAYOUT MAIN:(1,7)(CMC,false,50)|([RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:261],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260],[RNA:260])([RNA:19])([RNA:7],[RNA:39],[RNA:12],[RNA:204],[RNA:20],[RNA:51],[RNA:51],[RNA:24],[RNA:24])([RNA:231],[RNA:182],[RNA:50],[RNA:26],[RNA:29])([RNA:42],[RNA:219],[RNA:208],[RNA:209])([RNA:33])([RNA:155],[RNA:56],[RNA:30])
+LAYOUT SIDEBOARD:(2,6)(COLOR,false,50)|([RNA:69],[RNA:64],[RNA:69],[RNA:71],[RNA:48])([RNA:3],[RNA:51])([RNA:7],[RNA:6],[RNA:57],[RNA:57],[RNA:49],[RNA:51],[RNA:153])([RNA:25],[RNA:57],[RNA:35])([RNA:36],[RNA:52],[RNA:53])([RNA:14])()()()()()([RNA:3])

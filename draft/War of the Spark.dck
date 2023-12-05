@@ -1,0 +1,40 @@
+2 [WAR:49] Eternal Skylord
+2 [WAR:65] Rescuer Sphinx
+2 [WAR:63] No Escape
+2 [WAR:42] Aven Eternal
+2 [WAR:57] Kasmina's Transmutation
+2 [WAR:48] Erratic Visionary
+2 [WAR:46] Contentious Plan
+1 [WAR:68] Spark Double
+1 [WAR:58] Kiora's Dambreaker
+1 [WAR:55] Jace's Triumph
+1 [WAR:67] Sky Theater Strix
+1 [WAR:54] Jace, Wielder of Mysteries
+1 [WAR:41] Augur of Bolas
+1 [WAR:75] Wall of Runes
+1 [WAR:105] Spark Harvest
+1 [WAR:196] Enter the God-Eternals
+7 [WAR:253] Island
+6 [WAR:255] Island
+2 [WAR:254] Island
+1 [WAR:258] Swamp
+1 [WAR:257] Swamp
+SB: 1 [WAR:231] Kaya, Bane of the Dead
+SB: 1 [WAR:13] Gideon Blackblade
+SB: 2 [WAR:258] Swamp
+SB: 1 [WAR:251] Plains
+SB: 1 [WAR:253] Island
+SB: 1 [WAR:38] Wanderer's Strike
+SB: 1 [WAR:261] Mountain
+SB: 2 [WAR:256] Swamp
+SB: 1 [WAR:254] Island
+SB: 3 [WAR:94] Kaya's Ghostform
+SB: 1 [WAR:76] Aid the Fallen
+SB: 2 [WAR:72] Teferi's Time Twist
+SB: 1 [WAR:60] Naga Eternal
+SB: 1 [WAR:103] Shriekdiver
+SB: 1 [WAR:64] Relentless Advance
+SB: 1 [WAR:186] Bioessence Hydra
+SB: 1 [WAR:93] Herald of the Dreadhorde
+LAYOUT MAIN:(1,7)(CMC,false,50)|([WAR:253],[WAR:255],[WAR:255],[WAR:253],[WAR:253],[WAR:253],[WAR:253],[WAR:255],[WAR:255],[WAR:254],[WAR:254],[WAR:255],[WAR:253],[WAR:253],[WAR:255],[WAR:258],[WAR:257])([WAR:105],[WAR:75])([WAR:41],[WAR:46],[WAR:46],[WAR:48],[WAR:48],[WAR:57],[WAR:57],[WAR:67])([WAR:42],[WAR:42],[WAR:55],[WAR:63],[WAR:63])([WAR:54],[WAR:65],[WAR:65],[WAR:68],[WAR:196])([WAR:49],[WAR:49])([WAR:58])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([WAR:258],[WAR:251],[WAR:253],[WAR:261],[WAR:256],[WAR:256],[WAR:258],[WAR:254])([WAR:13],[WAR:38])([WAR:231],[WAR:94])([WAR:94],[WAR:94],[WAR:76],[WAR:72],[WAR:72],[WAR:60],[WAR:103],[WAR:64])([WAR:186],[WAR:93])

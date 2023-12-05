@@ -1,0 +1,43 @@
+1 [M11:138] Fireball
+2 [M11:34] Stormfront Pegasus
+1 [M11:159] Vulshok Berserker
+2 [M11:14] Excommunicate
+1 [M11:158] Volcanic Strength
+2 [M11:23] Pacifism
+1 [M11:149] Lightning Bolt
+1 [M11:11] Condemn
+2 [M11:129] Chandra's Spitfire
+2 [M11:10] Cloud Crusader
+1 [M11:153] Pyretic Ritual
+1 [M11:5] Armored Ascension
+1 [M11:135] Ember Hauler
+1 [M11:18] Infantry Veteran
+1 [M11:40] Wild Griffin
+1 [M11:39] White Knight
+1 [M11:22] Mighty Leap
+1 [M11:209] Juggernaut
+1 [M11:205] Dragon's Claw
+4 [M11:243] Mountain
+2 [M11:245] Mountain
+1 [M11:244] Mountain
+2 [M11:231] Plains
+2 [M11:232] Plains
+4 [M11:230] Plains
+1 [M11:233] Plains
+SB: 2 [M11:46] Azure Drake
+SB: 1 [M11:45] Augury Owl
+SB: 1 [M11:80] Water Servant
+SB: 3 [M11:76] Tome Scour
+SB: 1 [M11:242] Mountain
+SB: 1 [M11:44] Armored Cancrix
+SB: 1 [M11:52] Diminish
+SB: 2 [M11:249] Forest
+SB: 1 [M11:94] Disentomb
+SB: 1 [M11:178] Giant Growth
+SB: 1 [M11:66] Merfolk Spy
+SB: 1 [M11:63] Maritime Guard
+SB: 2 [M11:142] Goblin Piker
+SB: 2 [M11:24] Palace Guard
+SB: 1 [M11:143] Goblin Tunneler
+LAYOUT MAIN:(1,5)(CMC,false,50)|([M11:243],[M11:243],[M11:243],[M11:243],[M11:245],[M11:244],[M11:245],[M11:231],[M11:232],[M11:230],[M11:230],[M11:231],[M11:230],[M11:233],[M11:232],[M11:230])([M11:11],[M11:138],[M11:18],[M11:149])([M11:205],[M11:135],[M11:22],[M11:23],[M11:23],[M11:153],[M11:34],[M11:34],[M11:158],[M11:39])([M11:129],[M11:129],[M11:14],[M11:14],[M11:40])([M11:5],[M11:10],[M11:10],[M11:209],[M11:159])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([M11:242],[M11:249],[M11:249])([M11:94])([M11:46],[M11:45],[M11:80],[M11:76],[M11:76],[M11:44],[M11:76],[M11:52],[M11:46],[M11:66],[M11:63])([M11:178])([M11:142],[M11:24],[M11:24])([M11:142],[M11:143])

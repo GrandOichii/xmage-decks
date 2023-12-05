@@ -1,0 +1,43 @@
+2 [OGW:74] Kozilek's Translator
+1 [OGW:88] Null Caller
+1 [OGW:75] Oblivion Strike
+2 [OGW:78] Sky Scourer
+3 [OGW:79] Slaughter Drone
+1 [OGW:80] Unnatural Endurance
+1 [OGW:83] Corpse Churn
+1 [OGW:85] Grasp of Darkness
+3 [OGW:73] Kozilek's Shrieker
+2 [OGW:41] Blinding Drone
+1 [OGW:42] Cultivator Drone
+1 [OGW:45] Gravity Negator
+1 [OGW:149] Mindmelter
+1 [OGW:8] Spatial Contortion
+2 [OGW:11] Warden of Geometries
+1 [OGW:170] Crumbling Vestige
+3 [OGW:184] Wastes
+1 [OGW:183] Wastes
+1 [BFZ:256a] Island
+1 [BFZ:257] Island
+1 [BFZ:255] Island
+1 [BFZ:259] Island
+1 [BFZ:260a] Swamp
+2 [BFZ:262] Swamp
+1 [BFZ:264] Swamp
+1 [BFZ:261a] Swamp
+2 [BFZ:261] Swamp
+1 [BFZ:262a] Swamp
+SB: 1 [OGW:151] Ayli, Eternal Pilgrim
+SB: 1 [OGW:123] Scion Summoner
+SB: 1 [BFZ:274] Forest
+SB: 1 [OGW:27] Makindi Aeronaut
+SB: 1 [BFZ:267] Mountain
+SB: 1 [BFZ:269] Mountain
+SB: 1 [BFZ:272] Forest
+SB: 1 [BFZ:256] Island
+SB: 2 [BFZ:260] Swamp
+SB: 1 [BFZ:262] Swamp
+SB: 1 [OGW:91] Untamed Hunger
+SB: 4 [OGW:92] Vampire Envoy
+SB: 1 [OGW:59] Negate
+LAYOUT MAIN:(1,6)(CMC,false,50)|([OGW:170],[OGW:184],[OGW:184],[OGW:183],[OGW:184],[BFZ:256a],[BFZ:257],[BFZ:255],[BFZ:259],[BFZ:260a],[BFZ:262],[BFZ:264],[BFZ:261a],[BFZ:261],[BFZ:262a],[BFZ:261],[BFZ:262])([OGW:80])([OGW:41],[OGW:41],[OGW:83],[OGW:85],[OGW:78],[OGW:78],[OGW:79],[OGW:79],[OGW:79],[OGW:8])([OGW:42],[OGW:73],[OGW:73],[OGW:73],[OGW:149])([OGW:45],[OGW:88],[OGW:75],[OGW:11],[OGW:11])([OGW:74],[OGW:74])
+LAYOUT SIDEBOARD:(1,6)(COLOR_IDENTITY,false,50)|([BFZ:274],[BFZ:272],[OGW:123])([BFZ:267],[BFZ:269])([OGW:27])([OGW:151],[OGW:91],[OGW:92],[OGW:92],[OGW:92],[OGW:59],[OGW:92])([BFZ:256])([BFZ:260],[BFZ:262],[BFZ:260])

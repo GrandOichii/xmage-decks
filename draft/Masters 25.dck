@@ -1,0 +1,44 @@
+1 [A25:204] Gisela, Blade of Goldnight
+1 [A25:11] Decree of Justice
+1 [A25:25] Noble Templar
+2 [A25:13] Fencing Ace
+1 [A25:33] Savannah Lions
+1 [A25:23] Luminarch Ascension
+1 [A25:27] Ordeal of Heliod
+2 [A25:153] Thresher Lizard
+2 [A25:125] Chartooth Cougar
+2 [A25:143] Mogg Flunkies
+1 [A25:131] Frenzied Goblin
+1 [A25:129] Enthralling Victor
+1 [A25:119] Akroma, Angel of Fury
+1 [A25:155] Uncaged Fury
+1 [A25:137] Ire Shaman
+1 [A25:150] Skirk Commando
+1 [A25:133] Goblin War Drums
+1 [A25:127] Crimson Mage
+1 [A25:1] Act of Heroism
+3 [AKH:264] Mountain
+4 [AKH:265] Mountain
+4 [AKH:266] Mountain
+2 [AKH:250] Plains
+3 [AKH:256] Plains
+1 [AKH:255] Plains
+SB: 1 [A25:83] Deadly Designs
+SB: 2 [A25:41] Arcane Denial
+SB: 1 [A25:71] Retraction Helix
+SB: 1 [A25:220] Watchwolf
+SB: 1 [A25:82] Dark Ritual
+SB: 1 [A25:166] Echoing Courage
+SB: 1 [A25:151] Soulbright Flamekin
+SB: 1 [A25:34] Squadron Hawk
+SB: 1 [A25:22] Loyal Sentry
+SB: 1 [A25:7] Cloudshift
+SB: 1 [A25:118] Act of Treason
+SB: 1 [A25:6] Auramancer
+SB: 3 [A25:31] Renewed Faith
+SB: 2 [A25:8] Congregate
+SB: 1 [A25:145] Pyre Hound
+SB: 2 [A25:38] Valor in Akros
+SB: 1 [A25:126] Cinder Storm
+LAYOUT MAIN:(1,8)(CMC,false,50)|([AKH:264],[AKH:264],[AKH:265],[AKH:266],[AKH:266],[AKH:266],[AKH:266],[AKH:265],[AKH:265],[AKH:264],[AKH:265],[AKH:250],[AKH:250],[AKH:256],[AKH:256],[AKH:256],[AKH:255])([A25:131],[A25:33])([A25:13],[A25:137],[A25:23],[A25:143],[A25:143],[A25:27],[A25:127],[A25:1],[A25:13])([A25:133],[A25:150],[A25:153],[A25:153],[A25:155])([A25:11],[A25:129])([A25:125],[A25:125],[A25:25])([A25:204])([A25:119])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([A25:83],[A25:82])([A25:41],[A25:41],[A25:71])([A25:166])([A25:220])([A25:151],[A25:34],[A25:22],[A25:7],[A25:118],[A25:6],[A25:31],[A25:31],[A25:31],[A25:8],[A25:8],[A25:145],[A25:38],[A25:38],[A25:126])

@@ -1,0 +1,49 @@
+1 [M20:207] Creeping Trailblazer
+2 [M20:130] Chandra's Outrage
+1 [M20:145] Infuriate
+2 [M20:155] Reduce to Ashes
+1 [M20:157] Ripscale Predator
+1 [M20:137] Ember Hauler
+1 [M20:144] Goblin Smuggler
+1 [M20:128] Chandra, Novice Pyromancer
+1 [M20:147] Lavakin Brawler
+1 [M20:159] Scorch Spitter
+1 [M20:202] Wakeroot Elemental
+2 [M20:178] Leafkin Druid
+2 [M20:176] Healer of the Glade
+2 [M20:174] Greenwood Sentinel
+1 [M20:197] Thrashing Brontodon
+1 [M20:195] Silverback Shaman
+1 [M20:168] Centaur Courser
+1 [M20:170] Feral Invocation
+2 [M20:280] Forest
+1 [M20:279] Forest
+2 [M20:278] Forest
+3 [M20:277] Forest
+2 [M20:275] Mountain
+3 [M20:276] Mountain
+2 [M20:273] Mountain
+2 [M20:274] Mountain
+SB: 1 [M20:241] Vial of Dragonfire
+SB: 1 [M20:265] Island
+SB: 1 [M20:252] Swiftwater Cliffs
+SB: 1 [M20:97] Duress
+SB: 1 [M20:275] Mountain
+SB: 1 [M20:82] Zephyr Charge
+SB: 1 [M20:263] Plains
+SB: 1 [M20:214] Moldervine Reclamation
+SB: 1 [M20:280] Forest
+SB: 1 [M20:56] Drawn from Dreams
+SB: 1 [M20:48] Bone to Ash
+SB: 2 [M20:73] Sage's Row Denizen
+SB: 1 [M20:78] Unsummon
+SB: 1 [M20:269] Swamp
+SB: 1 [M20:243] Blossoming Sands
+SB: 1 [M20:267] Island
+SB: 1 [M20:195] Silverback Shaman
+SB: 1 [M20:170] Feral Invocation
+SB: 1 [M20:152] Pack Mastiff
+SB: 1 [M20:149] Maniacal Rage
+SB: 1 [M20:145] Infuriate
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M20:280],[M20:279],[M20:278],[M20:280],[M20:277],[M20:277],[M20:278],[M20:277],[M20:275],[M20:276],[M20:273],[M20:276],[M20:275],[M20:276],[M20:273],[M20:274],[M20:274])([M20:176],[M20:176],[M20:145],[M20:159])([M20:207],[M20:137],[M20:174],[M20:174],[M20:178],[M20:178])([M20:168],[M20:170],[M20:144],[M20:197])([M20:130],[M20:130],[M20:128],[M20:147])([M20:155],[M20:155],[M20:195])([M20:157],[M20:202])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([M20:241],[M20:265],[M20:252],[M20:275],[M20:263],[M20:280],[M20:269],[M20:243],[M20:267])([M20:97],[M20:145])([M20:82],[M20:56],[M20:48],[M20:73],[M20:78],[M20:73],[M20:152],[M20:149])([M20:214])([M20:195],[M20:170])

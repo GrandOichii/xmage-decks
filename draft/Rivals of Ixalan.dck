@@ -1,0 +1,31 @@
+2 [RIX:119] Swaggering Corsair
+1 [RIX:117] Storm Fleet Swashbuckler
+3 [RIX:101] Fanatical Firebrand
+5 [RIX:56] Soul of the Rapids
+1 [RIX:49] Sailor of Means
+1 [RIX:39] Hornswoggle
+1 [RIX:52] Secrets of the Golden City
+2 [RIX:36] Deadeye Rig-Hauler
+1 [RIX:156] Dire Fleet Neckbreaker
+2 [RIX:76] Impale
+2 [RIX:71] Fathom Fleet Boarder
+2 [RIX:155] Deadeye Brawler
+8 [RIX:193] Island
+4 [RIX:195] Mountain
+5 [RIX:194] Swamp
+SB: 1 [RIX:148] Thrashing Brontodon
+SB: 3 [RIX:74] Grasping Scoundrel
+SB: 1 [RIX:196] Forest
+SB: 3 [RIX:192] Plains
+SB: 1 [RIX:184] Traveler's Amulet
+SB: 1 [RIX:63] Canal Monitor
+SB: 1 [RIX:185] Arch of Orazca
+SB: 1 [RIX:75] Gruesome Fate
+SB: 1 [RIX:194] Swamp
+SB: 3 [RIX:96] Buccaneer's Bravado
+SB: 2 [RIX:38] Flood of Recollection
+SB: 1 [RIX:43] Mist-Cloaked Herald
+SB: 2 [RIX:47] River Darter
+SB: 1 [RIX:32] Aquatic Incursion
+LAYOUT MAIN:(1,6)(CMC,false,50)|([RIX:193],[RIX:193],[RIX:193],[RIX:193],[RIX:193],[RIX:193],[RIX:193],[RIX:193],[RIX:195],[RIX:195],[RIX:195],[RIX:195],[RIX:194],[RIX:194],[RIX:194],[RIX:194],[RIX:194])([RIX:101],[RIX:101],[RIX:101])([RIX:117])([RIX:39],[RIX:49],[RIX:52],[RIX:119],[RIX:119],[RIX:71],[RIX:71])([RIX:36],[RIX:36],[RIX:156],[RIX:76],[RIX:76],[RIX:155],[RIX:155])([RIX:56],[RIX:56],[RIX:56],[RIX:56],[RIX:56])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([RIX:196],[RIX:192],[RIX:184],[RIX:185],[RIX:192],[RIX:194],[RIX:192])([RIX:74],[RIX:74],[RIX:74],[RIX:63],[RIX:75])([RIX:148])([RIX:47])([RIX:47],[RIX:32])([RIX:96],[RIX:38],[RIX:38],[RIX:43])([RIX:96],[RIX:96])

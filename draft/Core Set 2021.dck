@@ -1,0 +1,46 @@
+1 [M21:101] Goremand
+1 [M21:109] Liliana's Devotee
+2 [M21:122] Silversmote Ghoul
+3 [M21:94] Deathbloom Thallid
+1 [M21:91] Caged Zombie
+1 [M21:104] Hooded Blightfang
+1 [M21:93] Crypt Lurker
+1 [M21:89] Bad Deal
+2 [M21:126] Village Rites
+1 [M21:129] Witch's Cauldron
+1 [M21:98] Fetid Imp
+2 [M21:158] Scorching Dragonfire
+1 [M21:149] Havoc Jester
+1 [M21:137] Chandra's Magmutt
+1 [M21:160] Soul Sear
+1 [M21:151] Hellkite Punisher
+1 [M21:134] Burn Bright
+2 [M21:217] Dire Fleet Warmonger
+2 [M21:269] Mountain
+1 [M21:312] Mountain
+1 [M21:270] Mountain
+2 [M21:271] Mountain
+2 [M21:266] Swamp
+3 [M21:311] Swamp
+3 [M21:268] Swamp
+2 [M21:267] Swamp
+SB: 1 [M21:251] Swiftwater Cliffs
+SB: 2 [M21:237] Silent Dart
+SB: 1 [M21:312] Mountain
+SB: 1 [M21:262] Plains
+SB: 1 [M21:274] Forest
+SB: 1 [M21:192] Life Goes On
+SB: 1 [M21:250] Scoured Barrens
+SB: 1 [M21:46] Cancel
+SB: 1 [M21:111] Liliana's Steward
+SB: 2 [M21:96] Duress
+SB: 1 [M21:115] Mind Rot
+SB: 2 [M21:121] Sanguine Indulgence
+SB: 1 [M21:119] Rise Again
+SB: 1 [M21:113] Masked Blackguard
+SB: 1 [M21:169] Turret Ogre
+SB: 1 [M21:93] Crypt Lurker
+SB: 1 [M21:129] Witch's Cauldron
+SB: 1 [M21:123] Skeleton Archer
+LAYOUT MAIN:(1,8)(CMC,false,50)|([M21:269],[M21:312],[M21:270],[M21:269],[M21:271],[M21:271],[M21:266],[M21:311],[M21:268],[M21:311],[M21:268],[M21:267],[M21:268],[M21:311],[M21:267],[M21:266])([M21:126],[M21:126],[M21:129])([M21:137],[M21:98],[M21:158],[M21:158])([M21:134],[M21:91],[M21:94],[M21:94],[M21:94],[M21:104],[M21:109],[M21:122],[M21:122],[M21:160],[M21:217],[M21:217])([M21:93])([M21:149])([M21:89],[M21:101])([M21:151])
+LAYOUT SIDEBOARD:(1,9)(COLOR,false,50)|([M21:251],[M21:237],[M21:312],[M21:237],[M21:262],[M21:274],[M21:250])([M21:121],[M21:121],[M21:119],[M21:113],[M21:93],[M21:129],[M21:123])([M21:46])([M21:192])([M21:111])([M21:96])([M21:96])([M21:115])([M21:169])

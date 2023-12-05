@@ -1,0 +1,43 @@
+2 [UMA:128] Faithless Looting
+2 [UMA:153] Undying Rage
+2 [UMA:143] Reckless Charge
+1 [UMA:151] Thermo-Alchemist
+1 [UMA:122] Anger
+1 [UMA:121] Akroan Crusader
+1 [UMA:167] Golgari Grave-Troll
+2 [UMA:181] Shed Weakness
+1 [UMA:164] Fauna Shaman
+1 [UMA:194] Wild Mongrel
+2 [UMA:158] Boar Umbra
+1 [UMA:170] Hooting Mandrills
+2 [UMA:178] Prey Upon
+1 [UMA:192] Wickerbough Elder
+1 [UMA:185] Staunch-Hearted Warrior
+2 [UMA:217] Murderous Redcap
+5 [CMR:511] Forest
+3 [CMR:510] Forest
+6 [CMR:509] Mountain
+3 [CMR:508] Mountain
+SB: 1 [UMA:226] Cathodion
+SB: 1 [UMA:44] Aethersnipe
+SB: 1 [UMA:105] Mark of the Vampire
+SB: 2 [UMA:54] Flight of Fancy
+SB: 2 [UMA:118] Twins of Maurer Estate
+SB: 1 [UMA:91] Dark Dabbling
+SB: 1 [UMA:92] Death Denied
+SB: 1 [UMA:114] Slum Reaper
+SB: 2 [UMA:78] Think Twice
+SB: 1 [UMA:21] Hyena Umbra
+SB: 1 [UMA:222] Shielding Plax
+SB: 2 [UMA:156] Basking Rootwalla
+SB: 1 [UMA:181] Shed Weakness
+SB: 1 [UMA:133] Generator Servant
+SB: 1 [UMA:191] Walker of the Grove
+SB: 1 [UMA:171] Kodama's Reach
+SB: 1 [UMA:141] Nightbird's Clutches
+SB: 1 [UMA:140] Molten Birth
+SB: 1 [M15:261] Swamp
+SB: 1 [M15:259] Swamp
+SB: 1 [CMR:508] Mountain
+LAYOUT MAIN:(1,7)(CMC,false,50)|([CMR:511],[CMR:511],[CMR:510],[CMR:511],[CMR:510],[CMR:511],[CMR:511],[CMR:509],[CMR:508],[CMR:509],[CMR:508],[CMR:509],[CMR:508],[CMR:509],[CMR:510],[CMR:509],[CMR:509])([UMA:121],[UMA:128],[UMA:128],[UMA:178],[UMA:178],[UMA:143],[UMA:143],[UMA:181],[UMA:181])([UMA:164],[UMA:151],[UMA:194])([UMA:158],[UMA:158],[UMA:153],[UMA:153])([UMA:122],[UMA:185],[UMA:192],[UMA:217],[UMA:217])([UMA:167])([UMA:170])
+LAYOUT SIDEBOARD:(1,9)(COLOR,false,50)|([UMA:226])([UMA:105],[UMA:118],[UMA:91],[UMA:92],[UMA:114],[UMA:181],[UMA:118],[M15:261])([M15:259],[CMR:508])([UMA:133])([UMA:141],[UMA:140])([UMA:171],[UMA:44],[UMA:54],[UMA:54],[UMA:78],[UMA:78],[UMA:156],[UMA:156])([UMA:21])([UMA:222])([UMA:191])

@@ -1,0 +1,46 @@
+1 [ORI:213] Citadel Castellan
+1 [ORI:177] Gaea's Revenge
+1 [ORI:184] Leaf Gilder
+3 [ORI:188] Might of the Masses
+1 [ORI:192] Orchard Spirit
+1 [ORI:193] Outland Colossus
+2 [ORI:201] Titanic Growth
+1 [ORI:204] Vastwood Gorger
+1 [ORI:208] Yeva's Forcemage
+1 [ORI:1] Akroan Jailer
+1 [ORI:8] Celestial Flare
+2 [ORI:9] Charging Griffin
+1 [ORI:15] Grasp of the Hieromancer
+1 [ORI:28] Patron of the Valiant
+1 [ORI:32] Stalwart Aven
+1 [ORI:36] Topan Freeblade
+1 [ORI:41] War Oracle
+2 [ORI:26] Mighty Leap
+4 [ORI:271] Forest
+1 [ORI:269] Forest
+1 [ORI:272] Forest
+2 [ORI:270] Forest
+3 [ORI:255] Plains
+2 [ORI:253] Plains
+3 [ORI:256] Plains
+1 [ORI:254] Plains
+SB: 1 [ORI:167] Volcanic Rambler
+SB: 1 [ORI:246] Evolving Wilds
+SB: 1 [ORI:256] Plains
+SB: 2 [ORI:124] Undead Servant
+SB: 1 [ORI:121] Thornbow Archer
+SB: 2 [ORI:264] Swamp
+SB: 1 [ORI:114] Read the Bones
+SB: 1 [ORI:123] Touch of Moonglove
+SB: 1 [ORI:271] Forest
+SB: 1 [ORI:116] Returned Centaur
+SB: 1 [ORI:255] Plains
+SB: 1 [ORI:204] Vastwood Gorger
+SB: 1 [ORI:13] Enshrouding Mist
+SB: 2 [ORI:10] Cleric of the Forward Order
+SB: 1 [ORI:187] Mantle of Webs
+SB: 1 [ORI:5] Auramancer
+SB: 1 [ORI:181] Hitchclaw Recluse
+SB: 2 [ORI:205] Vine Snare
+LAYOUT MAIN:(1,8)(CMC,false,50)|([ORI:271],[ORI:269],[ORI:271],[ORI:271],[ORI:272],[ORI:270],[ORI:270],[ORI:271],[ORI:255],[ORI:253],[ORI:256],[ORI:254],[ORI:256],[ORI:253],[ORI:256],[ORI:255],[ORI:255])([ORI:1],[ORI:188],[ORI:188],[ORI:188])([ORI:8],[ORI:15],[ORI:184],[ORI:201],[ORI:201],[ORI:36],[ORI:26],[ORI:26])([ORI:213],[ORI:192],[ORI:32],[ORI:208])([ORI:9],[ORI:9],[ORI:41])([ORI:193],[ORI:28])([ORI:204])([ORI:177])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([ORI:246],[ORI:271],[ORI:256],[ORI:255],[ORI:264],[ORI:264])([ORI:10],[ORI:114],[ORI:116],[ORI:121],[ORI:123],[ORI:13],[ORI:124],[ORI:124],[ORI:187])([ORI:5],[ORI:167],[ORI:10],[ORI:181],[ORI:205])([ORI:204],[ORI:205])

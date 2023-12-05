@@ -1,0 +1,45 @@
+2 [THS:193] Fleecemane Lion
+3 [THS:25] Ordeal of Heliod
+1 [THS:30] Setessan Griffin
+1 [THS:29] Setessan Battle Priest
+1 [THS:19] Hopeful Eidolon
+2 [THS:36] Wingsteed Rider
+1 [THS:33] Spear of Heliod
+2 [THS:35] Vanquish the Foul
+1 [THS:190] Chronicler of Heroes
+1 [THS:5] Chosen by Heliod
+1 [THS:24] Observant Alseid
+1 [THS:16] Gods Willing
+1 [THS:1] Battlewise Valor
+1 [THS:6] Dauntless Onslaught
+1 [THS:167] Nylea's Disciple
+1 [THS:155] Commune with the Gods
+1 [THS:154] Centaur Battlemaster
+1 [THS:184] Warriors' Lesson
+2 [THS:247] Forest
+2 [THS:248] Forest
+1 [THS:246] Forest
+1 [THS:249] Forest
+2 [THS:232] Plains
+5 [THS:230] Plains
+2 [THS:231] Plains
+2 [THS:233] Plains
+SB: 1 [THS:246] Forest
+SB: 1 [THS:50] Griptide
+SB: 1 [THS:249] Forest
+SB: 1 [THS:219] Prowler's Helm
+SB: 2 [THS:243] Mountain
+SB: 3 [THS:229] Unknown Shores
+SB: 1 [THS:230] Plains
+SB: 1 [THS:236] Island
+SB: 1 [THS:235] Island
+SB: 1 [THS:232] Plains
+SB: 1 [THS:30] Setessan Griffin
+SB: 1 [THS:7] Decorated Griffin
+SB: 2 [THS:10] Ephara's Warden
+SB: 1 [THS:22] Last Breath
+SB: 1 [THS:34] Traveling Philosopher
+SB: 1 [THS:190] Chronicler of Heroes
+SB: 2 [THS:5] Chosen by Heliod
+LAYOUT MAIN:(1,7)(CMC,false,50)|([THS:247],[THS:247],[THS:248],[THS:246],[THS:248],[THS:249],[THS:232],[THS:230],[THS:230],[THS:230],[THS:231],[THS:230],[THS:232],[THS:231],[THS:233],[THS:233],[THS:230])([THS:16],[THS:19],[THS:184])([THS:1],[THS:5],[THS:155],[THS:193],[THS:193],[THS:25],[THS:25],[THS:25],[THS:29])([THS:190],[THS:6],[THS:24],[THS:33],[THS:36],[THS:36])([THS:167])([THS:154],[THS:30])([THS:35],[THS:35])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([THS:246],[THS:249],[THS:219],[THS:243],[THS:229],[THS:230],[THS:236],[THS:229],[THS:229],[THS:235],[THS:243],[THS:232])([THS:50])([THS:30],[THS:22],[THS:34])([THS:7],[THS:190],[THS:5],[THS:5])([THS:10],[THS:10])

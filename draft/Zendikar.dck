@@ -1,0 +1,48 @@
+1 [ZEN:153] Unstable Footing
+1 [ZEN:139] Murasa Pyromancer
+1 [ZEN:150] Spire Barrage
+1 [ZEN:145] Ruinous Minotaur
+1 [ZEN:151] Torch Slinger
+2 [ZEN:125] Goblin Bushwhacker
+1 [ZEN:129] Goblin War Paint
+1 [ZEN:152] Tuktuk Grunts
+2 [ZEN:132] Highland Berserker
+1 [ZEN:141] Plated Geopede
+1 [ZEN:144] Quest for Pure Flame
+1 [ZEN:93] Guul Draz Vampire
+1 [ZEN:98] Hideous End
+1 [ZEN:87] Disfigure
+1 [ZEN:107] Ob Nixilis, the Fallen
+3 [ZEN:97] Heartstabber Mosquito
+1 [ZEN:85] Crypt Ripper
+2 [ZEN:115] Vampire Lacerator
+1 [ZEN:95] Hagra Diabolist
+3 [ZEN:245a] Mountain
+1 [ZEN:244a] Mountain
+2 [ZEN:242] Mountain
+1 [ZEN:242a] Mountain
+1 [ZEN:243a] Mountain
+3 [ZEN:240] Swamp
+1 [ZEN:238a] Swamp
+2 [ZEN:240a] Swamp
+1 [ZEN:241a] Swamp
+1 [ZEN:241] Swamp
+SB: 1 [ZEN:183] Scythe Tiger
+SB: 1 [ZEN:78] Windrider Eel
+SB: 1 [ZEN:76] Welkin Tern
+SB: 3 [ZEN:222] Piranha Marsh
+SB: 1 [ZEN:192] Vastwood Gorger
+SB: 1 [ZEN:201] Expedition Map
+SB: 1 [ZEN:247] Forest
+SB: 1 [ZEN:239] Swamp
+SB: 1 [ZEN:232] Plains
+SB: 1 [ZEN:225] Soaring Seacliff
+SB: 1 [ZEN:240] Swamp
+SB: 1 [ZEN:245] Mountain
+SB: 1 [ZEN:246] Forest
+SB: 1 [ZEN:237] Island
+SB: 3 [ZEN:117] Vampire's Bite
+SB: 1 [ZEN:155] Zektar Shrine Expedition
+SB: 1 [ZEN:118] Bladetusk Boar
+LAYOUT MAIN:(1,7)(CMC,false,50)|([ZEN:245a],[ZEN:245a],[ZEN:244a],[ZEN:242],[ZEN:245a],[ZEN:242a],[ZEN:242],[ZEN:243a],[ZEN:240],[ZEN:238a],[ZEN:240a],[ZEN:240],[ZEN:241a],[ZEN:240],[ZEN:240a],[ZEN:241])([ZEN:87],[ZEN:125],[ZEN:125],[ZEN:93],[ZEN:144],[ZEN:153],[ZEN:115],[ZEN:115])([ZEN:129],[ZEN:132],[ZEN:132],[ZEN:141])([ZEN:98],[ZEN:145],[ZEN:151])([ZEN:85],[ZEN:97],[ZEN:97],[ZEN:97])([ZEN:95],[ZEN:107],[ZEN:150],[ZEN:152])([ZEN:139])
+LAYOUT SIDEBOARD:(1,3)(COLOR,false,50)|([ZEN:222],[ZEN:201],[ZEN:247],[ZEN:222],[ZEN:239],[ZEN:232],[ZEN:225],[ZEN:222],[ZEN:240],[ZEN:245],[ZEN:246],[ZEN:237])([ZEN:78],[ZEN:76],[ZEN:117],[ZEN:117],[ZEN:117],[ZEN:155],[ZEN:118])([ZEN:183],[ZEN:192])

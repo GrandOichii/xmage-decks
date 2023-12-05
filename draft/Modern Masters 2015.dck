@@ -1,0 +1,47 @@
+3 [MM2:9] Arrest
+3 [MM2:8] Apostle's Blessing
+1 [MM2:31] Raise the Alarm
+1 [MM2:35] Sunspear Shikari
+1 [MM2:17] Fortify
+1 [MM2:100] Thief of Hope
+1 [MM2:73] Bone Splinters
+2 [MM2:84] Grim Affliction
+1 [MM2:87] Nameless Inversion
+1 [MM2:72] Bloodthrone Vampire
+1 [MM2:89] Plagued Rusalka
+1 [MM2:101] Vampire Lacerator
+1 [MM2:79] Dismember
+1 [MM2:81] Duskhunter Bat
+1 [MM2:85] Instill Infection
+1 [MM2:83] Ghostly Changeling
+1 [MM2:196] Restless Apparition
+1 [MM2:202] Blinding Souleater
+1 [AFR:264] Plains
+3 [AFR:265] Plains
+2 [AFR:262] Plains
+1 [AFR:263] Plains
+1 [AFR:270] Swamp
+4 [AFR:273] Swamp
+5 [AFR:272] Swamp
+SB: 1 [MM2:174] Electrolyze
+SB: 1 [MM2:205] Copper Carapace
+SB: 1 [MM2:61] Telling Time
+SB: 1 [MM2:140] Aquastrand Spider
+SB: 1 [MM2:235] Azorius Chancery
+SB: 2 [MM2:162] Simic Initiate
+SB: 1 [MM2:142] Commune with Nature
+SB: 1 [MM2:248] Selesnya Sanctuary
+SB: 1 [MM2:39] Aethersnipe
+SB: 2 [MM2:160] Scion of the Wild
+SB: 1 [MM2:144] Gnarlid Pack
+SB: 1 [MM2:147] Kozilek's Predator
+SB: 1 [MM2:124] Smash to Smithereens
+SB: 1 [MM2:233] Tumble Magnet
+SB: 1 [MM2:145] Karplusan Strider
+SB: 1 [MM2:143] Cytoplast Root-Kin
+SB: 1 [MM2:164] Sylvan Bounty
+SB: 1 [MM2:163] Sundering Vitae
+SB: 1 [MM2:157] Rampant Growth
+SB: 1 [MM2:38] Waxmane Baku
+LAYOUT MAIN:(1,5)(CMC,false,50)|([AFR:264],[AFR:265],[AFR:265],[AFR:265],[AFR:262],[AFR:262],[AFR:263],[AFR:270],[AFR:273],[AFR:273],[AFR:273],[AFR:272],[AFR:273],[AFR:272],[AFR:272],[AFR:272],[AFR:272])([MM2:73],[MM2:89],[MM2:101])([MM2:8],[MM2:8],[MM2:8],[MM2:72],[MM2:81],[MM2:87],[MM2:31],[MM2:35])([MM2:9],[MM2:9],[MM2:9],[MM2:202],[MM2:79],[MM2:17],[MM2:83],[MM2:84],[MM2:84],[MM2:196],[MM2:100])([MM2:85])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([MM2:205],[MM2:235],[MM2:248],[MM2:233])([MM2:61],[MM2:39])([MM2:140],[MM2:162],[MM2:142],[MM2:160],[MM2:144],[MM2:147],[MM2:145],[MM2:143],[MM2:164],[MM2:163],[MM2:160],[MM2:157],[MM2:162])([MM2:124])([MM2:174])([MM2:38])

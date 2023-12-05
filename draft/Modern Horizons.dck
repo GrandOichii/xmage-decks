@@ -1,0 +1,48 @@
+1 [MH1:127] Goblin Champion
+1 [MH1:131] Goblin War Party
+1 [MH1:135] Magmatic Sinkhole
+1 [MH1:209] Munitions Expert
+2 [MH1:94] Graveshifter
+2 [MH1:95] Headless Specter
+2 [MH1:113] Unearth
+1 [MH1:116] Yawgmoth, Thran Physician
+1 [MH1:97] Mob
+2 [MH1:108] Sling-Gang Lieutenant
+2 [MH1:114] Venomous Changeling
+1 [MH1:115] Warteye Witch
+1 [MH1:107] Silumgar Scavenger
+2 [MH1:90] Feaster of Fools
+1 [MH1:86] Defile
+1 [MH1:101] Putrid Goblin
+1 [MH1:91] First-Sphere Gargantua
+1 [M21:270] Mountain
+1 [M21:312] Mountain
+1 [M21:269] Mountain
+5 [M21:267] Swamp
+5 [M21:311] Swamp
+2 [M21:266] Swamp
+2 [M21:268] Swamp
+SB: 1 [MH1:178] Savage Swipe
+SB: 1 [MH1:12] Gilded Light
+SB: 1 [MH1:181] Springbloom Druid
+SB: 1 [MH1:194] Abominable Treefolk
+SB: 1 [MH1:162] Elvish Fury
+SB: 1 [MH1:253] Snow-Covered Mountain
+SB: 1 [MH1:171] Mother Bear
+SB: 1 [MH1:187] Trumpeting Herd
+SB: 2 [MH1:91] First-Sphere Gargantua
+SB: 1 [MH1:107] Silumgar Scavenger
+SB: 3 [MH1:114] Venomous Changeling
+SB: 1 [MH1:82] Changeling Outcast
+SB: 1 [MH1:83] Cordial Vampire
+SB: 1 [MH1:95] Headless Specter
+SB: 1 [MH1:154] Volatile Claws
+SB: 2 [MH1:79] Azra Smokeshaper
+SB: 1 [MH1:144] Reckless Charge
+SB: 1 [MH1:136] Orcish Hellraiser
+SB: 2 [UST:215] Mountain
+SB: 15 [UST:214] Swamp
+SB: 3 [UGL:87] Mountain
+SB: 14 [UGL:86] Swamp
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M21:270],[M21:312],[M21:269],[M21:267],[M21:267],[M21:311],[M21:311],[M21:267],[M21:267],[M21:266],[M21:268],[M21:267],[M21:311],[M21:266],[M21:311],[M21:311],[M21:268])([MH1:86],[MH1:127],[MH1:113],[MH1:113])([MH1:209],[MH1:101])([MH1:95],[MH1:95],[MH1:114],[MH1:114],[MH1:115])([MH1:131],[MH1:94],[MH1:94],[MH1:108],[MH1:108],[MH1:116])([MH1:97],[MH1:107])([MH1:90],[MH1:90],[MH1:91],[MH1:135])
+LAYOUT SIDEBOARD:(2,8)(COLOR,false,50)|([MH1:253],[UST:215],[UST:215],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UGL:87],[UGL:87],[UGL:87],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UGL:86],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214],[UST:214])([MH1:178],[MH1:181],[MH1:162],[MH1:171],[MH1:187])([MH1:12],[MH1:82])([MH1:194])([MH1:91],[MH1:83],[MH1:144])([MH1:91],[MH1:114],[MH1:95])([MH1:79],[MH1:114],[MH1:79])([MH1:114],[MH1:107])()()()()([MH1:136])()([MH1:154])()

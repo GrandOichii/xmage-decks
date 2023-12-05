@@ -1,0 +1,45 @@
+1 [M10:4] Baneslayer Angel
+1 [M10:6] Captain of the Watch
+1 [M10:13] Guardian Seraph
+1 [M10:12] Griffin Sentinel
+3 [M10:32] Silvercoat Lion
+1 [M10:18] Lifelink
+1 [M10:35] Stormfront Pegasus
+1 [M10:30] Siege Mastodon
+3 [M10:72] Snapping Drake
+2 [M10:61] Merfolk Looter
+1 [M10:81] Wind Drake
+1 [M10:56] Ice Cage
+1 [M10:66] Phantom Warrior
+1 [M10:79] Unsummon
+1 [M10:63] Mind Control
+1 [M10:82] Zephyr Sprite
+1 [M10:57] Illusionary Servant
+1 [M10:68] Ponder
+1 [M10:229] Terramorphic Expanse
+3 [M10:236] Island
+4 [M10:235] Island
+2 [M10:237] Island
+2 [M10:232] Plains
+3 [M10:230] Plains
+1 [M10:231] Plains
+1 [M10:233] Plains
+SB: 1 [M10:247] Forest
+SB: 1 [M10:235] Island
+SB: 1 [M10:160] Trumpet Blast
+SB: 2 [M10:233] Plains
+SB: 1 [M10:231] Plains
+SB: 1 [M10:230] Plains
+SB: 1 [M10:96] Duress
+SB: 1 [M10:48] Disorient
+SB: 2 [M10:60] Levitation
+SB: 1 [M10:55] Horned Turtle
+SB: 1 [M10:28] Safe Passage
+SB: 2 [M10:46] Convincing Mirage
+SB: 1 [M10:11] Glorious Charge
+SB: 2 [M10:15] Holy Strength
+SB: 1 [M10:18] Lifelink
+SB: 1 [M10:76] Tome Scour
+SB: 1 [M10:69] Sage Owl
+LAYOUT MAIN:(1,7)(CMC,false,50)|([M10:236],[M10:235],[M10:235],[M10:237],[M10:236],[M10:235],[M10:237],[M10:236],[M10:235],[M10:232],[M10:230],[M10:231],[M10:230],[M10:230],[M10:232],[M10:233])([M10:18],[M10:68],[M10:79],[M10:82],[M10:229])([M10:56],[M10:61],[M10:61],[M10:32],[M10:32],[M10:35],[M10:32])([M10:12],[M10:57],[M10:66],[M10:81])([M10:13],[M10:72],[M10:72],[M10:72])([M10:4],[M10:63],[M10:30])([M10:6])
+LAYOUT SIDEBOARD:(1,7)(COLOR,false,50)|([M10:247],[M10:235],[M10:233],[M10:231],[M10:233],[M10:230])([M10:76],[M10:96],[M10:15],[M10:18])([M10:46],[M10:46],[M10:11],[M10:15],[M10:69])([M10:28])([M10:160],[M10:55])([M10:48])([M10:60],[M10:60])

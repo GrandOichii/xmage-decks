@@ -1,0 +1,38 @@
+1 [BNG:31] Arbiter of the Ideal
+2 [BNG:32] Archetype of Imagination
+1 [BNG:128] Nessian Demolok
+3 [BNG:134] Pheres-Band Tromper
+2 [BNG:51] Sphinx's Disciple
+2 [BNG:49] Retraction Helix
+1 [BNG:34] Crypsis
+3 [BNG:53] Sudden Storm
+2 [BNG:138] Setessan Oathsworn
+1 [BNG:46] Nyxborn Triton
+1 [BNG:37] Eternity Snare
+1 [BNG:36] Divination
+1 [BNG:33] Chorus of the Tides
+2 [BNG:117] Aspect of Hydra
+3 [THS:246] Forest
+3 [THS:249] Forest
+1 [THS:247] Forest
+5 [THS:237] Island
+2 [THS:234] Island
+1 [THS:236] Island
+2 [THS:235] Island
+SB: 1 [THS:231] Plains
+SB: 2 [THS:237] Island
+SB: 1 [THS:247] Forest
+SB: 1 [BNG:113] Thunder Brute
+SB: 2 [BNG:131] Nyxborn Wolf
+SB: 3 [BNG:38] Evanescent Intellect
+SB: 1 [BNG:127] Mortal's Resolve
+SB: 1 [BNG:142] Swordwise Centaur
+SB: 2 [BNG:52] Stratus Walk
+SB: 1 [BNG:45] Nullify
+SB: 2 [BNG:120] Culling Mark
+SB: 1 [BNG:36] Divination
+SB: 1 [BNG:49] Retraction Helix
+SB: 1 [BNG:122] Graverobber Spider
+SB: 2 [BNG:125] Karametra's Favor
+LAYOUT MAIN:(1,7)(CMC,false,50)|([THS:246],[THS:249],[THS:247],[THS:249],[THS:249],[THS:246],[THS:246],[THS:237],[THS:234],[THS:236],[THS:235],[THS:237],[THS:237],[THS:237],[THS:237],[THS:234],[THS:235])([BNG:117],[BNG:49],[BNG:49],[BNG:117])([BNG:34])([BNG:36],[BNG:46],[BNG:138],[BNG:138])([BNG:33],[BNG:134],[BNG:134],[BNG:134],[BNG:53],[BNG:53],[BNG:53])([BNG:128],[BNG:51],[BNG:51])([BNG:31],[BNG:32],[BNG:32],[BNG:37])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([THS:231],[THS:237],[THS:247],[THS:237])([BNG:113],[BNG:52],[BNG:38],[BNG:38],[BNG:45],[BNG:52],[BNG:38],[BNG:127],[BNG:142],[BNG:49])([BNG:131],[BNG:131],[BNG:120],[BNG:36])([BNG:120],[BNG:125],[BNG:125])([BNG:122])

@@ -1,0 +1,44 @@
+3 [ISD:158] Rakish Heir
+2 [ISD:131] Bloodcrazed Neonate
+2 [ISD:143] Furor of the Bitten
+1 [ISD:151] Kessig Wolf
+1 [ISD:135] Crossway Vampire
+1 [ISD:150] Into the Maw of Hell
+1 [ISD:153] Night Revelers
+1 [ISD:123] Vampire Interloper
+1 [ISD:126] Walking Corpse
+2 [ISD:103] Gruesome Deformity
+1 [ISD:114] Screeching Bat
+1 [ISD:86] Altar's Reap
+2 [ISD:107] Markov Patrician
+1 [ISD:110] Morkrut Banshee
+1 [ISD:101] Ghoulcaller's Chant
+1 [ISD:116] Skeletal Grimace
+1 [ISD:93] Corpse Lunge
+1 [ISD:259] Mountain
+5 [ISD:260] Mountain
+2 [ISD:261] Mountain
+4 [ISD:257] Swamp
+3 [ISD:258] Swamp
+2 [ISD:256] Swamp
+SB: 1 [ISD:84] Undead Alchemist
+SB: 1 [ISD:58] Grasp of Phantoms
+SB: 1 [ISD:188] Hollowhenge Scavenger
+SB: 1 [ISD:258] Swamp
+SB: 1 [ISD:184] Grave Bramble
+SB: 1 [ISD:250] Plains
+SB: 2 [ISD:259] Mountain
+SB: 3 [ISD:253] Island
+SB: 1 [ISD:261] Mountain
+SB: 1 [ISD:190] Kindercatch
+SB: 1 [ISD:83] Think Twice
+SB: 1 [ISD:51] Delver of Secrets
+SB: 1 [ISD:251] Plains
+SB: 1 [ISD:255] Island
+SB: 1 [ISD:45] Battleground Geist
+SB: 1 [ISD:257] Swamp
+SB: 1 [ISD:55] Forbidden Alchemy
+SB: 1 [ISD:54] Dream Twist
+SB: 1 [ISD:103] Gruesome Deformity
+LAYOUT MAIN:(1,6)(CMC,false,50)|([ISD:259],[ISD:260],[ISD:260],[ISD:260],[ISD:261],[ISD:260],[ISD:261],[ISD:260],[ISD:257],[ISD:258],[ISD:257],[ISD:256],[ISD:258],[ISD:257],[ISD:258],[ISD:256],[ISD:257])([ISD:143],[ISD:143],[ISD:101],[ISD:103],[ISD:103])([ISD:86],[ISD:131],[ISD:131],[ISD:116],[ISD:123],[ISD:126])([ISD:93],[ISD:135],[ISD:151],[ISD:107],[ISD:107],[ISD:158],[ISD:158],[ISD:158],[ISD:114])([ISD:110],[ISD:153])([ISD:150])
+LAYOUT SIDEBOARD:(1,4)(COLOR,false,50)|([ISD:258],[ISD:250],[ISD:259],[ISD:253],[ISD:253],[ISD:259],[ISD:261],[ISD:251],[ISD:255],[ISD:257],[ISD:253])([ISD:84],[ISD:58],[ISD:83],[ISD:51],[ISD:45],[ISD:55],[ISD:54])([ISD:188],[ISD:184],[ISD:190])([ISD:103])

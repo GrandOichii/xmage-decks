@@ -1,0 +1,46 @@
+1 [DOM:202] Raff Capashen, Ship's Mage
+2 [DOM:7] Blessed Light
+1 [DOM:54] In Bolas's Clutches
+2 [DOM:66] Slinn Voda, the Rising Deep
+1 [DOM:4] Baird, Steward of Argive
+1 [DOM:62] Relic Runner
+1 [DOM:8] Board the Weatherlight
+1 [DOM:12] Danitha Capashen, Paragon
+1 [DOM:44] Artificer's Assistant
+1 [DOM:19] Gideon's Reproach
+1 [DOM:28] On Serra's Wings
+1 [DOM:50] Deep Freeze
+1 [DOM:13] Daring Archaeologist
+1 [DOM:29] Pegasus Courser
+1 [DOM:51] Diligent Excavator
+1 [DOM:43] Arcane Flight
+1 [DOM:229] Short Sword
+2 [DOM:232] Sparring Construct
+1 [DOM:209] Aesthir Glider
+1 [DOM:222] Juggernaut
+2 [DOM:257] Island
+3 [DOM:254] Island
+3 [DOM:255] Island
+1 [DOM:256] Island
+2 [DOM:251] Plains
+4 [DOM:252] Plains
+2 [DOM:253] Plains
+SB: 1 [DOM:254] Island
+SB: 1 [DOM:261] Swamp
+SB: 1 [DOM:250] Plains
+SB: 2 [DOM:251] Plains
+SB: 1 [DOM:257] Island
+SB: 1 [DOM:228] Shield of the Realm
+SB: 1 [DOM:255] Island
+SB: 1 [DOM:263] Mountain
+SB: 1 [DOM:269] Forest
+SB: 4 [DOM:43] Arcane Flight
+SB: 1 [DOM:10] Charge
+SB: 1 [DOM:20] Healing Grace
+SB: 1 [DOM:213] Damping Sphere
+SB: 1 [DOM:249] Zhalfirin Void
+SB: 2 [DOM:72] Unwind
+SB: 1 [DOM:41] Academy Journeymage
+SB: 1 [DOM:15] Dub
+LAYOUT MAIN:(1,8)(CMC,false,50)|([DOM:257],[DOM:254],[DOM:255],[DOM:255],[DOM:254],[DOM:254],[DOM:257],[DOM:256],[DOM:255],[DOM:251],[DOM:252],[DOM:252],[DOM:252],[DOM:253],[DOM:252],[DOM:253],[DOM:251])([DOM:43],[DOM:44],[DOM:229],[DOM:232],[DOM:232])([DOM:8],[DOM:51],[DOM:19],[DOM:62])([DOM:209],[DOM:12],[DOM:50],[DOM:29])([DOM:4],[DOM:13],[DOM:222],[DOM:28],[DOM:202])([DOM:7],[DOM:7])([DOM:54])([DOM:66],[DOM:66])
+LAYOUT SIDEBOARD:(1,6)(COLOR,false,50)|([DOM:254],[DOM:261],[DOM:250],[DOM:251],[DOM:257],[DOM:251],[DOM:228],[DOM:255],[DOM:263],[DOM:269])([DOM:43],[DOM:43],[DOM:43])([DOM:43],[DOM:10],[DOM:20])([DOM:213],[DOM:72],[DOM:15])([DOM:249],[DOM:72])([DOM:41])

@@ -1,0 +1,40 @@
+1 [CMR:20] Faith's Fetters
+1 [CMR:203] Stonefury
+2 [CMR:8] Anointer of Valor
+2 [CMR:205] Undying Rage
+2 [CMR:14] Cage of Hands
+1 [CMR:21] Fencing Ace
+1 [CMR:25] Iona's Judgment
+2 [CMR:199] Skyraker Giant
+1 [CMR:33] Ninth Bridge Patrol
+1 [CMR:171] Crimson Fleet Commodore
+2 [CMR:7] Angelic Gift
+2 [CMR:41] Raise the Alarm
+1 [CMR:46] Skywhaler's Shot
+1 [CMR:164] Brazen Freebooter
+1 [CMR:51] Squad Captain
+1 [CMR:23] Inspiring Roar
+2 [CMR:13] Benevolent Blessing
+7 [CMR:508] Mountain
+3 [CMR:505] Plains
+6 [CMR:504] Plains
+SB: 1 [CMR:357] Terramorphic Expanse
+SB: 1 [CMR:124] Eyeblight Cullers
+SB: 1 [CMR:355] Rupture Spire
+SB: 2 [CMR:223] Elvish Visionary
+SB: 2 [CMR:243] Molder Beast
+SB: 1 [CMR:83] Omenspeaker
+SB: 1 [CMR:118] Demonic Lore
+SB: 1 [CMR:229] Gift of Paradise
+SB: 1 [CMR:56] Aqueous Form
+SB: 1 [CMR:70] Galestrike
+SB: 1 [CMR:269] Averna, the Chaos Bloom
+SB: 1 [CMR:18] Dispeller's Capsule
+SB: 1 [CMR:13] Benevolent Blessing
+SB: 1 [CMR:198] Rummaging Goblin
+SB: 2 [CMR:53] Trusty Packbeast
+SB: 1 [CMR:206] Valakut Invoker
+SB: 1 [CMR:194] Portent of Betrayal
+SB: 1 [CMR:205] Undying Rage
+LAYOUT MAIN:(1,6)(CMC,false,50)|([CMR:508],[CMR:508],[CMR:508],[CMR:508],[CMR:508],[CMR:508],[CMR:508],[CMR:505],[CMR:504],[CMR:504],[CMR:504],[CMR:505],[CMR:505],[CMR:504],[CMR:504],[CMR:504])([CMR:7],[CMR:7],[CMR:13],[CMR:13],[CMR:21],[CMR:33],[CMR:41],[CMR:41])([CMR:14],[CMR:14],[CMR:46],[CMR:205],[CMR:205])([CMR:164],[CMR:171],[CMR:20],[CMR:23],[CMR:199],[CMR:199])([CMR:25],[CMR:51],[CMR:203])([CMR:8],[CMR:8])
+LAYOUT SIDEBOARD:(1,5)(COLOR,false,50)|([CMR:357],[CMR:355])([CMR:198],[CMR:124],[CMR:118])([CMR:83],[CMR:56],[CMR:70],[CMR:194],[CMR:13],[CMR:53],[CMR:53],[CMR:206],[CMR:205])([CMR:223],[CMR:243],[CMR:229],[CMR:243],[CMR:223],[CMR:18])([CMR:269])

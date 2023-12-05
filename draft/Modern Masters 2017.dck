@@ -1,0 +1,47 @@
+1 [MM3:160] Dinrova Horror
+1 [MM3:173] Moroii
+1 [MM3:53] Tandem Lookout
+1 [MM3:52] Spire Monitor
+1 [MM3:34] Crippling Chill
+1 [MM3:47] Rewind
+1 [MM3:30] Augur of Bolas
+1 [MM3:48] Sea Gate Oracle
+1 [MM3:58] Wingcrafter
+1 [MM3:66] Desecration Demon
+2 [MM3:71] Gnawing Zombie
+2 [MM3:74] Grixis Slavedriver
+1 [MM3:86] Vampire Aristocrat
+3 [MM3:73] Grisly Spectacle
+1 [MM3:70] Falkenrath Noble
+1 [MM3:68] Entomber Exarch
+1 [MM3:69] Extractor Demon
+1 [MM3:67] Dregscape Zombie
+1 [MM3:60] Bone Splinters
+3 [AFR:269] Island
+2 [AFR:268] Island
+1 [AFR:266] Island
+3 [AFR:273] Swamp
+6 [AFR:272] Swamp
+1 [AFR:271] Swamp
+1 [AFR:270] Swamp
+SB: 1 [MM3:219] Dimir Signet
+SB: 1 [MM3:230] Azorius Guildgate
+SB: 1 [MM3:181] Sedraxis Specter
+SB: 1 [MM3:237] Izzet Guildgate
+SB: 2 [MM3:235] Golgari Guildgate
+SB: 1 [MM3:234] Dimir Guildgate
+SB: 1 [MM3:99] Madcap Skills
+SB: 1 [MM3:203] Woolly Thoctar
+SB: 1 [MM3:196] Tower Gargoyle
+SB: 1 [MM3:176] Obzedat, Ghost Council
+SB: 1 [MM3:154] Call of the Conclave
+SB: 2 [MM3:65] Delirium Skeins
+SB: 1 [MM3:39] Ghostly Flicker
+SB: 1 [MM3:82] Recover
+SB: 1 [MM3:81] Pit Keeper
+SB: 2 [MM3:60] Bone Splinters
+SB: 1 [MM3:75] Inquisition of Kozilek
+SB: 1 [MM3:51] Spell Pierce
+SB: 1 [MM3:80] Ogre Jailbreaker
+LAYOUT MAIN:(1,7)(CMC,false,50)|([AFR:269],[AFR:268],[AFR:269],[AFR:268],[AFR:266],[AFR:269],[AFR:273],[AFR:272],[AFR:272],[AFR:272],[AFR:271],[AFR:273],[AFR:272],[AFR:273],[AFR:272],[AFR:270],[AFR:272])([MM3:60],[MM3:58])([MM3:30],[MM3:67],[MM3:71],[MM3:71])([MM3:34],[MM3:48],[MM3:53],[MM3:86])([MM3:66],[MM3:68],[MM3:70],[MM3:73],[MM3:73],[MM3:73],[MM3:173],[MM3:47])([MM3:52])([MM3:160],[MM3:69],[MM3:74],[MM3:74])
+LAYOUT SIDEBOARD:(1,8)(COLOR,false,50)|([MM3:219],[MM3:230],[MM3:237],[MM3:235],[MM3:234],[MM3:235])([MM3:99])([MM3:181],[MM3:203],[MM3:196],[MM3:176],[MM3:154])([MM3:65],[MM3:65],[MM3:75],[MM3:80])([MM3:60],[MM3:51])([MM3:39],[MM3:60])([MM3:82])([MM3:81])
